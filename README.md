@@ -52,6 +52,13 @@ php bin/magento setup:static-content:deploy ru-ru
 
 ```
 
+#### Authentication required (Optional)
+
+[Authentication required](https://i.imgur.com/dmryiPk.png)
+
+If you have not added this authentication, you can follow [this guide](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html)
+
+
 ### #2. Copy & Paste method
 
 This method suitable for non-technical people such as merchants. Just download the package then flush cache.
