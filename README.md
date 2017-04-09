@@ -36,7 +36,7 @@ Install the Russian language pack via composer is never easier.
 **Install Russian pack**:
 
 ```
-composer require mageplaza/magento-2-russian-language-pack:*
+composer require mageplaza/magento-2-russian-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy ru-ru
 
@@ -46,7 +46,7 @@ php bin/magento setup:static-content:deploy ru-ru
 **Update  Russian pack**:
 
 ```
-composer update mageplaza/magento-2-russian-language-pack:*
+composer update mageplaza/magento-2-russian-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy ru-ru
 
