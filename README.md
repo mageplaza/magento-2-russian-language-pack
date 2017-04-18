@@ -38,7 +38,7 @@ Install the Russian language pack via composer is never easier.
 ```
 composer require mageplaza/magento-2-russian-language-pack:dev-master
 php bin/magento cache:clean
-php bin/magento setup:static-content:deploy ru-ru
+php bin/magento setup:static-content:deploy ru_RU
 
 ```
 
@@ -48,7 +48,7 @@ php bin/magento setup:static-content:deploy ru-ru
 ```
 composer update mageplaza/magento-2-russian-language-pack:dev-master
 php bin/magento cache:clean
-php bin/magento setup:static-content:deploy ru-ru
+php bin/magento setup:static-content:deploy ru_RU
 
 ```
 
@@ -132,12 +132,15 @@ Contribute to this language at https://crowdin.com/project/magento-2/ru
 - Magento v2.0.9
 - Magento v2.0.10
 - Magento v2.0.11
+- Magento v2.0.12
+- Magento v2.0.13
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
 - Magento v2.1.3
 - Magento v2.1.4
 - Magento v2.1.5
+- Magento v2.1.6
 
 
 
