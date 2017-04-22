@@ -2726,6 +2726,7 @@ Payment,Payment,module,Magento_Checkout
 "Not yet calculated","Not yet calculated",module,Magento_Checkout
 "We received your order!","We received your order!",module,Magento_Checkout
 "Thank you for your purchase!","Thank you for your purchase!",module,Magento_Checkout
+"Go to Checkout","Go to Checkout",module,Magento_Checkout
 "Terms and Conditions","Условия и соглашения",module,Magento_CheckoutAgreements
 "Add New Condition","Добавить новое условие",module,Magento_CheckoutAgreements
 "Save Condition","Сохранить условие",module,Magento_CheckoutAgreements
@@ -8841,77 +8842,77 @@ Category,Категория,module,Magento_Rule
 "This won't take long . . .","This won't take long . . .",module,Magento_Rule
 "Credit Memos","Credit Memos",module,Magento_Sales
 Orders,Заказы,module,Magento_Sales
-Invoices,Invoices,module,Magento_Sales
+Invoices,Счета,module,Magento_Sales
 "We can't get the order instance right now.","We can't get the order instance right now.",module,Magento_Sales
 "Create New Order","Создать новый заказ",module,Magento_Sales
-"Save Order Address","Save Order Address",module,Magento_Sales
+"Save Order Address","Сохранить адрес заказа",module,Magento_Sales
 Shipping,Доставка,module,Magento_Sales
-Billing,Billing,module,Magento_Sales
-"Edit Order %1 %2 Address","Edit Order %1 %2 Address",module,Magento_Sales
-"Order Address Information","Order Address Information",module,Magento_Sales
-"Please correct the parent block for this block.","Please correct the parent block for this block.",module,Magento_Sales
-"Submit Comment","Submit Comment",module,Magento_Sales
-"Submit Order","Submit Order",module,Magento_Sales
-"Are you sure you want to cancel this order?","Are you sure you want to cancel this order?",module,Magento_Sales
+Billing,"Выставление счетов",module,Magento_Sales
+"Edit Order %1 %2 Address","Изменить адрес заказа %1 %2",module,Magento_Sales
+"Order Address Information","Адрес заказчика",module,Magento_Sales
+"Please correct the parent block for this block.","Пожалуйста, исправьте родительский блок для этого блока.",module,Magento_Sales
+"Submit Comment","Оставить комментарий",module,Magento_Sales
+"Submit Order","Отправить заказ",module,Magento_Sales
+"Are you sure you want to cancel this order?","Вы уверены, что вы хотите отменить этот заказ?",module,Magento_Sales
 Cancel,Отмена,module,Magento_Sales
-"Billing Address","Billing Address",module,Magento_Sales
+"Billing Address","Адрес доставки",module,Magento_Sales
 "Payment Method","Метод оплаты",module,Magento_Sales
-"Order Comment","Order Comment",module,Magento_Sales
-Coupons,Coupons,module,Magento_Sales
-"Please select a customer","Please select a customer",module,Magento_Sales
+"Order Comment","Комментарии к заказу",module,Magento_Sales
+Coupons,Купоны,module,Magento_Sales
+"Please select a customer","Пожалуйста выберите клиента",module,Magento_Sales
 "Create New Customer","Создать нового клиента",module,Magento_Sales
 "Account Information","Данные учётной записи",module,Magento_Sales
 From,от,module,Magento_Sales
 To,До,module,Magento_Sales
-Message,Message,module,Magento_Sales
+Message,Сообщение,module,Magento_Sales
 "Edit Order #%1","Редактировать заказ #%1",module,Magento_Sales
-"Create New Order for %1 in %2","Create New Order for %1 in %2",module,Magento_Sales
-"Create New Order in %1","Create New Order in %1",module,Magento_Sales
-"Create New Order for %1","Create New Order for %1",module,Magento_Sales
-"Create New Order for New Customer","Create New Order for New Customer",module,Magento_Sales
-"Items Ordered","Items Ordered",module,Magento_Sales
-"This product is disabled.","This product is disabled.",module,Magento_Sales
-"Buy %1 for price %2","Buy %1 for price %2",module,Magento_Sales
-"Item ordered qty","Item ordered qty",module,Magento_Sales
-"%1 with %2 discount each","%1 with %2 discount each",module,Magento_Sales
-"%1 for %2","%1 for %2",module,Magento_Sales
-"* - Enter custom price including tax","* - Enter custom price including tax",module,Magento_Sales
-"* - Enter custom price excluding tax","* - Enter custom price excluding tax",module,Magento_Sales
+"Create New Order for %1 in %2","Создайте новый заказ для %1 в %2",module,Magento_Sales
+"Create New Order in %1","Создайте новый заказ в %1",module,Magento_Sales
+"Create New Order for %1","Создайте новый заказ для %1",module,Magento_Sales
+"Create New Order for New Customer","Создайте новый заказ для нового клиента",module,Magento_Sales
+"Items Ordered","Заказанные позиции",module,Magento_Sales
+"This product is disabled.","Этот продукт будет отключен.",module,Magento_Sales
+"Buy %1 for price %2","Купить %1 по цене %2",module,Magento_Sales
+"Item ordered qty","артикул позиции заказа",module,Magento_Sales
+"%1 with %2 discount each","%1 вместе с %2 скидкой",module,Magento_Sales
+"%1 for %2","%1 для %2",module,Magento_Sales
+"* - Enter custom price including tax","* - Ввести специальную цену, включая налог",module,Magento_Sales
+"* - Enter custom price excluding tax","* - Ввести специальную цену, исключая налог",module,Magento_Sales
 Configure,Настроить,module,Magento_Sales
-"This product does not have any configurable options","This product does not have any configurable options",module,Magento_Sales
-"Newsletter Subscription","Newsletter Subscription",module,Magento_Sales
-"Please select products","Please select products",module,Magento_Sales
-"Add Selected Product(s) to Order","Add Selected Product(s) to Order",module,Magento_Sales
+"This product does not have any configurable options","Этот продукт не имеет настраиваемых параметров",module,Magento_Sales
+"Newsletter Subscription","Подписка на рассылку",module,Magento_Sales
+"Please select products","Пожалуйста, выберите товар",module,Magento_Sales
+"Add Selected Product(s) to Order","Добавление выбранных продуктов к заказу",module,Magento_Sales
 ID,ID,module,Magento_Sales
 Product,Товар,module,Magento_Sales
 SKU,Артикул,module,Magento_Sales
 Price,Цена,module,Magento_Sales
-Select,Select,module,Magento_Sales
+Select,Выбрать,module,Magento_Sales
 Quantity,Количество,module,Magento_Sales
 "Shipping Address","Адрес доставки",module,Magento_Sales
 "Shipping Method","Способ доставки",module,Magento_Sales
-"Update Changes","Update Changes",module,Magento_Sales
+"Update Changes","Обновить изменения",module,Magento_Sales
 "Shopping Cart",Корзина,module,Magento_Sales
-"Are you sure you want to delete all items from shopping cart?","Are you sure you want to delete all items from shopping cart?",module,Magento_Sales
-"Clear Shopping Cart","Clear Shopping Cart",module,Magento_Sales
-"Products in Comparison List","Products in Comparison List",module,Magento_Sales
-"Recently Compared Products","Recently Compared Products",module,Magento_Sales
-"Recently Viewed Products","Recently Viewed Products",module,Magento_Sales
-"Last Ordered Items","Last Ordered Items",module,Magento_Sales
+"Are you sure you want to delete all items from shopping cart?","Вы уверены, что хотите удалить все позиции из корзины?",module,Magento_Sales
+"Clear Shopping Cart","Очистить корзину",module,Magento_Sales
+"Products in Comparison List","Товары в список сравнения",module,Magento_Sales
+"Recently Compared Products","Недавно сравневаемые товары",module,Magento_Sales
+"Recently Viewed Products","Недавно просмотренные товары",module,Magento_Sales
+"Last Ordered Items","Последние заказанные товары",module,Magento_Sales
 "Recently Viewed","Недавно просмотренные",module,Magento_Sales
 "Wish List","Список желаний",module,Magento_Sales
-"Please select a store","Please select a store",module,Magento_Sales
-"Order Totals","Order Totals",module,Magento_Sales
-"Shipping Incl. Tax (%1)","Shipping Incl. Tax (%1)",module,Magento_Sales
-"Shipping Excl. Tax (%1)","Shipping Excl. Tax (%1)",module,Magento_Sales
+"Please select a store","Пожалуйста, выберите магазин",module,Magento_Sales
+"Order Totals",Итого,module,Magento_Sales
+"Shipping Incl. Tax (%1)","Доставка с НДС (%1)",module,Magento_Sales
+"Shipping Excl. Tax (%1)","Доставка без НДС (%1)",module,Magento_Sales
 "New Credit Memo for Invoice #%1","New Credit Memo for Invoice #%1",module,Magento_Sales
 "New Credit Memo for Order #%1","New Credit Memo for Order #%1",module,Magento_Sales
-"Refund Shipping (Incl. Tax)","Refund Shipping (Incl. Tax)",module,Magento_Sales
-"Refund Shipping (Excl. Tax)","Refund Shipping (Excl. Tax)",module,Magento_Sales
-"Refund Shipping","Refund Shipping",module,Magento_Sales
+"Refund Shipping (Incl. Tax)","Возврат доставки (вкл. налог)",module,Magento_Sales
+"Refund Shipping (Excl. Tax)","Возврат доставки (без налога)",module,Magento_Sales
+"Refund Shipping","Доставка, возврат",module,Magento_Sales
 "Update Qty's","Update Qty's",module,Magento_Sales
-Refund,Refund,module,Magento_Sales
-"Refund Offline","Refund Offline",module,Magento_Sales
+Refund,Возврат,module,Magento_Sales
+"Refund Offline","Возврат в автономном режиме",module,Magento_Sales
 "Paid Amount","Paid Amount",module,Magento_Sales
 "Refund Amount","Refund Amount",module,Magento_Sales
 "Shipping Amount","Shipping Amount",module,Magento_Sales
