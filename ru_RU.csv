@@ -123,7 +123,7 @@ Customers,Покупатели,module,Magento_AdvancedCheckout
 "You added %1 to your shopping cart.","%1 добавлены в вашу корзину.",module,Magento_AdvancedCheckout
 "You cannot add a product.","Нельзя добавить продукт.",module,Magento_AdvancedCheckout
 "Order by SKU","Сортировать по SKU",module,Magento_AdvancedCheckout
-"The SKU was not found in the catalog.","The SKU was not found in the catalog.",module,Magento_AdvancedCheckout
+"The SKU was not found in the catalog.","Артикул не найден в каталоге.",module,Magento_AdvancedCheckout
 "Availability: Out of stock.","Наличие: Нет в наличии.",module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.","У нас нет столько, сколько вы хотите.",module,Magento_AdvancedCheckout
 "You can't add this many to your cart.","Вы не можете добавить столько в вашу корзину.",module,Magento_AdvancedCheckout
@@ -310,7 +310,7 @@ Error,Error,module,Magento_AsynchronousOperations
 "Order saving error: %1","Порядок сохранения ошибки: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Пожалуйста, выберите способ оплаты.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","Мы не можем обработать вам заказ сейчас. Пожалуйста попробуйте позже.",module,Magento_Authorizenet
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Authorizenet
+"An error occurred on the server. Please try to place the order again.","На сервере произошел сбой. Пожалуйста, попробуйте повторить размещение заказа.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Кредитная карта: xxxx-%1",module,Magento_Authorizenet
 "amount %1","сумма %1",module,Magento_Authorizenet
 failed.,ошибка.,module,Magento_Authorizenet
@@ -340,7 +340,7 @@ void,"значение void",module,Magento_Authorizenet
 "Authorize and Capture","Авторизация и запись",module,Magento_Authorizenet
 "Unable to get transaction details. Try again later.","Не удалось получить сведения о транзакциях. Повторите попытку позже.",module,Magento_Authorizenet
 "Credit Card Type","Тип кредитной карты",module,Magento_Authorizenet
-"Please Select","Please Select",module,Magento_Authorizenet
+"Please Select",Выберите,module,Magento_Authorizenet
 "Credit Card Number","Номер кредитной карты",module,Magento_Authorizenet
 "Expiration Date","Дата окончания срока действия",module,Magento_Authorizenet
 "Card Verification Number","Проверочный код карты",module,Magento_Authorizenet
@@ -351,7 +351,7 @@ void,"значение void",module,Magento_Authorizenet
 "CAVV Response","CAVV ответ",module,Magento_Authorizenet
 "Fraud Filters","Фильтры мошенничества",module,Magento_Authorizenet
 "Place Order","Оформить заказ",module,Magento_Authorizenet
-"Sorry, but something went wrong. Please contact the seller.","Sorry, but something went wrong. Please contact the seller.",module,Magento_Authorizenet
+"Sorry, but something went wrong. Please contact the seller.","Извините, но что-то пошло не так. Свяжитесь с продавцом.",module,Magento_Authorizenet
 "Authorize.net Direct Post","Прямое Сообщение Authorize.NET",module,Magento_Authorizenet
 Enabled,Включено,module,Magento_Authorizenet
 "Payment Action","Тип платежа",module,Magento_Authorizenet
@@ -1001,8 +1001,8 @@ Authorize,Авторизировать,module,Magento_Braintree
 "Please, enter valid Card Verification Number","Пожалуйста введите действительный номер проверки карты",module,Magento_Braintree
 ending,Окончание,module,Magento_Braintree
 expires,"срок действия",module,Magento_Braintree
-"PayPal Account","PayPal Account",module,Magento_Braintree
-"PayPal Logo","PayPal Logo",module,Magento_Braintree
+"PayPal Account","Аккаунт PayPal",module,Magento_Braintree
+"PayPal Logo","Логотип PayPal",module,Magento_Braintree
 Actions,Действия,module,Magento_Braintree
 Delete,Удалить,module,Magento_Braintree
 "Credit Card Information","Информация о кредитной карте",module,Magento_Braintree
@@ -2727,6 +2727,9 @@ Payment,Payment,module,Magento_Checkout
 "We received your order!","We received your order!",module,Magento_Checkout
 "Thank you for your purchase!","Thank you for your purchase!",module,Magento_Checkout
 "Go to Checkout","Go to Checkout",module,Magento_Checkout
+"View and edit cart","View and edit cart",module,Magento_Checkout
+"Item in Cart","Item in Cart",module,Magento_Checkout
+"Items in Cart","Товары в корзине",module,Magento_Checkout
 "Terms and Conditions","Условия и соглашения",module,Magento_CheckoutAgreements
 "Add New Condition","Добавить новое условие",module,Magento_CheckoutAgreements
 "Save Condition","Сохранить условие",module,Magento_CheckoutAgreements
@@ -6310,6 +6313,7 @@ Partners,Партнеры,module,Magento_Marketplace
 "Read More","Read More",module,Magento_Marketplace
 "Partner Page","Partner Page",module,Magento_Marketplace
 "No partners were found","No partners were found",module,Magento_Marketplace
+"Find Partners & Extensions","Find Partners & Extensions",module,Magento_Marketplace
 Synchronize,Синхронизация,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronizing %1 to %2",module,Magento_MediaStorage
 Synchronizing...,Синхронизация...,module,Magento_MediaStorage
