@@ -7947,7 +7947,7 @@ Interval,Interval,module,Magento_Reports
 Total,Всего,module,Magento_Reports
 Price,Цена,module,Magento_Reports
 Views,Views,module,Magento_Reports
-"Refresh Statistics","Refresh Statistics",module,Magento_Reports
+"Refresh Statistics","Обновить статистику",module,Magento_Reports
 "Customers Reviews","Customers Reviews",module,Magento_Reports
 "Reviews for %1","Reviews for %1",module,Magento_Reports
 Customer,Клиент,module,Magento_Reports
@@ -8017,7 +8017,7 @@ Name,Название,module,Magento_Reports
 "Wish List vs. Regular Order","Wish List vs. Regular Order",module,Magento_Reports
 "Times Deleted","Times Deleted",module,Magento_Reports
 "Index type is not valid","Index type is not valid",module,Magento_Reports
-Reports,Reports,module,Magento_Reports
+Reports,Отчеты,module,Magento_Reports
 "Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.",module,Magento_Reports
 "New Accounts Report","New Accounts Report",module,Magento_Reports
 "Customers by Number of Orders","Customers by Number of Orders",module,Magento_Reports
@@ -8061,7 +8061,7 @@ Statistics,Statistics,module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rates","Order Taxes Report Grouped by Tax Rates",module,Magento_Reports
 "Total Invoiced VS Paid Report","Total Invoiced VS Paid Report",module,Magento_Reports
 "Promotion Coupons Usage Report","Promotion Coupons Usage Report",module,Magento_Reports
-Bestsellers,Bestsellers,module,Magento_Reports
+Bestsellers,"Лидеры продаж",module,Magento_Reports
 "Most Viewed Products Report","Most Viewed Products Report",module,Magento_Reports
 Error,Ошибка,module,Magento_Reports
 "Show By","Show By",module,Magento_Reports
@@ -8083,12 +8083,12 @@ Error,Ошибка,module,Magento_Reports
 "Recently Compared","Recently Compared",module,Magento_Reports
 "Learn More","Learn More",module,Magento_Reports
 Marketing,Marketing,module,Magento_Reports
-"Products in Cart","Products in Cart",module,Magento_Reports
+"Products in Cart","Товары в Корзине",module,Magento_Reports
 "Abandoned Cart","Abandoned Cart",module,Magento_Reports
-"Search Terms","Search Terms",module,Magento_Reports
+"Search Terms","Поисковые запросы",module,Magento_Reports
 "By Customers","By Customers",module,Magento_Reports
 "By Products","By Products",module,Magento_Reports
-Refunds,Refunds,module,Magento_Reports
+Refunds,Возвраты,module,Magento_Reports
 "Order Total","Order Total",module,Magento_Reports
 "Order Count","Order Count",module,Magento_Reports
 New,New,module,Magento_Reports
@@ -9400,7 +9400,7 @@ Item,Item,module,Magento_Sales
 "Credit Memo History","Credit Memo History",module,Magento_Sales
 "Credit Memo Totals","Credit Memo Totals",module,Magento_Sales
 "Customer Name: %1","Customer Name: %1",module,Magento_Sales
-"Purchased From: %1","Purchased From: %1",module,Magento_Sales
+"Purchased From: %1","Куплен в: %1",module,Magento_Sales
 "Gift Message","Gift Message",module,Magento_Sales
 From:,From:,module,Magento_Sales
 To:,To:,module,Magento_Sales
@@ -9432,7 +9432,7 @@ Comment,Comment,module,Magento_Sales
 "The order confirmation email is not sent","The order confirmation email is not sent",module,Magento_Sales
 "Order Date","Order Date",module,Magento_Sales
 "Order Date (%1)","Order Date (%1)",module,Magento_Sales
-"Purchased From","Purchased From",module,Magento_Sales
+"Purchased From","Куплен в",module,Magento_Sales
 "Link to the New Order","Link to the New Order",module,Magento_Sales
 "Link to the Previous Order","Link to the Previous Order",module,Magento_Sales
 "Placed from IP","Placed from IP",module,Magento_Sales
