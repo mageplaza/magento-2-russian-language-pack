@@ -631,7 +631,7 @@ Minute,Минута,module,Magento_Backend
 "JavaScript may be disabled in your browser.","JavaScript может быть отключен в вашем браузере.",module,Magento_Backend
 "To use this website you must first enable JavaScript in your browser.","Чтобы использовать этот веб-сайт необходимо сначала включить JavaScript в вашем браузере.",module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Это демонстрационный магазин. Любые заказы, оформленные на этом сайте, не будут обработаны или выполнены.",module,Magento_Backend
-"Report a Bug","Report a Bug",module,Magento_Backend
+"Report a Bug","Сообщить об ошибке",module,Magento_Backend
 "Store View:","Представление магазина:",module,Magento_Backend
 "Stores Configuration","Конфигурация Магазина",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Пожалуйста, подтвердите переключение области. Все данные, которые не были сохранены, будут потеряны.",module,Magento_Backend
