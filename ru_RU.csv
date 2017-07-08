@@ -252,9 +252,9 @@ TestMessage,TestMessage,module,Magento_Analytics
 "Art and Design","Art and Design",module,Magento_Analytics
 "Free Tier","Free Tier",module,Magento_Analytics
 "An error occurred while subscription process.","An error occurred while subscription process.",module,Magento_Analytics
-Analytics,Analytics,module,Magento_Analytics
+Analytics,Аналитика,module,Magento_Analytics
 API,API,module,Magento_Analytics
-Configuration,Configuration,module,Magento_Analytics
+Configuration,Настройки,module,Magento_Analytics
 "BI Essential","BI Essential",module,Magento_Analytics
 "Basic Tier","Basic Tier",module,Magento_Analytics
 "BI Essentials","BI Essentials",module,Magento_Analytics
@@ -263,25 +263,24 @@ General,General,module,Magento_Analytics
 Vertical,Vertical,module,Magento_Analytics
 "Analytics Subscription","Analytics Subscription",module,Magento_Analytics
 "Subscription Confirmation","Subscription Confirmation",module,Magento_Analytics
-Cancel,Cancel,module,Magento_Analytics
-Ok,Ok,module,Magento_Analytics
+Cancel,Отмена,module,Magento_Analytics
+Ok,Oк,module,Magento_Analytics
 "I agree with sending my system
-                            configuration and transaction data to Magento Analytics.","I agree with sending my system
-                            configuration and transaction data to Magento Analytics.",module,Magento_Analytics
-Back,Back,module,Magento_AsynchronousOperations
-Done,Done,module,Magento_AsynchronousOperations
-Retry,Retry,module,Magento_AsynchronousOperations
-"'Action Details - #' .","'Action Details - #' .",module,Magento_AsynchronousOperations
-"%1 item(s) have been scheduled for update.""","%1 item(s) have been scheduled for update.""",module,Magento_AsynchronousOperations
+                            configuration and transaction data to Magento Analytics.","Я согласен с отправкой данных о моих системных настройках и транзакциях в  Magento Analytics.",module,Magento_Analytics
+Back,Назад,module,Magento_AsynchronousOperations
+Done,Готово,module,Magento_AsynchronousOperations
+Retry,Повторить,module,Magento_AsynchronousOperations
+"'Action Details - #' .","«Подробности действия - #».",module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.""","Количество элементов запланированных для обновления: %1.""",module,Magento_AsynchronousOperations
 "Bulk Actions Log","Bulk Actions Log",module,Magento_AsynchronousOperations
 "%1 item(s) are currently being updated.","%1 item(s) are currently being updated.",module,Magento_AsynchronousOperations
-"Task ""%1"":","Task ""%1"":",module,Magento_AsynchronousOperations
+"Task ""%1"":","Задача «%1»:",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","%1 item(s) have been scheduled for update.",module,Magento_AsynchronousOperations
 "%1 item(s) have been successfully updated.","%1 item(s) have been successfully updated.",module,Magento_AsynchronousOperations
 "%1 item(s) failed to update","%1 item(s) failed to update",module,Magento_AsynchronousOperations
-Details,Details,module,Magento_AsynchronousOperations
+Details,Подробнее,module,Magento_AsynchronousOperations
 "View Details","View Details",module,Magento_AsynchronousOperations
-Dismiss,Dismiss,module,Magento_AsynchronousOperations
+Dismiss,Отменить,module,Magento_AsynchronousOperations
 "Pending, in queue...","Pending, in queue...",module,Magento_AsynchronousOperations
 "%1 items selected for mass update","%1 items selected for mass update",module,Magento_AsynchronousOperations
 ", %1 successfully updated",", %1 successfully updated",module,Magento_AsynchronousOperations
