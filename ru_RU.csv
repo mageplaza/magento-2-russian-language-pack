@@ -222,6 +222,8 @@ button_label,ярлык_кнопки,module,Magento_AdvancedSearch
 "Enable Search Suggestions","Включить поисковые подсказки",module,Magento_AdvancedSearch
 "Search Suggestions Count","Количество подсказок поиска",module,Magento_AdvancedSearch
 "Show Results Count for Each Suggestion","Показать количество результатов для каждой подсказки",module,Magento_AdvancedSearch
+"Related search terms","Related search terms",module,Magento_AdvancedSearch
+"Did you mean","Did you mean",module,Magento_AdvancedSearch
 ID,ID,module,Magento_AdvancedSearch
 "Search Query","Поисковый запрос",module,Magento_AdvancedSearch
 Store,Магазин,module,Magento_AdvancedSearch
@@ -297,7 +299,6 @@ Summary,Summary,module,Magento_AsynchronousOperations
 "Items That Can’t Be Updated.","Items That Can’t Be Updated.",module,Magento_AsynchronousOperations
 ID,ID,module,Magento_AsynchronousOperations
 Status,Status,module,Magento_AsynchronousOperations
-Action,Action,module,Magento_AsynchronousOperations
 "Meta Information","Meta Information",module,Magento_AsynchronousOperations
 Error,Error,module,Magento_AsynchronousOperations
 "Dismiss All Completed Tasks","Dismiss All Completed Tasks",module,Magento_AsynchronousOperations
@@ -338,6 +339,7 @@ void,"значение void",module,Magento_Authorizenet
 "Authorize Only","Авторизировать только",module,Magento_Authorizenet
 "Authorize and Capture","Авторизация и запись",module,Magento_Authorizenet
 "Unable to get transaction details. Try again later.","Не удалось получить сведения о транзакциях. Повторите попытку позже.",module,Magento_Authorizenet
+"Electronic payments save the trees.","Electronic payments save the trees.",module,Magento_Authorizenet
 "Credit Card Type","Тип кредитной карты",module,Magento_Authorizenet
 "Please Select",Выберите,module,Magento_Authorizenet
 "Credit Card Number","Номер кредитной карты",module,Magento_Authorizenet
@@ -473,10 +475,10 @@ No,Нет,module,Magento_Backend
 "Store Information","Информация о магазине",module,Magento_Backend
 "Web Site",Веб-сайт,module,Magento_Backend
 Name,Название,module,Magento_Backend
+Code,Код,module,Magento_Backend
 "Root Category","Корневая категория",module,Magento_Backend
 "Default Store View","Представление магазина по умолчанию",module,Magento_Backend
 "Store View Information","Информация о представлении магазина",module,Magento_Backend
-Code,Код,module,Magento_Backend
 Status,Статус,module,Magento_Backend
 Disabled,Отключено,module,Magento_Backend
 Enabled,Включено,module,Magento_Backend
@@ -589,7 +591,6 @@ YTD,YTD,module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","Время сеанса админа должно быть больше или равна 60 секундам",module,Magento_Backend
 Order,Заказ,module,Magento_Backend
 "Order #%1","Заказ #%1",module,Magento_Backend
-"Cannot apply unknown condition","Cannot apply unknown condition",module,Magento_Backend
 "Access denied","Доступ запрещен",module,Magento_Backend
 "Please try to sign out and sign in again.","Попробуйте выйти из системы и войти снова.",module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","Если вы продолжаете получать это сообщение, пожалуйста, свяжитесь с владельцем магазина.",module,Magento_Backend
@@ -630,7 +631,7 @@ Minute,Минута,module,Magento_Backend
 "JavaScript may be disabled in your browser.","JavaScript может быть отключен в вашем браузере.",module,Magento_Backend
 "To use this website you must first enable JavaScript in your browser.","Чтобы использовать этот веб-сайт необходимо сначала включить JavaScript в вашем браузере.",module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Это демонстрационный магазин. Любые заказы, оформленные на этом сайте, не будут обработаны или выполнены.",module,Magento_Backend
-"Report a Bug","Сообщить об ошибке",module,Magento_Backend
+"Report an Issue","Report an Issue",module,Magento_Backend
 "Store View:","Представление магазина:",module,Magento_Backend
 "Stores Configuration","Конфигурация Магазина",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Пожалуйста, подтвердите переключение области. Все данные, которые не были сохранены, будут потеряны.",module,Magento_Backend
@@ -667,6 +668,8 @@ Actions,Действия,module,Magento_Backend
 Loading...,Загрузка...,module,Magento_Backend
 "We could not detect a size.","Мы не смогли обнаружить размер.",module,Magento_Backend
 "We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Backend
+"Warning message","Warning message",module,Magento_Backend
+"This operation can take a long time","This operation can take a long time",module,Magento_Backend
 "Allow everything","Разрешить все",module,Magento_Backend
 "Magento Admin","Magento Admin",module,Magento_Backend
 "Global Search","Глобальный поиск",module,Magento_Backend
@@ -816,20 +819,19 @@ Tags,Метки,module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading""> Ошибка 404</h1> <p>Страница не найдена.</p>",module,Magento_Backend
 "Community Edition","Community Edition",module,Magento_Backend
 "Default Theme","Тема по умолчанию",module,Magento_Backend
-"Applied Theme","Приложенная Тема",module,Magento_Backend
 "If no value is specified, the system default is used. The system default may be modified by third party extensions.","Если значение не указано, используется системное значение по умолчанию. Система по умолчанию может быть изменена с помощью сторонних расширений.",module,Magento_Backend
+"Applied Theme","Приложенная Тема",module,Magento_Backend
 "Design Rule","Правила дизайна",module,Magento_Backend
 "User Agent Rules","Правила User Agen",module,Magento_Backend
-Magento_Ui/js/dynamic-rows/record,Magento_Ui/js/dynamic-rows/record,module,Magento_Backend
 Pagination,Пагинация,module,Magento_Backend
-"Pagination Frame","Паганиция фреймов",module,Magento_Backend
 "How many links to display at once.","Сколько ссылок, чтобы отобразить сразу.",module,Magento_Backend
-"Pagination Frame Skip","Пропуск паганиции фреймов",module,Magento_Backend
+"Pagination Frame","Паганиция фреймов",module,Magento_Backend
 "If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Если текущая позиция фрейма не распространяется на все страницы, он отображает ссылку на текущую позицию: плюс/минус этого значения.",module,Magento_Backend
-"Anchor Text for Previous","Якорный текст для перехода к предыдущим",module,Magento_Backend
+"Pagination Frame Skip","Пропуск паганиции фреймов",module,Magento_Backend
 "Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Альтернативный текст для предыдущей страницы отображается в постраничном меню. Если пустое значение, то используется изображение стрелок по умолчанию.",module,Magento_Backend
-"Anchor Text for Next","Якорный текст для следующей",module,Magento_Backend
+"Anchor Text for Previous","Якорный текст для перехода к предыдущим",module,Magento_Backend
 "Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Альтернативный текст для следующей страницы отображается в постраничном меню. Если пустое значение, то используется изображение стрелок по умолчанию.",module,Magento_Backend
+"Anchor Text for Next","Якорный текст для следующей",module,Magento_Backend
 "Theme Name","Название темы",module,Magento_Backend
 "System Backup","Резервное копирование системы",module,Magento_Backup
 "Database and Media Backup","Резервное копирование БД и файлов Media",module,Magento_Backup
@@ -961,6 +963,11 @@ Position,Позиция,module,Magento_Banner
 Error,Ошибка,module,Magento_Banner
 "Related Cart Price Rules","Связанные правила цены корзины",module,Magento_Banner
 "Related Catalog Price Rules","Связанные правила цен каталога",module,Magento_Banner
+"Content Area","Content Area",module,Magento_Banner
+Footer,Footer,module,Magento_Banner
+Header,Header,module,Magento_Banner
+"Left Column","Left Column",module,Magento_Banner
+"Right Column","Right Column",module,Magento_Banner
 "Manage Banners","Управление баннерами",module,Magento_Banner
 "Banner Rotator","Ротатор баннеров",module,Magento_Banner
 "Displays Specified or Promotion Banners","Отображает определенные или акционные баннеров",module,Magento_Banner
@@ -1000,6 +1007,7 @@ Authorize,Авторизировать,module,Magento_Braintree
 "Please, enter valid Card Verification Number","Пожалуйста введите действительный номер проверки карты",module,Magento_Braintree
 ending,Окончание,module,Magento_Braintree
 expires,"срок действия",module,Magento_Braintree
+"Are you sure you want to delete this PayPal account","Are you sure you want to delete this PayPal account",module,Magento_Braintree
 "PayPal Account","Аккаунт PayPal",module,Magento_Braintree
 "PayPal Logo","Логотип PayPal",module,Magento_Braintree
 Actions,Действия,module,Magento_Braintree
@@ -1280,6 +1288,8 @@ Select...,Выбрать...,module,Magento_Bundle
 Status,Статус,module,Magento_Bundle
 Thumbnail,Миниатюра,module,Magento_Bundle
 Type,Тип,module,Magento_Bundle
+"Special Price","Special Price",module,Magento_Bundle
+"Unique constraint violation found","Unique constraint violation found",module,Magento_BundleStaging
 Cancel,Отмена,module,Magento_BundleStaging
 "Add Selected Products","Добавить Выбранные Продукты",module,Magento_BundleStaging
 "Add Products to Option","Add Products to Option",module,Magento_BundleStaging
@@ -1502,7 +1512,6 @@ None,Нет,module,Magento_Catalog
 "Something went wrong while trying to delete the category.","Что-то пошло не так при попытке удалить категорию.",module,Magento_Catalog
 Categories,Категории,module,Magento_Catalog
 "Category is not available for requested store.","Category is not available for requested store.",module,Magento_Catalog
-"There was a category move error. %1","There was a category move error. %1",module,Magento_Catalog
 "There was a category move error.","There was a category move error.",module,Magento_Catalog
 "You moved the category.","You moved the category.",module,Magento_Catalog
 "Attribute ""%1"" is required.","Атрибут ""%1"" является обязательным.",module,Magento_Catalog
@@ -1529,7 +1538,8 @@ Catalog,Каталог,module,Magento_Catalog
 "You saved the product attribute.","You saved the product attribute.",module,Magento_Catalog
 "An attribute with this code already exists.","An attribute with this code already exists.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","An attribute with the same code (%1) already exists.",module,Magento_Catalog
-"The value of Admin must be unique.","The value of Admin must be unique.",module,Magento_Catalog
+"The value of Admin must be unique. (%1)","The value of Admin must be unique. (%1)",module,Magento_Catalog
+"The value of Admin scope can't be empty.","The value of Admin scope can't be empty.",module,Magento_Catalog
 "You duplicated the product.","You duplicated the product.",module,Magento_Catalog
 "This product doesn't exist.","This product doesn't exist.",module,Magento_Catalog
 "Invalid product id. Should be numeric value greater than 0","Invalid product id. Should be numeric value greater than 0",module,Magento_Catalog
@@ -1754,12 +1764,13 @@ Dropdown,Dropdown,module,Magento_Catalog
 "%1 doesn't extend \Magento\Framework\Filter\Template","%1 doesn't extend \Magento\Framework\Filter\Template",module,Magento_Catalog
 "As low as","As low as",module,Magento_Catalog
 test,test,module,Magento_Catalog
+"Some exception","Some exception",module,Magento_Catalog
 "Could not get extension attributes","Could not get extension attributes",module,Magento_Catalog
 message,сообщение,module,Magento_Catalog
-"Some exception","Some exception",module,Magento_Catalog
 fl,fl,module,Magento_Catalog
 "Lock wait timeout","Lock wait timeout",module,Magento_Catalog
 123,123,module,Magento_Catalog
+"example notice","example notice",module,Magento_Catalog
 Images,Images,module,Magento_Catalog
 Select...,Выберите...,module,Magento_Catalog
 "Advanced Pricing","Advanced Pricing",module,Magento_Catalog
@@ -1818,6 +1829,7 @@ name,name,module,Magento_Catalog
 "Manage Options (Values of Your Attribute)","Manage Options (Values of Your Attribute)",module,Magento_Catalog
 "Is Default","По умолчанию",module,Magento_Catalog
 "Sort Option","Sort Option",module,Magento_Catalog
+"The value of Admin must be unique.","The value of Admin must be unique.",module,Magento_Catalog
 Groups,Группы,module,Magento_Catalog
 "Double click on a group to rename it.","Double click on a group to rename it.",module,Magento_Catalog
 "Unassigned Attributes","Unassigned Attributes",module,Magento_Catalog
@@ -1942,9 +1954,13 @@ OK,OK,module,Magento_Catalog
 "Image Detail","Image Detail",module,Magento_Catalog
 Adding...,Adding...,module,Magento_Catalog
 Added,Added,module,Magento_Catalog
+"does not implement Storage Interface","does not implement Storage Interface",module,Magento_Catalog
 "unselect all","unselect all",module,Magento_Catalog
 Inventory,Inventory,module,Magento_Catalog
 "Catalog Section","Catalog Section",module,Magento_Catalog
+Small,Small,module,Magento_Catalog
+Main,Главная,module,Magento_Catalog
+"Custom image","Свое изображение",module,Magento_Catalog
 "Product Fields Auto-Generation","Product Fields Auto-Generation",module,Magento_Catalog
 "Mask for SKU","Mask for SKU",module,Magento_Catalog
 "Use {{name}} as Product Name placeholder","Use {{name}} as Product Name placeholder",module,Magento_Catalog
@@ -1953,6 +1969,10 @@ Inventory,Inventory,module,Magento_Catalog
 "Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Use {{name}} as Product Name or {{sku}} as Product SKU placeholders",module,Magento_Catalog
 "Mask for Meta Description","Mask for Meta Description",module,Magento_Catalog
 "Use {{name}} and {{description}} as Product Name and Product Description placeholders","Use {{name}} and {{description}} as Product Name and Product Description placeholders",module,Magento_Catalog
+"Recently Viewed/Compared Products","Recently Viewed/Compared Products",module,Magento_Catalog
+"Lifetime of products in Recently Viewed Widget","Lifetime of products in Recently Viewed Widget",module,Magento_Catalog
+"Lifetime of products in Recently Compared Widget","Lifetime of products in Recently Compared Widget",module,Magento_Catalog
+"Synchronize widget products with backend storage","Synchronize widget products with backend storage",module,Magento_Catalog
 Storefront,Storefront,module,Magento_Catalog
 "List Mode","Режим списка",module,Magento_Catalog
 "Products per Page on Grid Allowed Values","Products per Page on Grid Allowed Values",module,Magento_Catalog
@@ -1986,6 +2006,8 @@ Comma-separated.,Comma-separated.,module,Magento_Catalog
 "Use Static URLs for Media Content in WYSIWYG for Catalog","Use Static URLs for Media Content in WYSIWYG for Catalog",module,Magento_Catalog
 "This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",module,Magento_Catalog
 "Top Level Category","Top Level Category",module,Magento_Catalog
+"Product Info Column","Product Info Column",module,Magento_Catalog
+"Block after Info Column","Block after Info Column",module,Magento_Catalog
 "Product Flat Data","Product Flat Data",module,Magento_Catalog
 "Reorganize EAV product structure to flat structure","Reorganize EAV product structure to flat structure",module,Magento_Catalog
 "Category Flat Data","Category Flat Data",module,Magento_Catalog
@@ -2029,6 +2051,22 @@ Template,Template,module,Magento_Catalog
 "If empty, we'll use the category name here.","If empty, we'll use the category name here.",module,Magento_Catalog
 "Category Link Block Template","Category Link Block Template",module,Magento_Catalog
 "Category Link Inline Template","Category Link Inline Template",module,Magento_Catalog
+"Recently Viewed Products","Recently Viewed Products",module,Magento_Catalog
+"List of Products Recently Viewed by Visitor","List of Products Recently Viewed by Visitor",module,Magento_Catalog
+"UI Component","UI Component",module,Magento_Catalog
+"Number of Products to display","Number of Products to display",module,Magento_Catalog
+"Product attributes to show","Product attributes to show",module,Magento_Catalog
+Image,Image,module,Magento_Catalog
+"Learn More Link","Learn More Link",module,Magento_Catalog
+"Buttons to show","Buttons to show",module,Magento_Catalog
+"Add to Wishlist","Add to Wishlist",module,Magento_Catalog
+"Viewed Products Grid Template","Viewed Products Grid Template",module,Magento_Catalog
+"Viewed Products List Template","Viewed Products List Template",module,Magento_Catalog
+"Viewed Products Sidebar Template","Viewed Products Sidebar Template",module,Magento_Catalog
+"Recently Compared Products","Recently Compared Products",module,Magento_Catalog
+"List of Products Recently Compared by Visitor","List of Products Recently Compared by Visitor",module,Magento_Catalog
+"Compared Products Grid Template","Compared Products Grid Template",module,Magento_Catalog
+"Compared Products List Template","Compared Products List Template",module,Magento_Catalog
 Set,Set,module,Magento_Catalog
 "Category Information","Category Information",module,Magento_Catalog
 "Enable Category","Enable Category",module,Magento_Catalog
@@ -2059,12 +2097,10 @@ AttributeSetText,AttributeSetText,module,Magento_Catalog
 StatusText,StatusText,module,Magento_Catalog
 "Product Image Watermarks","Product Image Watermarks",module,Magento_Catalog
 Base,Base,module,Magento_Catalog
-Image,Image,module,Magento_Catalog
 "Allowed file types: jpeg, gif, png.","Allowed file types: jpeg, gif, png.",module,Magento_Catalog
 "Image Opacity","Image Opacity",module,Magento_Catalog
 "Example format: 200x300.","Example format: 200x300.",module,Magento_Catalog
 "Image Position","Image Position",module,Magento_Catalog
-Small,Small,module,Magento_Catalog
 "Attribute Properties","Attribute Properties",module,Magento_Catalog
 "Attribute Label","Attribute Label",module,Magento_Catalog
 "Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Catalog
@@ -2073,17 +2109,21 @@ Values,Values,module,Magento_Catalog
 "Add this attribute to the list of filter options in the product grid.","Add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
 System,System,module,Magento_Catalog
 "All Store Views","All Store Views",module,Magento_Catalog
-"Delete items","Delete items",module,Magento_Catalog
 "Delete selected items?","Delete selected items?",module,Magento_Catalog
+"Delete items","Delete items",module,Magento_Catalog
 "Change status","Change status",module,Magento_Catalog
 Enable,Включить,module,Magento_Catalog
 Disable,Отключить,module,Magento_Catalog
 "Update attributes","Update attributes",module,Magento_Catalog
-none,none,module,Magento_Catalog
 Overview,Overview,module,Magento_Catalog
 "Skip to the end of the images gallery","Skip to the end of the images gallery",module,Magento_Catalog
 "Skip to the beginning of the images gallery","Skip to the beginning of the images gallery",module,Magento_Catalog
 Details,Details,module,Magento_Catalog
+"Recently Compared","Recently Compared",module,Magento_Catalog
+"Add To Cart","Add To Cart",module,Magento_Catalog
+"Add To Compare","Add To Compare",module,Magento_Catalog
+"Learn more","Learn more",module,Magento_Catalog
+"Recently Viewed","Recently Viewed",module,Magento_Catalog
 "Edit Event","Редактирование события",module,Magento_CatalogEvent
 "Add Event","Add Event",module,Magento_CatalogEvent
 Events,Events,module,Magento_CatalogEvent
@@ -2160,6 +2200,7 @@ Edit,Редактировать,module,Magento_CatalogEvent
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "There are no product types available for export.","There are no product types available for export.",module,Magento_CatalogImportExport
 "'Entity type model must be an instance of ' .","'Entity type model must be an instance of ' .",module,Magento_CatalogImportExport
+"Wrong attribute set code ""%1"", please correct it and try again.","Wrong attribute set code ""%1"", please correct it and try again.",module,Magento_CatalogImportExport
 "Category ""%1"" has not been created.","Category ""%1"" has not been created.",module,Magento_CatalogImportExport
 "File directory '%1' is not readable.","Каталог '% 1' не доступен для чтения.",module,Magento_CatalogImportExport
 "File directory '%1' is not writable.","Каталог '% 1' не доступен для записи.",module,Magento_CatalogImportExport
@@ -2181,9 +2222,6 @@ Edit,Редактировать,module,Magento_CatalogEvent
 "Add Minimum Qty","Add Minimum Qty",module,Magento_CatalogInventory
 "We can't rebuild the index for an undefined product.","Мы не можем перестроить индекс для неопределенного продукта.",module,Magento_CatalogInventory
 "Could not rebuild index for empty products array","Could not rebuild index for empty products array",module,Magento_CatalogInventory
-"Invalid stock id: %1. Only default stock with id %2 allowed","Invalid stock id: %1. Only default stock with id %2 allowed",module,Magento_CatalogInventory
-"Invalid stock item id: %1. Should be null or numeric value greater than 0","Invalid stock item id: %1. Should be null or numeric value greater than 0",module,Magento_CatalogInventory
-"Invalid stock item id: %1. Assigned stock item id is %2","Invalid stock item id: %1. Assigned stock item id is %2",module,Magento_CatalogInventory
 "The stock item for Product is not valid.","The stock item for Product is not valid.",module,Magento_CatalogInventory
 "This product is out of stock.","This product is out of stock.",module,Magento_CatalogInventory
 "Some of the products are out of stock.","Some of the products are out of stock.",module,Magento_CatalogInventory
@@ -2203,6 +2241,9 @@ Edit,Редактировать,module,Magento_CatalogEvent
 "Unable to remove Stock with id ""%1""","Unable to remove Stock with id ""%1""",module,Magento_CatalogInventory
 "Unable to save Stock Status","Unable to save Stock Status",module,Magento_CatalogInventory
 "Unable to remove Stock Status for product %1","Unable to remove Stock Status for product %1",module,Magento_CatalogInventory
+"Invalid stock id: %1. Only default stock with id %2 allowed","Invalid stock id: %1. Only default stock with id %2 allowed",module,Magento_CatalogInventory
+"Invalid stock item id: %1. Should be null or numeric value greater than 0","Invalid stock item id: %1. Should be null or numeric value greater than 0",module,Magento_CatalogInventory
+"Invalid stock item id: %1. Assigned stock item id is %2","Invalid stock item id: %1. Assigned stock item id is %2",module,Magento_CatalogInventory
 "Not all of your products are available in the requested quantity.","Not all of your products are available in the requested quantity.",module,Magento_CatalogInventory
 "Product with SKU ""%1"" does not exist","Product with SKU ""%1"" does not exist",module,Magento_CatalogInventory
 "The fewest you may purchase is %1.","The fewest you may purchase is %1.",module,Magento_CatalogInventory
@@ -2247,7 +2288,6 @@ Stock,Stock,module,Magento_CatalogInventory
 "Use Config Settings","Use Config Settings",module,Magento_CatalogInventory
 "Qty Uses Decimals","Qty Uses Decimals",module,Magento_CatalogInventory
 "Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Shipping",module,Magento_CatalogInventory
-"Use Deferred Stock Update","Use Deferred Stock Update",module,Magento_CatalogInventory
 "New Permission","Новое разрешение",module,Magento_CatalogPermissions
 "You already have a permission with this scope.","You already have a permission with this scope.",module,Magento_CatalogPermissions
 (Allow),(Разрешить),module,Magento_CatalogPermissions
@@ -2353,11 +2393,20 @@ Inactive,Inactive,module,Magento_CatalogRule
 "Web Site",Веб-сайт,module,Magento_CatalogRule
 Back,Вернуться,module,Magento_CatalogRule
 "Rule Information","Rule Information",module,Magento_CatalogRule
+"Rule Name","Rule Name",module,Magento_CatalogRule
+Description,Description,module,Magento_CatalogRule
+Websites,Websites,module,Magento_CatalogRule
+"Customer Groups","Группы покупателей",module,Magento_CatalogRule
+From,от,module,Magento_CatalogRule
+To,До,module,Magento_CatalogRule
+Priority,Приоритет,module,Magento_CatalogRule
 Actions,Действия,module,Magento_CatalogRule
+Apply,Применить,module,Magento_CatalogRule
+"Discount Amount","Discount Amount",module,Magento_CatalogRule
+"Discard subsequent rules","Discard subsequent rules",module,Magento_CatalogRule
 Yes,Да,module,Magento_CatalogRule
 No,Нет,module,Magento_CatalogRule
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_CatalogRuleStaging
-"Future Update End Time cannot be equal or earlier than Start Time.","Future Update End Time cannot be equal or earlier than Start Time.",module,Magento_CatalogRuleStaging
 "Smth went to exception","Smth went to exception",module,Magento_CatalogRuleStaging
 ID,ID,module,Magento_CatalogRuleStaging
 Rule,Правило,module,Magento_CatalogRuleStaging
@@ -2370,28 +2419,35 @@ Name,Name,module,Magento_CatalogRuleStaging
 Description,Description,module,Magento_CatalogRuleStaging
 "Update Information","Update Information",module,Magento_CatalogRuleStaging
 "Remove Catalog Price Rule from Update","Remove Catalog Price Rule from Update",module,Magento_CatalogRuleStaging
+"Schedule Update","Schedule Update",module,Magento_CatalogRuleStaging
 "Update Name","Update Name",module,Magento_CatalogRuleStaging
 "Start Date","Start Date",module,Magento_CatalogRuleStaging
 "End Date","End Date",module,Magento_CatalogRuleStaging
 "Rule Information","Rule Information",module,Magento_CatalogRuleStaging
+"Rule Name","Rule Name",module,Magento_CatalogRuleStaging
+Status,Status,module,Magento_CatalogRuleStaging
 Active,Active,module,Magento_CatalogRuleStaging
 Inactive,Inactive,module,Magento_CatalogRuleStaging
+Websites,Websites,module,Magento_CatalogRuleStaging
+"Customer Groups","Customer Groups",module,Magento_CatalogRuleStaging
 Conditions,Conditions,module,Magento_CatalogRuleStaging
 Actions,Actions,module,Magento_CatalogRuleStaging
+Apply,Apply,module,Magento_CatalogRuleStaging
+"Discount Amount","Discount Amount",module,Magento_CatalogRuleStaging
+"Discard subsequent rules","Discard subsequent rules",module,Magento_CatalogRuleStaging
 Yes,Yes,module,Magento_CatalogRuleStaging
 No,No,module,Magento_CatalogRuleStaging
 "Save as a New Update","Save as a New Update",module,Magento_CatalogRuleStaging
 "Move to Another Update","Move to Another Update",module,Magento_CatalogRuleStaging
 "Delete the Update","Delete the Update",module,Magento_CatalogRuleStaging
 "The catalog price rule will be removed from the update and all scheduled changes will be lost.","The catalog price rule will be removed from the update and all scheduled changes will be lost.",module,Magento_CatalogRuleStaging
-20,20,module,Magento_CatalogRuleStaging
-30,30,module,Magento_CatalogRuleStaging
-50,50,module,Magento_CatalogRuleStaging
-100,100,module,Magento_CatalogRuleStaging
 200,200,module,Magento_CatalogRuleStaging
+100,100,module,Magento_CatalogRuleStaging
+50,50,module,Magento_CatalogRuleStaging
+30,30,module,Magento_CatalogRuleStaging
+20,20,module,Magento_CatalogRuleStaging
 "Start Time","Start Time",module,Magento_CatalogRuleStaging
 "End Time","End Time",module,Magento_CatalogRuleStaging
-Websites,Websites,module,Magento_CatalogRuleStaging
 "Catalog Price Rules","Catalog Price Rules",module,Magento_CatalogRuleStaging
 "Remove Catalog Price Rule from Campaign","Remove Catalog Price Rule from Campaign",module,Magento_CatalogRuleStaging
 Home,Главная,module,Magento_CatalogSearch
@@ -2451,13 +2507,11 @@ Preview,"Предварительный просмотр",module,Magento_Catalog
 "Set Product as New","Set Product as New",module,Magento_CatalogStaging
 "Store View:","Store View:",module,Magento_CatalogStaging
 "Stores Configuration","Stores Configuration",module,Magento_CatalogStaging
-Images,Images,module,Magento_CatalogStaging
 "Scheduled Changes","Scheduled Changes",module,Magento_CatalogStaging
 Name,Название,module,Magento_CatalogStaging
 Description,Description,module,Magento_CatalogStaging
 Action,Действие,module,Magento_CatalogStaging
 "Update Information","Update Information",module,Magento_CatalogStaging
-"Remove Category from Update","Remove Category from Update",module,Magento_CatalogStaging
 "Schedule Update","Schedule Update",module,Magento_CatalogStaging
 "Update Name","Update Name",module,Magento_CatalogStaging
 "Start Date","Start Date",module,Magento_CatalogStaging
@@ -2488,11 +2542,11 @@ Layout,Layout,module,Magento_CatalogStaging
 "Move to Another Update","Move to Another Update",module,Magento_CatalogStaging
 "Delete the Update","Delete the Update",module,Magento_CatalogStaging
 "The category will be removed from the update and all scheduled changes will be lost.","The category will be removed from the update and all scheduled changes will be lost.",module,Magento_CatalogStaging
-20,20,module,Magento_CatalogStaging
-30,30,module,Magento_CatalogStaging
-50,50,module,Magento_CatalogStaging
-100,100,module,Magento_CatalogStaging
 200,200,module,Magento_CatalogStaging
+100,100,module,Magento_CatalogStaging
+50,50,module,Magento_CatalogStaging
+30,30,module,Magento_CatalogStaging
+20,20,module,Magento_CatalogStaging
 "Start Time","Время начала",module,Magento_CatalogStaging
 "End Time","End Time",module,Magento_CatalogStaging
 ID,ID,module,Magento_CatalogStaging
@@ -2505,12 +2559,11 @@ Type,Type,module,Magento_CatalogStaging
 SKU,SKU,module,Magento_CatalogStaging
 Price,Price,module,Magento_CatalogStaging
 "Remove Product from Update","Remove Product from Update",module,Magento_CatalogStaging
+Images,Images,module,Magento_CatalogStaging
 "The product will be removed from the update and all scheduled changes will be lost.","The product will be removed from the update and all scheduled changes will be lost.",module,Magento_CatalogStaging
 "Currently Active","Currently Active",module,Magento_CatalogStaging
 Products,Products,module,Magento_CatalogStaging
-"Remove Product from Campaign","Remove Product from Campaign",module,Magento_CatalogStaging
 Categories,Categories,module,Magento_CatalogStaging
-"Remove Category from Campaign","Remove Category from Campaign",module,Magento_CatalogStaging
 Path,Path,module,Magento_CatalogStaging
 Quantity,Quantity,module,Magento_CatalogStaging
 Visibility,Visibility,module,Magento_CatalogStaging
@@ -2676,20 +2729,15 @@ Remove,Удалить,module,Magento_Checkout
 "Ship Here","Ship Here",module,Magento_Checkout
 "Ship To:","Ship To:",module,Magento_Checkout
 edit,edit,module,Magento_Checkout
-"Shipping Address","Адрес доставки",module,Magento_Checkout
-"New Address","New Address",module,Magento_Checkout
-"Shipping Methods","Shipping Methods",module,Magento_Checkout
-"Select Method","Select Method",module,Magento_Checkout
-"Method Title","Method Title",module,Magento_Checkout
-"Carrier Title","Carrier Title",module,Magento_Checkout
-Next,Дальше,module,Magento_Checkout
-"Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
 "Order Summary","Order Summary",module,Magento_Checkout
 "View and Edit Cart","View and Edit Cart",module,Magento_Checkout
 "View Details","View Details",module,Magento_Checkout
+Field,Field,module,Magento_Checkout
+"is required.","is required.",module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid.",module,Magento_Checkout
 Example:,Example:,module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Checkout
+"New Address","New Address",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
 "Review & Payments","Review & Payments",module,Magento_Checkout
 "Select a new payment method","Select a new payment method",module,Magento_Checkout
@@ -2720,15 +2768,12 @@ Shipping,Доставка,module,Magento_Checkout
 "Send Payment Failed Email Copy Method","Send Payment Failed Email Copy Method",module,Magento_Checkout
 Summary,Summary,module,Magento_Checkout
 "Order Total","Order Total",module,Magento_Checkout
+"Shipping Address","Адрес доставки",module,Magento_Checkout
 "We'll send your order confirmation here.","We'll send your order confirmation here.",module,Magento_Checkout
 Payment,Payment,module,Magento_Checkout
 "Not yet calculated","Not yet calculated",module,Magento_Checkout
 "We received your order!","We received your order!",module,Magento_Checkout
 "Thank you for your purchase!","Thank you for your purchase!",module,Magento_Checkout
-"Go to Checkout","Go to Checkout",module,Magento_Checkout
-"View and edit cart","View and edit cart",module,Magento_Checkout
-"Item in Cart","Item in Cart",module,Magento_Checkout
-"Items in Cart","Товары в корзине",module,Magento_Checkout
 "Terms and Conditions","Условия и соглашения",module,Magento_CheckoutAgreements
 "Add New Condition","Добавить новое условие",module,Magento_CheckoutAgreements
 "Save Condition","Сохранить условие",module,Magento_CheckoutAgreements
@@ -2862,7 +2907,7 @@ Exception,Exception,module,Magento_Cms
 Edit,Редактировать,module,Magento_Cms
 Delete,Удалить,module,Magento_Cms
 "Delete %1","Delete %1",module,Magento_Cms
-"Are you sure you wan't to delete a %1 record?","Are you sure you wan't to delete a %1 record?",module,Magento_Cms
+"Are you sure you want to delete a %1 record?","Are you sure you want to delete a %1 record?",module,Magento_Cms
 "All Store Views","All Store Views",module,Magento_Cms
 View,View,module,Magento_Cms
 px.,px.,module,Magento_Cms
@@ -2901,8 +2946,8 @@ Block,Block,module,Magento_Cms
 "General Information","General Information",module,Magento_Cms
 "Enable Block","Enable Block",module,Magento_Cms
 "Block Title","Block Title",module,Magento_Cms
+"Are you sure you want to delete selected items?","Are you sure you want to delete selected items?",module,Magento_Cms
 "Delete items","Delete items",module,Magento_Cms
-"Are you sure you wan't to delete selected items?","Are you sure you wan't to delete selected items?",module,Magento_Cms
 "Page Information","Page Information",module,Magento_Cms
 "Enable Page","Enable Page",module,Magento_Cms
 Content,Content,module,Magento_Cms
@@ -2929,6 +2974,7 @@ Enable,Включить,module,Magento_Cms
 "This block no longer exists.","This block no longer exists.",module,Magento_CmsStaging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_CmsStaging
 Error,Ошибка,module,Magento_CmsStaging
+"Currently Active","Currently Active",module,Magento_CmsStaging
 "New Theme","New Theme",module,Magento_CmsStaging
 "-- Please Select --","-- Please Select --",module,Magento_CmsStaging
 "Scheduled Changes","Scheduled Changes",module,Magento_CmsStaging
@@ -2936,7 +2982,7 @@ Name,Name,module,Magento_CmsStaging
 Description,Description,module,Magento_CmsStaging
 Action,Action,module,Magento_CmsStaging
 "Update Information","Update Information",module,Magento_CmsStaging
-"Remove CMS block from Update","Remove CMS block from Update",module,Magento_CmsStaging
+"Schedule Update","Schedule Update",module,Magento_CmsStaging
 "Update Name","Update Name",module,Magento_CmsStaging
 "Start Date","Start Date",module,Magento_CmsStaging
 "End Date","End Date",module,Magento_CmsStaging
@@ -2949,11 +2995,11 @@ Identifier,Identifier,module,Magento_CmsStaging
 "Move to Another Update","Move to Another Update",module,Magento_CmsStaging
 "Delete the Update","Delete the Update",module,Magento_CmsStaging
 "The block will be removed from the update and all scheduled changes will be lost.","The block will be removed from the update and all scheduled changes will be lost.",module,Magento_CmsStaging
-20,20,module,Magento_CmsStaging
-30,30,module,Magento_CmsStaging
-50,50,module,Magento_CmsStaging
-100,100,module,Magento_CmsStaging
 200,200,module,Magento_CmsStaging
+100,100,module,Magento_CmsStaging
+50,50,module,Magento_CmsStaging
+30,30,module,Magento_CmsStaging
+20,20,module,Magento_CmsStaging
 "Start Time","Start Time",module,Magento_CmsStaging
 "End Time","End Time",module,Magento_CmsStaging
 "Remove CMS page from Update","Remove CMS page from Update",module,Magento_CmsStaging
@@ -2971,9 +3017,7 @@ Layout,Layout,module,Magento_CmsStaging
 "Layout Update XML","Layout Update XML",module,Magento_CmsStaging
 "The page will be removed from the update and all scheduled changes will be lost.","The page will be removed from the update and all scheduled changes will be lost.",module,Magento_CmsStaging
 "CMS Pages","CMS Pages",module,Magento_CmsStaging
-"Remove CMS Page from Campaign","Remove CMS Page from Campaign",module,Magento_CmsStaging
 "CMS Blocks","CMS Blocks",module,Magento_CmsStaging
-"Remove CMS Block from Campaign","Remove CMS Block from Campaign",module,Magento_CmsStaging
 ID,ID,module,Magento_CmsStaging
 Title,Title,module,Magento_CmsStaging
 Status,Status,module,Magento_CmsStaging
@@ -2996,7 +3040,6 @@ Disable,Отключить,module,Magento_Config
 Configuration,Configuration,module,Magento_Config
 "Class for type ""%1"" was not declared","Class for type ""%1"" was not declared",module,Magento_Config
 "%1 should implement %2","%1 should implement %2",module,Magento_Config
-"We can't save this option because Magento is not installed. To lock this value, enter the command again using the --%1 option.","We can't save this option because Magento is not installed. To lock this value, enter the command again using the --%1 option.",module,Magento_Config
 "The value you set has already been locked. To change the value, use the --%1 option.","The value you set has already been locked. To change the value, use the --%1 option.",module,Magento_Config
 %1,%1,module,Magento_Config
 "Configuration for path: ""%1"" doesn't exist","Configuration for path: ""%1"" doesn't exist",module,Magento_Config
@@ -3030,6 +3073,7 @@ System,Система,module,Magento_Config
 "Currency ""%1"" is used as %2 in %3.","Currency ""%1"" is used as %2 in %3.",module,Magento_Config
 "Please correct the timezone.","Please correct the timezone.",module,Magento_Config
 "The file ""%1"" does not exist","The file ""%1"" does not exist",module,Magento_Config
+"The ""%1"" path does not exist","The ""%1"" path does not exist",module,Magento_Config
 "Always (during development)","Always (during development)",module,Magento_Config
 "Only Once (version upgrade)","Only Once (version upgrade)",module,Magento_Config
 "Never (production)","Never (production)",module,Magento_Config
@@ -3049,6 +3093,7 @@ Store,Магазин,module,Magento_Config
 "Yes (301 Moved Permanently)","Yes (301 Moved Permanently)",module,Magento_Config
 Yes,Да,module,Magento_Config
 Specified,Specified,module,Magento_Config
+"Visible section not found.","Visible section not found.",module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Config form fieldset clone model required to be able to clone fields",module,Magento_Config
 "%1: Instance of %2 is expected, got %3 instead","%1: Instance of %2 is expected, got %3 instead",module,Magento_Config
 "Invalid XML in file %1:\n%2","Invalid XML in file %1:\n%2",module,Magento_Config
@@ -3056,7 +3101,11 @@ Specified,Specified,module,Magento_Config
 "'There is no defined type ' .","'There is no defined type ' .",module,Magento_Config
 "'Object is not instance of ' .","'Object is not instance of ' .",module,Magento_Config
 "Filesystem is not writable.","Filesystem is not writable.",module,Magento_Config
-"Test exception","Test exception",module,Magento_Config
+"Some error","Some error",module,Magento_Config
+"Some message","Some message",module,Magento_Config
+"You cannot run this command because the Magento application is not installed.","You cannot run this command because the Magento application is not installed.",module,Magento_Config
+"This command is unavailable right now.","This command is unavailable right now.",module,Magento_Config
+"The ""test/test/test"" path does not exists","The ""test/test/test"" path does not exists",module,Magento_Config
 "error message","error message",module,Magento_Config
 some_label,some_label,module,Magento_Config
 some_comment,some_comment,module,Magento_Config
@@ -3245,6 +3294,8 @@ Visible,Видимый,module,Magento_ConfigurableProduct
 Scope,Scope,module,Magento_ConfigurableProduct
 Searchable,Searchable,module,Magento_ConfigurableProduct
 Comparable,Comparable,module,Magento_ConfigurableProduct
+"As low as:","As low as:",module,Magento_ConfigurableProduct
+Save,Save,module,Magento_ConfigurableProductStaging
 Select...,Select...,module,Magento_ConfigurableProductStaging
 Status,Status,module,Magento_ConfigurableProductStaging
 ID,ID,module,Magento_ConfigurableProductStaging
@@ -3265,7 +3316,10 @@ Searchable,Searchable,module,Magento_ConfigurableProductStaging
 Comparable,Comparable,module,Magento_ConfigurableProductStaging
 "Page not found.","Страница не найдена.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Спасибо за обращение к нам с вашими комментариями и вопросами. Мы ответим вам очень скоро.",module,Magento_Contact
-"We can't process your request right now. Sorry, that's all we know.","Мы не можем обработать ваш запрос прямо сейчас. К сожалению, это все что мы знаем.",module,Magento_Contact
+"An error occurred while processing your form. Please try again later.","An error occurred while processing your form. Please try again later.",module,Magento_Contact
+"Name is missing","Name is missing",module,Magento_Contact
+"Comment is missing","Comment is missing",module,Magento_Contact
+"Invalid email address","Invalid email address",module,Magento_Contact
 "* Required Fields","* Обязательные поля",module,Magento_Contact
 "Write Us","Write Us",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
@@ -3275,10 +3329,8 @@ Email,"Электронная почта",module,Magento_Contact
 "What’s on your mind?","What’s on your mind?",module,Magento_Contact
 Submit,Submit,module,Magento_Contact
 "Contact Form","Contact Form",module,Magento_Contact
-"Name: %name","Name: %name",module,Magento_Contact
-"Email: %email","Email: %email",module,Magento_Contact
-"Phone Number: %telephone","Phone Number: %telephone",module,Magento_Contact
-"Comment: %comment","Comment: %comment",module,Magento_Contact
+Phone,Phone,module,Magento_Contact
+Message,Message,module,Magento_Contact
 "Contacts Section","Contacts Section",module,Magento_Contact
 Contacts,Контакты,module,Magento_Contact
 "Contact Us","Обратная связь",module,Magento_Contact
@@ -3373,8 +3425,8 @@ Email,"Электронная почта",module,Magento_CustomAttributeManageme
 "The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.",module,Magento_CustomAttributeManagement
 "Sign Out",Выход,module,Magento_Customer
 "Sign In",Войти,module,Magento_Customer
-"You subscribe to our newsletter.","You subscribe to our newsletter.",module,Magento_Customer
-"You don't subscribe to our newsletter.","You don't subscribe to our newsletter.",module,Magento_Customer
+"You are subscribed to our newsletter.","You are subscribed to our newsletter.",module,Magento_Customer
+"You aren't subscribed to our newsletter.","You aren't subscribed to our newsletter.",module,Magento_Customer
 "You have not set a default shipping address.","You have not set a default shipping address.",module,Magento_Customer
 "You have not set a default billing address.","You have not set a default billing address.",module,Magento_Customer
 "Address Book","Address Book",module,Magento_Customer
@@ -3557,6 +3609,7 @@ Customers,Покупатели,module,Magento_Customer
 "Please enter a password with at least %1 characters.","Please enter a password with at least %1 characters.",module,Magento_Customer
 "The password can't begin or end with a space.","Пароль не может начинаться или заканчиваться пробелом.",module,Magento_Customer
 "Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Customer
+"Password cannot be the same as email address.","Password cannot be the same as email address.",module,Magento_Customer
 "This customer already exists in this store.","This customer already exists in this store.",module,Magento_Customer
 "A customer with the same email already exists in an associated website.","A customer with the same email already exists in an associated website.",module,Magento_Customer
 "%fieldName is a required field.","%fieldName is a required field.",module,Magento_Customer
@@ -3589,7 +3642,6 @@ Admin,Admin,module,Magento_Customer
 """%1"" is not a valid hostname.","""%1"" is not a valid hostname.",module,Magento_Customer
 """%1"" uses too many characters.","""%1"" uses too many characters.",module,Magento_Customer
 "'%value%' looks like an IP address, which is not an acceptable format.","'%value%' looks like an IP address, which is not an acceptable format.",module,Magento_Customer
-"'%value%' looks like a DNS hostname but we cannot match the TLD against known list.","'%value%' looks like a DNS hostname but we cannot match the TLD against known list.",module,Magento_Customer
 "'%value%' looks like a DNS hostname but contains a dash in an invalid position.","'%value%' looks like a DNS hostname but contains a dash in an invalid position.",module,Magento_Customer
 "'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.","'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.",module,Magento_Customer
 "'%value%' looks like a DNS hostname but cannot extract TLD part.","'%value%' looks like a DNS hostname but cannot extract TLD part.",module,Magento_Customer
@@ -3679,7 +3731,7 @@ Change,Изменить,module,Magento_Customer
 "Contact Information","Контактная информация",module,Magento_Customer
 "Change Password","Сменить пароль",module,Magento_Customer
 Newsletters,Newsletters,module,Magento_Customer
-"You subscribe to ""General Subscription"".","You subscribe to ""General Subscription"".",module,Magento_Customer
+"You are subscribed to ""General Subscription"".","You are subscribed to ""General Subscription"".",module,Magento_Customer
 or,или,module,Magento_Customer
 "Default Addresses","Default Addresses",module,Magento_Customer
 "Change Billing Address","Change Billing Address",module,Magento_Customer
@@ -3690,9 +3742,6 @@ or,или,module,Magento_Customer
 "Delete Address","Удалить адрес",module,Magento_Customer
 "You have no other address entries in your address book.","You have no other address entries in your address book.",module,Magento_Customer
 "* Required Fields","* Обязательные поля",module,Magento_Customer
-Company,Компания,module,Magento_Customer
-"Phone Number","Номер телефона",module,Magento_Customer
-Fax,Факс,module,Magento_Customer
 Address,Адрес,module,Magento_Customer
 "Street Address","Street Address",module,Magento_Customer
 "Street Address %1","Street Address %1",module,Magento_Customer
@@ -3737,9 +3786,12 @@ Password,Пароль,module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds.",module,Magento_Customer
 "New Customers","Новый клиент",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Creating an account has many benefits: check out faster, keep more than one address, track orders and more.",module,Magento_Customer
+Company,Компания,module,Magento_Customer
+Fax,Факс,module,Magento_Customer
 Gender,Пол,module,Magento_Customer
 Name,Название,module,Magento_Customer
 "Tax/VAT number","Tax/VAT number",module,Magento_Customer
+"Phone Number","Номер телефона",module,Magento_Customer
 "Welcome to %store_name","Welcome to %store_name",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
 "Welcome to %store_name.","Добро пожаловать на %store_name.",module,Magento_Customer
@@ -3833,6 +3885,9 @@ Strong,Strong,module,Magento_Customer
 "Use 0 to disable account locking.","Use 0 to disable account locking.",module,Magento_Customer
 "Lockout Time (minutes)","Lockout Time (minutes)",module,Magento_Customer
 "Enable Autocomplete on login/forgot password forms","Enable Autocomplete on login/forgot password forms",module,Magento_Customer
+"Account Information Options","Account Information Options",module,Magento_Customer
+"Change Email Template","Change Email Template",module,Magento_Customer
+"Change Email and Password Template","Change Email and Password Template",module,Magento_Customer
 "Name and Address Options","Name and Address Options",module,Magento_Customer
 "Number of Lines in a Street Address","Number of Lines in a Street Address",module,Magento_Customer
 "Leave empty for default (2). Valid range: 1-4","Leave empty for default (2). Valid range: 1-4",module,Magento_Customer
@@ -3848,6 +3903,9 @@ Strong,Strong,module,Magento_Customer
 "Show Date of Birth","Show Date of Birth",module,Magento_Customer
 "Show Tax/VAT Number","Show Tax/VAT Number",module,Magento_Customer
 "Show Gender","Show Gender",module,Magento_Customer
+"Show Telephone","Show Telephone",module,Magento_Customer
+"Show Company","Show Company",module,Magento_Customer
+"Show Fax","Show Fax",module,Magento_Customer
 "Login Options","Login Options",module,Magento_Customer
 "Redirect Customer to Account Dashboard after Logging in","Redirect Customer to Account Dashboard after Logging in",module,Magento_Customer
 "Customer will stay on the current page if ""No"" is selected.","Customer will stay on the current page if ""No"" is selected.",module,Magento_Customer
@@ -3855,18 +3913,20 @@ Strong,Strong,module,Magento_Customer
 "Online Customers Options","Online Customers Options",module,Magento_Customer
 "Online Minutes Interval","Online Minutes Interval",module,Magento_Customer
 "Leave empty for default (15 minutes).","Leave empty for default (15 minutes).",module,Magento_Customer
+"Customer Data Lifetime","Customer Data Lifetime",module,Magento_Customer
+"Please specify value in minutes.","Please specify value in minutes.",module,Magento_Customer
 "Customer Notification","Customer Notification",module,Magento_Customer
+"Assign a Customer Group","Assign a Customer Group",module,Magento_Customer
+"Are you sure to assign selected customers to new group?","Are you sure to assign selected customers to new group?",module,Magento_Customer
 "Customer Grid","Customer Grid",module,Magento_Customer
 "Rebuild Customer grid index","Rebuild Customer grid index",module,Magento_Customer
 Group,Group,module,Magento_Customer
 "Add New Customer","Add New Customer",module,Magento_Customer
-"Delete items","Delete items",module,Magento_Customer
 "Are you sure to delete selected customers?","Are you sure to delete selected customers?",module,Magento_Customer
+"Delete items","Delete items",module,Magento_Customer
 "Subscribe to Newsletter","Subscribe to Newsletter",module,Magento_Customer
-"Unsubscribe from Newsletter","Unsubscribe from Newsletter",module,Magento_Customer
 "Are you sure to unsubscribe selected customers from newsletter?","Are you sure to unsubscribe selected customers from newsletter?",module,Magento_Customer
-"Assign a Customer Group","Assign a Customer Group",module,Magento_Customer
-"Are you sure to assign selected customers to new group?","Are you sure to assign selected customers to new group?",module,Magento_Customer
+"Unsubscribe from Newsletter","Unsubscribe from Newsletter",module,Magento_Customer
 Phone,"Номер телефона",module,Magento_Customer
 ZIP,Индекс,module,Magento_Customer
 "Customer Since","Customer Since",module,Magento_Customer
@@ -3884,8 +3944,8 @@ Type,Тип,module,Magento_Customer
 "If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.","If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.",module,Magento_Customer
 "Disable Automatic Group Change Based on VAT ID","Disable Automatic Group Change Based on VAT ID",module,Magento_Customer
 "Send Welcome Email From","Send Welcome Email From",module,Magento_Customer
-Addresses,Addresses,module,Magento_Customer
 "Are you sure you want to delete this item?","Are you sure you want to delete this item?",module,Magento_Customer
+Addresses,Addresses,module,Magento_Customer
 "Account Dashboard","Панель управления",module,Magento_Customer
 "Edit Account Information","Edit Account Information",module,Magento_Customer
 "Password forgotten","Password forgotten",module,Magento_Customer
@@ -4330,16 +4390,25 @@ Debug,Debug,module,Magento_Cybersource
 "Minimum Order Total","Minimum Order Total",module,Magento_Cybersource
 "Maximum Order Total","Maximum Order Total",module,Magento_Cybersource
 "Sort Order","Порядок Сортировки",module,Magento_Cybersource
+"Import failed: %1","Import failed: %1",module,Magento_Deploy
 "Class for type ""%1"" was not declared","Class for type ""%1"" was not declared",module,Magento_Deploy
 "%1 does not implement %2","%1 does not implement %2",module,Magento_Deploy
-"Value can't be empty","Value can't be empty",module,Magento_Deploy
-"A configuration with this path does not exist or is not sensitive","A configuration with this path does not exist or is not sensitive",module,Magento_Deploy
 "File app/etc/%1 can't be read. Please check if it exists and has read permissions.","File app/etc/%1 can't be read. Please check if it exists and has read permissions.",module,Magento_Deploy
 "There are no sensitive configurations to fill","There are no sensitive configurations to fill",module,Magento_Deploy
+"Value can't be empty","Value can't be empty",module,Magento_Deploy
+"A configuration with this path does not exist or is not sensitive","A configuration with this path does not exist or is not sensitive",module,Magento_Deploy
 "Cannot switch into given mode ""%1""","Не удается перейти в заданный режим «%1»",module,Magento_Deploy
+"Wrong logger interface specified.","Wrong logger interface specified.",module,Magento_Deploy
+"Hash has not been saved.","Hash has not been saved.",module,Magento_Deploy
+"Parameter ""importer_class"" must be present.","Parameter ""importer_class"" must be present.",module,Magento_Deploy
+"The configuration file has changed. Run app:config:import or setup:upgrade command to synchronize configuration.","The configuration file has changed. Run app:config:import or setup:upgrade command to synchronize configuration.",module,Magento_Deploy
+"Wrong type specified: '%1'","Wrong type specified: '%1'",module,Magento_Deploy
+"Wrong queue type specified.","Wrong queue type specified.",module,Magento_Deploy
 "Compilation from source:","Compilation from source:",module,Magento_Deploy
 "Wrong deploy strategy type: %1","Wrong deploy strategy type: %1",module,Magento_Deploy
+"Some error","Some error",module,Magento_Deploy
 "some message","some message",module,Magento_Deploy
+Exception,Exception,module,Magento_Deploy
 "Format for IDE '%1' is not supported","Формат для IDE «%1» не поддерживается",module,Magento_Developer
 "Client side compilation doesn't work in production mode","Client side compilation doesn't work in production mode",module,Magento_Developer
 "Client side less compilation","Client side less compilation",module,Magento_Developer
@@ -4390,7 +4459,6 @@ Jetline,Jetline,module,Magento_Dhl
 "Jumbo box","Jumbo box",module,Magento_Dhl
 "DHL service is not available at %s date","DHL service is not available at %s date",module,Magento_Dhl
 "The response is in wrong format.","The response is in wrong format.",module,Magento_Dhl
-"Error #%1 : %2","Error #%1 : %2",module,Magento_Dhl
 "We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).","We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).",module,Magento_Dhl
 "Zero shipping charge for '%1'","Zero shipping charge for '%1'",module,Magento_Dhl
 DHL,DHL,module,Magento_Dhl
@@ -4404,10 +4472,13 @@ Documents,Documents,module,Magento_Dhl
 "Wrong Region","Wrong Region",module,Magento_Dhl
 "Unable to retrieve tracking","Unable to retrieve tracking",module,Magento_Dhl
 "Response is in the wrong format","Response is in the wrong format",module,Magento_Dhl
+"Error #%1 : %2","Error #%1 : %2",module,Magento_Dhl
 "No packages for request","No packages for request",module,Magento_Dhl
 "Unable to retrieve shipping label","Unable to retrieve shipping label",module,Magento_Dhl
 "Non documents","Non documents",module,Magento_Dhl
 None,Нет,module,Magento_Dhl
+"Security validation of XML document has been failed.","Security validation of XML document has been failed.",module,Magento_Dhl
+"The response is in the wrong format","The response is in the wrong format",module,Magento_Dhl
 Field,Field,module,Magento_Dhl
 "is required.","is required.",module,Magento_Dhl
 "Enabled for Checkout","Enabled for Checkout",module,Magento_Dhl
@@ -4552,6 +4623,7 @@ Shareable,Shareable,module,Magento_Downloadable
 Samples,Samples,module,Magento_Downloadable
 "Use Default Value","Использовать значение по умолчанию",module,Magento_Downloadable
 sample,sample,module,Magento_Downloadable
+"Is this a downloadable Product?","Is this a downloadable Product?",module,Magento_Downloadable
 "Add links to your product files here.","Add links to your product files here.",module,Magento_Downloadable
 "[STORE VIEW]","[Представление магазина]",module,Magento_Downloadable
 [GLOBAL],[ГЛОБАЛЬНО],module,Magento_Downloadable
@@ -4649,7 +4721,6 @@ Dropdown,Dropdown,module,Magento_Eav
 """%1"" is not a valid hostname.","""%1"" is not a valid hostname.",module,Magento_Eav
 """%1"" uses too many characters.","""%1"" uses too many characters.",module,Magento_Eav
 "'%value%' looks like an IP address, which is not an acceptable format.","'%value%' looks like an IP address, which is not an acceptable format.",module,Magento_Eav
-"'%value%' looks like a DNS hostname but we cannot match the TLD against known list.","'%value%' looks like a DNS hostname but we cannot match the TLD against known list.",module,Magento_Eav
 "'%value%' looks like a DNS hostname but contains a dash in an invalid position.","'%value%' looks like a DNS hostname but contains a dash in an invalid position.",module,Magento_Eav
 "'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.","'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.",module,Magento_Eav
 "'%value%' looks like a DNS hostname but cannot extract TLD part.","'%value%' looks like a DNS hostname but cannot extract TLD part.",module,Magento_Eav
@@ -4746,12 +4817,15 @@ label,label,module,Magento_Eav
 "Wrong entity ID","Wrong entity ID",module,Magento_Eav
 "Wrong attribute set ID","Wrong attribute set ID",module,Magento_Eav
 "Wrong attribute group ID","Wrong attribute group ID",module,Magento_Eav
+"Attribute with ID: ""%1"" does not exist","Attribute with ID: ""%1"" does not exist",module,Magento_Eav
 "AttributeSet does not exist.","AttributeSet does not exist.",module,Magento_Eav
 hello,hello,module,Magento_Eav
 "Some internal exception message.","Some internal exception message.",module,Magento_Eav
 "The value of attribute not valid","The value of attribute not valid",module,Magento_Eav
 "EAV types and attributes","EAV types and attributes",module,Magento_Eav
 "Entity types declaration cache","Entity types declaration cache",module,Magento_Eav
+"There is no such data mapper ""%1"" for interface %2","There is no such data mapper ""%1"" for interface %2",module,Magento_Elasticsearch
+"Data mapper ""%1"" must implement interface %2","Data mapper ""%1"" must implement interface %2",module,Magento_Elasticsearch
 "We were unable to perform the search because of a search engine misconfiguration.","Не удалось выполнить поиск из-за неправильной конфигурации поисковой системы.",module,Magento_Elasticsearch
 "Could not ping search engine: %1","Could not ping search engine: %1",module,Magento_Elasticsearch
 "Elasticsearch Server Hostname","Elasticsearch Server Hostname",module,Magento_Elasticsearch
@@ -4832,7 +4906,7 @@ City,Город,module,Magento_Email
 "<pre> %1 </pre>","<pre> %1 </pre>",module,Magento_Email
 "CSS inlining error:","CSS inlining error:",module,Magento_Email
 "Error filtering template: %s","Error filtering template: %s",module,Magento_Email
-"We're sorry, an error has occurred while generating this email.","We're sorry, an error has occurred while generating this email.",module,Magento_Email
+"We're sorry, an error has occurred while generating this content.","We're sorry, an error has occurred while generating this content.",module,Magento_Email
 "Invalid sender data","Invalid sender data",module,Magento_Email
 Title,Title,module,Magento_Email
 "Load default template","Load default template",module,Magento_Email
@@ -4851,15 +4925,15 @@ Updated,Updated,module,Magento_Email
 Subject,Subject,module,Magento_Email
 "Template Type","Template Type",module,Magento_Email
 Action,Действие,module,Magento_Email
-"Logo Image","Logo Image",module,Magento_Email
 "Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.",module,Magento_Email
+"Logo Image","Logo Image",module,Magento_Email
 "Logo Image Alt","Logo Image Alt",module,Magento_Email
-"Logo Width","Ширина логотипа",module,Magento_Email
 "Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".","Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".",module,Magento_Email
-"Logo Height","Высота логотипа",module,Magento_Email
+"Logo Width","Ширина логотипа",module,Magento_Email
 "Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".","Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".",module,Magento_Email
-"Header Template","Header Template",module,Magento_Email
+"Logo Height","Высота логотипа",module,Magento_Email
 "Email template chosen based on theme fallback, when the ""Default"" option is selected.","Email template chosen based on theme fallback, when the ""Default"" option is selected.",module,Magento_Email
+"Header Template","Header Template",module,Magento_Email
 "Footer Template","Footer Template",module,Magento_Email
 "Change Encryption Key","Изменить ключ шифрования",module,Magento_EncryptionKey
 "Encryption Key","Ключ шифрования",module,Magento_EncryptionKey
@@ -5246,7 +5320,7 @@ OK,OK,module,Magento_GiftMessage
 "Gift Options","Gift Options",module,Magento_GiftMessage
 "Gift Message","Gift Message",module,Magento_GiftMessage
 "Do you have any gift items in your order?","Do you have any gift items in your order?",module,Magento_GiftMessage
-"Add gift options","Add gift options",module,Magento_GiftMessage
+"Add Gift Options","Add Gift Options",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Gift Options for the Entire Order",module,Magento_GiftMessage
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Leave this box blank if you don't want to leave a gift message for the entire order.",module,Magento_GiftMessage
 "Gift Options for Individual Items","Gift Options for Individual Items",module,Magento_GiftMessage
@@ -5254,7 +5328,7 @@ OK,OK,module,Magento_GiftMessage
 "Leave a box blank if you don't want to add a gift message for that item.","Leave a box blank if you don't want to add a gift message for that item.",module,Magento_GiftMessage
 "Add Gift Options for the Entire Order","Add Gift Options for the Entire Order",module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for this address.","You can leave this box blank if you don't want to add a gift message for this address.",module,Magento_GiftMessage
-"Add gift options for Individual Items","Add gift options for Individual Items",module,Magento_GiftMessage
+"Add Gift Options for Individual Items","Add Gift Options for Individual Items",module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for the item.","You can leave this box blank if you don't want to add a gift message for the item.",module,Magento_GiftMessage
 "Gift Message (optional)","Gift Message (optional)",module,Magento_GiftMessage
 To:,To:,module,Magento_GiftMessage
@@ -5753,6 +5827,8 @@ Download,Download,module,Magento_ImportExport
 Import,Импорт,module,Magento_ImportExport
 "Import Settings","Import Settings",module,Magento_ImportExport
 "Import Behavior","Import Behavior",module,Magento_ImportExport
+"Stop on Error","Stop on Error",module,Magento_ImportExport
+"Skip error entries","Skip error entries",module,Magento_ImportExport
 "Allowed Errors Count","Allowed Errors Count",module,Magento_ImportExport
 "Please specify number of errors to halt import process","Please specify number of errors to halt import process",module,Magento_ImportExport
 "Field separator","Field separator",module,Magento_ImportExport
@@ -5776,11 +5852,12 @@ Status,Статус,module,Magento_ImportExport
 "Import successfully done","Import successfully done",module,Magento_ImportExport
 "Sorry, but the data is invalid or the file is not uploaded.","Sorry, but the data is invalid or the file is not uploaded.",module,Magento_ImportExport
 "The file was not uploaded.","The file was not uploaded.",module,Magento_ImportExport
-"This file is empty. Please try another one.","This file is empty. Please try another one.",module,Magento_ImportExport
 "Data validation failed. Please fix the following errors and upload the file again.","Data validation failed. Please fix the following errors and upload the file again.",module,Magento_ImportExport
+"Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4",module,Magento_ImportExport
+"This file is empty. Please try another one.","This file is empty. Please try another one.",module,Magento_ImportExport
+"Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors","Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors",module,Magento_ImportExport
 "File is valid! To start import process press ""Import"" button","File is valid! To start import process press ""Import"" button",module,Magento_ImportExport
 "The file is valid, but we can't import it for some reason.","The file is valid, but we can't import it for some reason.",module,Magento_ImportExport
-"Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4",module,Magento_ImportExport
 "Show more","Show more",module,Magento_ImportExport
 "Additional data","Additional data",module,Magento_ImportExport
 "Following Error(s) has been occurred during importing process:","Following Error(s) has been occurred during importing process:",module,Magento_ImportExport
@@ -5923,6 +6000,7 @@ Reauthorize,Reauthorize,module,Magento_Integration
 "Integration '%1' has been sent for re-authorization.","Integration '%1' has been sent for re-authorization.",module,Magento_Integration
 "Integration '%1' has been sent for activation.","Integration '%1' has been sent for activation.",module,Magento_Integration
 "A consumer with ID %1 does not exist","A consumer with ID %1 does not exist",module,Magento_Integration
+title,title,module,Magento_Integration
 "You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled.",module,Magento_Integration
 "This user has no tokens.","This user has no tokens.",module,Magento_Integration
 "The tokens could not be revoked.","The tokens could not be revoked.",module,Magento_Integration
@@ -5984,12 +6062,18 @@ Allow,Разрешить,module,Magento_Integration
 Done,Done,module,Magento_Integration
 Extensions,Extensions,module,Magento_Integration
 OAuth,OAuth,module,Magento_Integration
+"Access Token Expiration","Access Token Expiration",module,Magento_Integration
+"Customer Token Lifetime (hours)","Customer Token Lifetime (hours)",module,Magento_Integration
+"Admin Token Lifetime (hours)","Admin Token Lifetime (hours)",module,Magento_Integration
 "Cleanup Settings","Cleanup Settings",module,Magento_Integration
 "Cleanup Probability","Cleanup Probability",module,Magento_Integration
 "Expiration Period","Expiration Period",module,Magento_Integration
 "Consumer Settings","Consumer Settings",module,Magento_Integration
 "OAuth consumer credentials HTTP Post maxredirects","OAuth consumer credentials HTTP Post maxredirects",module,Magento_Integration
 "OAuth consumer credentials HTTP Post timeout","OAuth consumer credentials HTTP Post timeout",module,Magento_Integration
+"Authentication Locks","Authentication Locks",module,Magento_Integration
+"Maximum Login Failures to Lock Out Account","Maximum Login Failures to Lock Out Account",module,Magento_Integration
+"Lockout Time (seconds)","Lockout Time (seconds)",module,Magento_Integration
 "Integrations Configuration","Integrations Configuration",module,Magento_Integration
 "Integration configuration file","Integration configuration file",module,Magento_Integration
 "Integrations API Configuration","Integrations API Configuration",module,Magento_Integration
@@ -6312,7 +6396,6 @@ Partners,Партнеры,module,Magento_Marketplace
 "Read More","Read More",module,Magento_Marketplace
 "Partner Page","Partner Page",module,Magento_Marketplace
 "No partners were found","No partners were found",module,Magento_Marketplace
-"Find Partners & Extensions","Find Partners & Extensions",module,Magento_Marketplace
 Synchronize,Синхронизация,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronizing %1 to %2",module,Magento_MediaStorage
 Synchronizing...,Синхронизация...,module,Magento_MediaStorage
@@ -6476,6 +6559,7 @@ Actions,Действия,module,Magento_MultipleWishlist
 View,View,module,Magento_MultipleWishlist
 "Your search returned no results.","Your search returned no results.",module,Magento_MultipleWishlist
 "Wish List","Список желаний",module,Magento_MultipleWishlist
+"Create Wish List","Create Wish List",module,Magento_MultipleWishlist
 "Edit Wish List","Редактировать список желаний",module,Magento_MultipleWishlist
 Edit,Редактировать,module,Magento_MultipleWishlist
 "Public Wish List","Public Wish List",module,Magento_MultipleWishlist
@@ -6545,6 +6629,7 @@ Total,Всего,module,Magento_Multishipping
 "Please specify a payment method.","Please specify a payment method.",module,Magento_Multishipping
 "Please check shipping addresses information.","Please check shipping addresses information.",module,Magento_Multishipping
 "Please specify shipping methods for all addresses.","Please specify shipping methods for all addresses.",module,Magento_Multishipping
+"Some addresses cannot be used due to country-specific configurations.","Some addresses cannot be used due to country-specific configurations.",module,Magento_Multishipping
 "Select Addresses","Select Addresses",module,Magento_Multishipping
 "Shipping Information","Shipping Information",module,Magento_Multishipping
 "Billing Information","Billing Information",module,Magento_Multishipping
@@ -6874,6 +6959,7 @@ Import,Импорт,module,Magento_OfflineShipping
 "Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.",module,Magento_PageCache
 "Built-in Cache","Встроенный кэш",module,Magento_PageCache
 "Varnish Cache (Recommended)","Varnish Cache (Recommended)",module,Magento_PageCache
+"Unsupported varnish version","Unsupported varnish version",module,Magento_PageCache
 "Full Page Cache","Full Page Cache",module,Magento_PageCache
 "Caching Application","Caching Application",module,Magento_PageCache
 "Varnish Configuration","Varnish Configuration",module,Magento_PageCache
@@ -7137,8 +7223,8 @@ Dispute,Dispute,module,Magento_Paypal
 "N/A. Retry","N/A. Retry",module,Magento_Paypal
 "N/A. Service not Supported","N/A. Service not Supported",module,Magento_Paypal
 "N/A. Unavailable","N/A. Unavailable",module,Magento_Paypal
-"Matched whole nine-didgit ZIP (no Address)","Matched whole nine-didgit ZIP (no Address)",module,Magento_Paypal
-"Yes. Matched Address and five-didgit ZIP","Yes. Matched Address and five-didgit ZIP",module,Magento_Paypal
+"Matched whole nine-digit ZIP (no Address)","Matched whole nine-digit ZIP (no Address)",module,Magento_Paypal
+"Yes. Matched Address and five-digit ZIP","Yes. Matched Address and five-digit ZIP",module,Magento_Paypal
 "All the address information matched","All the address information matched",module,Magento_Paypal
 "None of the address information matched","None of the address information matched",module,Magento_Paypal
 "Part of the address information matched","Part of the address information matched",module,Magento_Paypal
@@ -7566,7 +7652,7 @@ User,User,module,Magento_Paypal
 "Reject Transaction if:","Reject Transaction if:",module,Magento_Paypal
 "AVS Street Does Not Match","AVS Street Does Not Match",module,Magento_Paypal
 "AVS Zip Does Not Match","AVS Zip Does Not Match",module,Magento_Paypal
-"International AVS Indicator Does Not Match","International AVS Indicator Does Not Match",module,Magento_Paypal
+"Card Issuer Is Outside The United States","Card Issuer Is Outside The United States",module,Magento_Paypal
 "Card Security Code Does Not Match","Card Security Code Does Not Match",module,Magento_Paypal
 "Payflow Pro and Express Checkout","Payflow Pro and Express Checkout",module,Magento_Paypal
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
@@ -7703,6 +7789,7 @@ Delete,Удалить,module,Magento_ProductVideo
 "Shipping address is not set","Shipping address is not set",module,Magento_Quote
 "The requested Payment Method is not available.","The requested Payment Method is not available.",module,Magento_Quote
 "We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote.",module,Magento_Quote
+"Product that you are trying to add is not available.","Product that you are trying to add is not available.",module,Magento_Quote
 "This is the wrong quote item id to update configuration.","This is the wrong quote item id to update configuration.",module,Magento_Quote
 "This shipping method is not available. To use this shipping method, please contact us.","This shipping method is not available. To use this shipping method, please contact us.",module,Magento_Quote
 "The address model is not defined.","The address model is not defined.",module,Magento_Quote
@@ -7740,6 +7827,7 @@ Subtotal,"Промежуточный итог",module,Magento_Quote
 "Only 1 shipping assignment can be set","Only 1 shipping assignment can be set",module,Magento_Quote
 "This item price or quantity is not valid for checkout.","This item price or quantity is not valid for checkout.",module,Magento_Quote
 "Please check the shipping address information. %1","Please check the shipping address information. %1",module,Magento_Quote
+"Some addresses cannot be used due to country-specific configurations.","Some addresses cannot be used due to country-specific configurations.",module,Magento_Quote
 "Please specify a shipping method.","Please specify a shipping method.",module,Magento_Quote
 "Please check the billing address information. %1","Please check the billing address information. %1",module,Magento_Quote
 "Please select a valid payment method.","Please select a valid payment method.",module,Magento_Quote
@@ -7751,8 +7839,8 @@ Tax,Налог,module,Magento_Quote
 "Cannot set shipping method. %1","Cannot set shipping method. %1",module,Magento_Quote
 "Shipping method is not applicable for empty cart","Shipping method is not applicable for empty cart",module,Magento_Quote
 "Cart contains virtual product(s) only. Shipping method is not applicable.","Cart contains virtual product(s) only. Shipping method is not applicable.",module,Magento_Quote
+"Minimum Order Amount Exceeded.","Minimum Order Amount Exceeded.",module,Magento_Quote
 error345,error345,module,Magento_Quote
-"Incorrect amount","Incorrect amount",module,Magento_Quote
 Carts,Carts,module,Magento_Quote
 "Manage carts","Manage carts",module,Magento_Quote
 "This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.",module,Magento_Reminder
@@ -7884,7 +7972,6 @@ is,is,module,Magento_Reminder
 "<b>Important</b>: If you select ""Use Auto Generation"", this rule will no longer be used in any automated email reminder rules for abandoned carts","<b>Important</b>: If you select ""Use Auto Generation"", this rule will no longer be used in any automated email reminder rules for abandoned carts",module,Magento_Reminder
 "Validate error 1","Validate error 1",module,Magento_Reminder
 "Validate error 2","Validate error 2",module,Magento_Reminder
-LocalizedException,LocalizedException,module,Magento_Reminder
 text,text,module,Magento_Reminder
 "Promotion reminder at %store_name","Promotion reminder at %store_name",module,Magento_Reminder
 "%name,","%name,",module,Magento_Reminder
@@ -8100,21 +8187,6 @@ Dashboard,"Панель управления",module,Magento_Reports
 "Year-To-Date Starts","Year-To-Date Starts",module,Magento_Reports
 "Current Month Starts","Current Month Starts",module,Magento_Reports
 "Select day of the month.","Select day of the month.",module,Magento_Reports
-"Recently Viewed Products","Recently Viewed Products",module,Magento_Reports
-"List of Products Recently Viewed by Visitor","List of Products Recently Viewed by Visitor",module,Magento_Reports
-"Number of Products to display","Number of Products to display",module,Magento_Reports
-"Viewed Products Grid Template","Viewed Products Grid Template",module,Magento_Reports
-"Viewed Products List Template","Viewed Products List Template",module,Magento_Reports
-"Viewed Products Images and Names Template","Viewed Products Images and Names Template",module,Magento_Reports
-"Viewed Products Names Only Template","Viewed Products Names Only Template",module,Magento_Reports
-"Viewed Products Images Only Template","Viewed Products Images Only Template",module,Magento_Reports
-"Recently Compared Products","Recently Compared Products",module,Magento_Reports
-"List of Products Recently Compared and Removed from the Compare List by Visitor","List of Products Recently Compared and Removed from the Compare List by Visitor",module,Magento_Reports
-"Compared Products Grid Template","Compared Products Grid Template",module,Magento_Reports
-"Compared Products List Template","Compared Products List Template",module,Magento_Reports
-"Compared Products Images and Names Template","Compared Products Images and Names Template",module,Magento_Reports
-"Compared Product Names Only Template","Compared Product Names Only Template",module,Magento_Reports
-"Compared Product Images Only Template","Compared Product Images Only Template",module,Magento_Reports
 Average,"В среднем",module,Magento_Reports
 "Stock Quantity","Stock Quantity",module,Magento_Reports
 "Ordered Quantity","Ordered Quantity",module,Magento_Reports
@@ -8656,6 +8728,7 @@ Closed,Closed,module,Magento_Rma
 "ID cannot be an empty","ID cannot be an empty",module,Magento_Rma
 "Requested entity doesn't exist","Requested entity doesn't exist",module,Magento_Rma
 "Please enter a valid comment.","Please enter a valid comment.",module,Magento_Rma
+"No such entity with %1 = %2, %3 = %4","No such entity with %1 = %2, %3 = %4",module,Magento_Rma
 "Invalid carrier: %1","Invalid carrier: %1",module,Magento_Rma
 "We need more information to create your shipping label(s). Please verify your store information and shipping settings.","We need more information to create your shipping label(s). Please verify your store information and shipping settings.",module,Magento_Rma
 "No detail for number ""%1""","No detail for number ""%1""",module,Magento_Rma
@@ -8809,6 +8882,7 @@ Feed,Feed,module,Magento_Rss
 "RSS Feeds","RSS Feeds",module,Magento_Rss
 "Rss Config","Rss Config",module,Magento_Rss
 "Enable RSS","Enable RSS",module,Magento_Rss
+RSS,RSS,module,Magento_Rss
 Apply,Применить,module,Magento_Rule
 "Please choose a valid discount amount.","Please choose a valid discount amount.",module,Magento_Rule
 "End Date must follow Start Date.","End Date must follow Start Date.",module,Magento_Rule
@@ -9152,6 +9226,8 @@ Guest,Гость,module,Magento_Sales
 "Please enter the street.","Please enter the street.",module,Magento_Sales
 "Please enter the city.","Please enter the city.",module,Magento_Sales
 "Please enter the phone number.","Please enter the phone number.",module,Magento_Sales
+"Please enter the company.","Please enter the company.",module,Magento_Sales
+"Please enter the fax number.","Please enter the fax number.",module,Magento_Sales
 "Please enter the zip/postal code.","Please enter the zip/postal code.",module,Magento_Sales
 "Please enter the country.","Please enter the country.",module,Magento_Sales
 "Please enter the state/province.","Please enter the state/province.",module,Magento_Sales
@@ -9210,11 +9286,6 @@ Mixed,Mixed,module,Magento_Sales
 "The payment method you requested is not available.","The payment method you requested is not available.",module,Magento_Sales
 "The payment disallows storing objects.","The payment disallows storing objects.",module,Magento_Sales
 "The transaction ""%1"" cannot be captured yet.","The transaction ""%1"" cannot be captured yet.",module,Magento_Sales
-"The order amount of %1 is pending approval on the payment gateway.","The order amount of %1 is pending approval on the payment gateway.",module,Magento_Sales
-"Ordered amount of %1","Ordered amount of %1",module,Magento_Sales
-"An amount of %1 will be captured after being approved at the payment gateway.","An amount of %1 will be captured after being approved at the payment gateway.",module,Magento_Sales
-"Registered notification about captured amount of %1.","Registered notification about captured amount of %1.",module,Magento_Sales
-"Order is suspended as its capture amount %1 is suspected to be fraudulent.","Order is suspended as its capture amount %1 is suspected to be fraudulent.",module,Magento_Sales
 "The parent transaction ID must have a transaction ID.","The parent transaction ID must have a transaction ID.",module,Magento_Sales
 "Payment transactions disallow storing objects.","Payment transactions disallow storing objects.",module,Magento_Sales
 "The transaction ""%1"" (%2) is already closed.","The transaction ""%1"" (%2) is already closed.",module,Magento_Sales
@@ -9255,6 +9326,7 @@ Tax,Налог,module,Magento_Sales
 "Packing Slip #","Packing Slip #",module,Magento_Sales
 title,title,module,Magento_Sales
 "The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.","The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.",module,Magento_Sales
+"Received check doesn't match interface","Received check doesn't match interface",module,Magento_Sales
 "We cannot register an existing shipment","We cannot register an existing shipment",module,Magento_Sales
 "Parent shipment cannot be loaded for track object.","Parent shipment cannot be loaded for track object.",module,Magento_Sales
 "Order Id is required for shipment document","Order Id is required for shipment document",module,Magento_Sales
@@ -9318,10 +9390,6 @@ Closed,Closed,module,Magento_Sales
 New,Новый,module,Magento_Sales
 "test message","тестовое сообщение",module,Magento_Sales
 "Email has not been sent","Сообщение не было отправлено",module,Magento_Sales
-"Authorized amount of %1.","Authorized amount of %1.",module,Magento_Sales
-"We will authorize %1 after the payment is approved at the payment gateway.","We will authorize %1 after the payment is approved at the payment gateway.",module,Magento_Sales
-"Authorized amount of %1. Order is suspended as its authorizing amount %1 is suspected to be fraudulent.","Authorized amount of %1. Order is suspended as its authorizing amount %1 is suspected to be fraudulent.",module,Magento_Sales
-"Captured amount of %1 online.","Captured amount of %1 online.",module,Magento_Sales
 "Authorized amount of %1","Authorized amount of %1",module,Magento_Sales
 "Transaction ID: ""%1""","Transaction ID: ""%1""",module,Magento_Sales
 View,View,module,Magento_Sales
@@ -9765,8 +9833,8 @@ Promotions,Promotions,module,Magento_SalesRule
 "New Rule","Новое правило",module,Magento_SalesRule
 "New Cart Price Rule","New Cart Price Rule",module,Magento_SalesRule
 "Rule is not defined","Rule is not defined",module,Magento_SalesRule
-"Invalid data provided","Invalid data provided",module,Magento_SalesRule
 "%1 coupon(s) have been generated.","%1 coupon(s) have been generated.",module,Magento_SalesRule
+"Invalid data provided","Invalid data provided",module,Magento_SalesRule
 "Something went wrong while generating coupons. Please review the log and try again.","Something went wrong while generating coupons. Please review the log and try again.",module,Magento_SalesRule
 Catalog,Каталог,module,Magento_SalesRule
 "The wrong rule is specified.","The wrong rule is specified.",module,Magento_SalesRule
@@ -9856,11 +9924,11 @@ Description,Description,module,Magento_SalesRule
 Websites,Websites,module,Magento_SalesRule
 "Customer Groups","Группы покупателей",module,Magento_SalesRule
 Coupon,Coupon,module,Magento_SalesRule
-"Use Auto Generation","Use Auto Generation",module,Magento_SalesRule
 "If you select and save the rule you will be able to generate multiple coupon codes.","If you select and save the rule you will be able to generate multiple coupon codes.",module,Magento_SalesRule
+"Use Auto Generation","Use Auto Generation",module,Magento_SalesRule
 "Uses per Coupon","Uses per Coupon",module,Magento_SalesRule
-"Uses per Customer","Uses per Customer",module,Magento_SalesRule
 "Usage limit enforced for logged in customers only.","Usage limit enforced for logged in customers only.",module,Magento_SalesRule
+"Uses per Customer","Uses per Customer",module,Magento_SalesRule
 From,от,module,Magento_SalesRule
 To,До,module,Magento_SalesRule
 "Public In RSS Feed","Public In RSS Feed",module,Magento_SalesRule
@@ -9889,7 +9957,6 @@ Edit,Edit,module,Magento_SalesRuleStaging
 Name,Name,module,Magento_SalesRuleStaging
 Description,Description,module,Magento_SalesRuleStaging
 "Update Information","Update Information",module,Magento_SalesRuleStaging
-"Remove Cart Price Rule from Update","Remove Cart Price Rule from Update",module,Magento_SalesRuleStaging
 "Update Name","Update Name",module,Magento_SalesRuleStaging
 "Start Date","Start Date",module,Magento_SalesRuleStaging
 "End Date","End Date",module,Magento_SalesRuleStaging
@@ -9911,17 +9978,17 @@ Labels,Labels,module,Magento_SalesRuleStaging
 "Move to Another Update","Move to Another Update",module,Magento_SalesRuleStaging
 "Delete the Update","Delete the Update",module,Magento_SalesRuleStaging
 "The cart price rule will be removed from the update and all scheduled changes will be lost.","The cart price rule will be removed from the update and all scheduled changes will be lost.",module,Magento_SalesRuleStaging
-20,20,module,Magento_SalesRuleStaging
-30,30,module,Magento_SalesRuleStaging
-50,50,module,Magento_SalesRuleStaging
-100,100,module,Magento_SalesRuleStaging
 200,200,module,Magento_SalesRuleStaging
+100,100,module,Magento_SalesRuleStaging
+50,50,module,Magento_SalesRuleStaging
+30,30,module,Magento_SalesRuleStaging
+20,20,module,Magento_SalesRuleStaging
 "Start Time","Start Time",module,Magento_SalesRuleStaging
 "End Time","End Time",module,Magento_SalesRuleStaging
 "Cart Price Rules","Cart Price Rules",module,Magento_SalesRuleStaging
-"Remove Cart Price Rule from Campaign","Remove Cart Price Rule from Campaign",module,Magento_SalesRuleStaging
 "Entity Sequence profile not added to meta active profile","Entity Sequence profile not added to meta active profile",module,Magento_SalesSequence
 "Not enough arguments","Not enough arguments",module,Magento_SalesSequence
+"File not found","File not found",module,Magento_SampleData
 "Fatal Error","Fatal Error",module,Magento_ScalableCheckout
 "Advanced Inventory","Advanced Inventory",module,Magento_ScalableInventory
 "Manage Stock","Управление наличием",module,Magento_ScalableInventory
@@ -9941,6 +10008,7 @@ Backorders,Backorders,module,Magento_ScalableInventory
 "Enable Qty Increments","Enable Qty Increments",module,Magento_ScalableInventory
 "Qty Increments","Qty Increments",module,Magento_ScalableInventory
 "Stock Availability","Stock Availability",module,Magento_ScalableInventory
+"Use Deferred Stock Update","Use Deferred Stock Update",module,Magento_ScalableInventory
 "Add Scheduled Export","Добавить экспорт по расписанию",module,Magento_ScheduledImportExport
 "Add Scheduled Import","Добавить импорт по расписанию",module,Magento_ScheduledImportExport
 "Scheduled Import/Export","Импорт/Экспорт по расписанию",module,Magento_ScheduledImportExport
@@ -10142,16 +10210,15 @@ yes,yes,module,Magento_Search
 no,no,module,Magento_Search
 Action,Действие,module,Magento_Search
 Edit,Редактировать,module,Magento_Search
-Scope,Scope,module,Magento_Search
 "You can adjust the scope of this synonym group by selecting an option from the list.","You can adjust the scope of this synonym group by selecting an option from the list.",module,Magento_Search
-Synonyms,Synonyms,module,Magento_Search
+Scope,Scope,module,Magento_Search
 "Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”","Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”",module,Magento_Search
-"Merge existing synonyms","Merge existing synonyms",module,Magento_Search
+Synonyms,Synonyms,module,Magento_Search
 "Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.",module,Magento_Search
 "Store View","Представление магазина",module,Magento_Search
 Website,Веб-сайт,module,Magento_Search
-"Delete items","Delete items",module,Magento_Search
 "Are you sure you want to delete the selected synonym groups?","Are you sure you want to delete the selected synonym groups?",module,Magento_Search
+"Delete items","Delete items",module,Magento_Search
 "Advanced Search","Advanced Search",module,Magento_SearchStaging
 "Search Terms","Search Terms",module,Magento_SearchStaging
 "Account Activity","Account Activity",module,Magento_Security
@@ -10407,40 +10474,39 @@ City,Город,module,Magento_Shipping
 "Shipping Policy","Shipping Policy",module,Magento_Shipping
 "Shipping Methods","Shipping Methods",module,Magento_Shipping
 "Track your order","Track your order",module,Magento_Shipping
-Yes,Yes,module,Magento_Signifyd
-No,No,module,Magento_Signifyd
-"Submit Guarantee Request","Submit Guarantee Request",module,Magento_Signifyd
-"Cancel Guarantee Request","Cancel Guarantee Request",module,Magento_Signifyd
-"Order id is required.","Order id is required.",module,Magento_Signifyd
-"Guarantee has been cancelled for your order.","Guarantee has been cancelled for your order.",module,Magento_Signifyd
-"Sorry, we cannot cancel Guarantee for your order.","Sorry, we cannot cancel Guarantee for your order.",module,Magento_Signifyd
-"Order has been submitted for Guarantee.","Order has been submitted for Guarantee.",module,Magento_Signifyd
-"Sorry, we cannot submit order for Guarantee.","Sorry, we cannot submit order for Guarantee.",module,Magento_Signifyd
+"Track All Shipments","Track All Shipments",module,Magento_Shipping
+Approved,Approved,module,Magento_Signifyd
+Declined,Declined,module,Magento_Signifyd
+Pending,Pending,module,Magento_Signifyd
+Canceled,Canceled,module,Magento_Signifyd
+"In Review","In Review",module,Magento_Signifyd
+Unrequested,Unrequested,module,Magento_Signifyd
+"Learn more","Learn more",module,Magento_Signifyd
 "This order already has associated case entity","This order already has associated case entity",module,Magento_Signifyd
 "The case entity should not be empty.","The case entity should not be empty.",module,Magento_Signifyd
 "Cannot update Case entity.","Cannot update Case entity.",module,Magento_Signifyd
 "The ""%1"" should not be empty.","The ""%1"" should not be empty.",module,Magento_Signifyd
 "Case entity not found.","Case entity not found.",module,Magento_Signifyd
 "Case Update: New score for the order is %1. Previous score was %2.","Case Update: New score for the order is %1. Previous score was %2.",module,Magento_Signifyd
+"Awaiting the Signifyd guarantee disposition.","Awaiting the Signifyd guarantee disposition.",module,Magento_Signifyd
+"Only single entrance of ""%1"" node is required.","Only single entrance of ""%1"" node is required.",module,Magento_Signifyd
+"Not empty value for ""%1"" node is required.","Not empty value for ""%1"" node is required.",module,Magento_Signifyd
+"%1 must implement %2","%1 must implement %2",module,Magento_Signifyd
 Error,Error,module,Magento_Signifyd
 "Cannot generate message.","Cannot generate message.",module,Magento_Signifyd
 "Message is generated.","Message is generated.",module,Magento_Signifyd
+"Case with the same order id already exists.","Case with the same order id already exists.",module,Magento_Signifyd
 "Fraud Protection Information","Fraud Protection Information",module,Magento_Signifyd
-"Case Status","Case Status",module,Magento_Signifyd
-"Case Score","Case Score",module,Magento_Signifyd
-"Guarantee Eligible","Guarantee Eligible",module,Magento_Signifyd
-"Guarantee Disposition","Guarantee Disposition",module,Magento_Signifyd
-"Associated Team","Associated Team",module,Magento_Signifyd
-"Review Disposition","Review Disposition",module,Magento_Signifyd
-"Case Created","Case Created",module,Magento_Signifyd
-"Case Updated","Case Updated",module,Magento_Signifyd
+"Signifyd Guarantee Decision","Signifyd Guarantee Decision",module,Magento_Signifyd
 "Fraud Protection Section","Fraud Protection Section",module,Magento_Signifyd
 "Fraud Protection","Fraud Protection",module,Magento_Signifyd
-Signifyd,Signifyd,module,Magento_Signifyd
+"Protect your store from fraud with Guaranteed Fraud Protection by Signifyd.","Protect your store from fraud with Guaranteed Fraud Protection by Signifyd.",module,Magento_Signifyd
+Configuration,Configuration,module,Magento_Signifyd
 "Enable this Solution","Enable this Solution",module,Magento_Signifyd
 "API Key","API Key",module,Magento_Signifyd
 "API URL","API URL",module,Magento_Signifyd
 Debug,Debug,module,Magento_Signifyd
+"Webhook URL","Webhook URL",module,Magento_Signifyd
 "Save & Generate","Сохранить & генерировать",module,Magento_Sitemap
 "Edit Sitemap","Edit Sitemap",module,Magento_Sitemap
 "New Sitemap","New Sitemap",module,Magento_Sitemap
@@ -10533,6 +10599,11 @@ Save,Сохранить,module,Magento_Staging
 "Date & Time","Date & Time",module,Magento_Staging
 "This update not exists.","This update not exists.",module,Magento_Staging
 "Content Staging Dashboard","Content Staging Dashboard",module,Magento_Staging
+"The Start Time of this Update cannot be changed. It's been already started.","The Start Time of this Update cannot be changed. It's been already started.",module,Magento_Staging
+"Future Update in this time range already exists. 
+                            Select a different range to add a new Future Update.","Future Update in this time range already exists. 
+                            Select a different range to add a new Future Update.",module,Magento_Staging
+"Cannot save Update.","Cannot save Update.",module,Magento_Staging
 "Edit Existing Update","Edit Existing Update",module,Magento_Staging
 "Assign to Another Update","Assign to Another Update",module,Magento_Staging
 "Save as a New Update","Save as a New Update",module,Magento_Staging
@@ -10591,14 +10662,20 @@ Includes,Includes,module,Magento_Staging
 "Start Time","Время начала",module,Magento_Staging
 "End Time","End Time",module,Magento_Staging
 Description,Description,module,Magento_Staging
-Action,Действие,module,Magento_Staging
-"MMM d, y h:mm a","MMM d, y h:mm a",module,Magento_Staging
 "Invalid store parameter.","Invalid store parameter.",module,Magento_Store
 "Current store is not active.","Current store is not active.",module,Magento_Store
 "Requested store is inactive","Requested store is inactive",module,Magento_Store
 "Requested store is not found","Requested store is not found",module,Magento_Store
 "Environment emulation nesting is not allowed.","Environment emulation nesting is not allowed.",module,Magento_Store
+%1,%1,module,Magento_Store
+"Website was not found","Website was not found",module,Magento_Store
+"Group was not found","Group was not found",module,Magento_Store
+"Store was not found","Store was not found",module,Magento_Store
+"Class for type ""%1"" was not declared","Class for type ""%1"" was not declared",module,Magento_Store
+"%1 should implement %2","%1 should implement %2",module,Magento_Store
+"The following stores are not associated with a root category: ' . . '. For the store to be displayed in the storefront, it must be associated with a root category.","The following stores are not associated with a root category: ' . . '. For the store to be displayed in the storefront, it must be associated with a root category.",module,Magento_Store
 "Invalid scope object","Invalid scope object",module,Magento_Store
+"Group with the same code","Group with the same code",module,Magento_Store
 "Store with the same code","Store with the same code",module,Magento_Store
 "Website with the same code","Website with the same code",module,Magento_Store
 "Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.",module,Magento_Store
@@ -10852,6 +10929,7 @@ Expand,Expand,module,Magento_Support
 "(no data)","(no data)",module,Magento_Support
 Top,Top,module,Magento_Support
 "No data","No data",module,Magento_Support
+"Support Data Collector","Support Data Collector",module,Magento_Support
 "Support System Report","Support System Report",module,Magento_Support
 "System Report","System Report",module,Magento_Support
 Data,Data,module,Magento_Support
@@ -10862,10 +10940,10 @@ Events,Events,module,Magento_Support
 Cron,Cron,module,Magento_Support
 Design,Дизайн,module,Magento_Support
 Stores,Магазины,module,Magento_Support
-"Refresh Status","Обновить статус",module,Magento_Support
 "New Backup","New Backup",module,Magento_Support
-"Delete items","Delete items",module,Magento_Support
+"Refresh Status","Обновить статус",module,Magento_Support
 "Are you sure you want to delete selected item(s)?","Are you sure you want to delete selected item(s)?",module,Magento_Support
+"Delete items","Delete items",module,Magento_Support
 "Code Dump","Code Dump",module,Magento_Support
 "DB Dump","DB Dump",module,Magento_Support
 "Choose Report Groups","Choose Report Groups",module,Magento_Support
@@ -10901,13 +10979,15 @@ Options,Options,module,Magento_Swatches
 "Remove Option","Remove Option",module,Magento_Swatches
 "Create New Value","Create New Value",module,Magento_Swatches
 "These changes affect all related products.","These changes affect all related products.",module,Magento_Swatches
+Swatches,Swatches,module,Magento_Swatches
 "Swatches per Product","Swatches per Product",module,Magento_Swatches
+"Show Swatches in Product List","Show Swatches in Product List",module,Magento_Swatches
 "Swatch Image","Swatch Image",module,Magento_Swatches
-Image,Image,module,Magento_Swatches
 "Allowed file types: jpeg, gif, png.","Allowed file types: jpeg, gif, png.",module,Magento_Swatches
+Image,Image,module,Magento_Swatches
 "Image Opacity","Image Opacity",module,Magento_Swatches
-"Image Size","Image Size",module,Magento_Swatches
 "Example format: 200x300.","Example format: 200x300.",module,Magento_Swatches
+"Image Size","Image Size",module,Magento_Swatches
 "Image Position","Image Position",module,Magento_Swatches
 "Default Store View","Default Store View",module,Magento_Swatches
 Admin,Admin,module,Magento_Swatches
@@ -11062,6 +11142,7 @@ Tax,Налог,module,Magento_Tax
 "Edit Tax Rate","Edit Tax Rate",module,Magento_Tax
 "You saved the tax rate.","You saved the tax rate.",module,Magento_Tax
 "Tax Rules","Tax Rules",module,Magento_Tax
+"An error occurred while loading tax rates.","An error occurred while loading tax rates.",module,Magento_Tax
 "The tax rule has been deleted.","The tax rule has been deleted.",module,Magento_Tax
 "This rule no longer exists.","This rule no longer exists.",module,Magento_Tax
 "Something went wrong deleting this tax rule.","Something went wrong deleting this tax rule.",module,Magento_Tax
@@ -11347,7 +11428,6 @@ Password:,Password:,module,Magento_Theme
 Empty,Empty,module,Magento_Theme
 "1 column","1 колонка",module,Magento_Theme
 Configuration,Configuration,module,Magento_Theme
-"Default Description","Описание по умолчанию",module,Magento_Theme
 "Default welcome msg!","Приветствие по умолчанию!",module,Magento_Theme
 "Copyright © 2013-2017 Magento, Inc. All rights reserved.","Copyright © 2013-2017 Magento, Inc. All rights reserved.",module,Magento_Theme
 "Design Config Grid","Design Config Grid",module,Magento_Theme
@@ -11357,29 +11437,31 @@ Configuration,Configuration,module,Magento_Theme
 "Theme Information","Theme Information",module,Magento_Theme
 "Other Settings","Other Settings",module,Magento_Theme
 "HTML Head","HTML Head",module,Magento_Theme
+"Allowed file types: ico, png, gif, jpg, jpeg, apng. Not all browsers support all these formats!","Allowed file types: ico, png, gif, jpg, jpeg, apng. Not all browsers support all these formats!",module,Magento_Theme
 "Favicon Icon","Значок Favicon",module,Magento_Theme
-"Allowed file types: ico, png, gif, jpg, jpeg, apng, svg. Not all browsers support all these formats!","Allowed file types: ico, png, gif, jpg, jpeg, apng, svg. Not all browsers support all these formats!",module,Magento_Theme
-"Default Title","Default Title",module,Magento_Theme
-"Title Prefix","Title Prefix",module,Magento_Theme
-"Title Suffix","Title Suffix",module,Magento_Theme
-"Default Keywords","Ключевые слова по умолчанию",module,Magento_Theme
-"Scripts and Style Sheets","Scripts and Style Sheets",module,Magento_Theme
+"Default Page Title","Default Page Title",module,Magento_Theme
+"Page Title Prefix","Page Title Prefix",module,Magento_Theme
+"Page Title Suffix","Page Title Suffix",module,Magento_Theme
+"Default Meta Description","Default Meta Description",module,Magento_Theme
+"Default Meta Keywords","Default Meta Keywords",module,Magento_Theme
 "This will be included before head closing tag in page HTML.","This will be included before head closing tag in page HTML.",module,Magento_Theme
+"Scripts and Style Sheets","Scripts and Style Sheets",module,Magento_Theme
 "Display Demo Store Notice","Отображать уведомление о том, что это демонстрационный сайт",module,Magento_Theme
 Header,Header,module,Magento_Theme
+"Allowed file types: png, gif, jpg, jpeg.","Allowed file types: png, gif, jpg, jpeg.",module,Magento_Theme
 "Logo Image","Logo Image",module,Magento_Theme
-"Allowed file types: png, gif, jpg, jpeg, svg.","Allowed file types: png, gif, jpg, jpeg, svg.",module,Magento_Theme
 "Logo Attribute Width","Logo Attribute Width",module,Magento_Theme
 "Logo Attribute Height","Logo Attribute Height",module,Magento_Theme
 "Welcome Text","Welcome Text",module,Magento_Theme
 "Logo Image Alt","Logo Image Alt",module,Magento_Theme
 Footer,Footer,module,Magento_Theme
-"Miscellaneous HTML","Miscellaneous HTML",module,Magento_Theme
 "This will be displayed just before the body closing tag.","This will be displayed just before the body closing tag.",module,Magento_Theme
+"Miscellaneous HTML","Miscellaneous HTML",module,Magento_Theme
 Copyright,Copyright,module,Magento_Theme
 "Default Robots","Default Robots",module,Magento_Theme
 "Edit custom instruction of robots.txt File","Edit custom instruction of robots.txt File",module,Magento_Theme
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","This action will delete your custom instructions and reset robots.txt file to system's default settings.",module,Magento_Theme
+"Reset To Defaults","Reset To Defaults",module,Magento_Theme
 Website,Website,module,Magento_Theme
 Store,Store,module,Magento_Theme
 "Store View","Store View",module,Magento_Theme
@@ -11403,6 +11485,8 @@ Translations,Translations,module,Magento_Translation
 "Add New %1","Add New %1",module,Magento_Ui
 "New %1","New %1",module,Magento_Ui
 "Please select item(s).","Please select item(s).",module,Magento_Ui
+"Invalid XML in file %1:\n%2","Invalid XML in file %1:\n%2",module,Magento_Ui
+.,.,module,Magento_Ui
 "Unsupported bookmark action.","Unsupported bookmark action.",module,Magento_Ui
 "Parameter ""class"" must be present.","Parameter ""class"" must be present.",module,Magento_Ui
 "Parameter ""sortOrder"" must be present.","Parameter ""sortOrder"" must be present.",module,Magento_Ui
@@ -11517,8 +11601,36 @@ Attention,Attention,module,Magento_Ui
 OK,OK,module,Magento_Ui
 Close,Закрыть,module,Magento_Ui
 Ok,Oк,module,Magento_Ui
+"Label Button 2","Label Button 2",module,Magento_Ui
+"Label Actions One","Label Actions One",module,Magento_Ui
+"Label Actions Two","Label Actions Two",module,Magento_Ui
+"Some Dynamic Actions","Some Dynamic Actions",module,Magento_Ui
 "Log JS Errors to Session Storage","Log JS Errors to Session Storage",module,Magento_Ui
 "Log JS Errors to Session Storage Key","Log JS Errors to Session Storage Key",module,Magento_Ui
+settings/label,settings/label,module,Magento_Ui
+settings/confirm/title,settings/confirm/title,module,Magento_Ui
+settings/confirm/message,settings/confirm/message,module,Magento_Ui
+settings/callback/provider,settings/callback/provider,module,Magento_Ui
+settings/callback/target,settings/callback/target,module,Magento_Ui
+settings/newViewLabel,settings/newViewLabel,module,Magento_Ui
+settings/title,settings/title,module,Magento_Ui
+settings/description,settings/description,module,Magento_Ui
+settings/addButtonLabel,settings/addButtonLabel,module,Magento_Ui
+formElements/*[name(.)=../../@formElement]/settings/description,formElements/*[name(.)=../../@formElement]/settings/description,module,Magento_Ui
+formElements/*[name(.)=../../@formElement]/settings/caption,formElements/*[name(.)=../../@formElement]/settings/caption,module,Magento_Ui
+formElements/*[name(.)=../../@formElement]/settings/title,formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
+settings/placeholder,settings/placeholder,module,Magento_Ui
+settings/caption,settings/caption,module,Magento_Ui
+settings/subTitle,settings/subTitle,module,Magento_Ui
+settings/visible,settings/visible,module,Magento_Ui
+settings/showLabel,settings/showLabel,module,Magento_Ui
+settings/breakLine,settings/breakLine,module,Magento_Ui
+settings/required,settings/required,module,Magento_Ui
+settings/size,settings/size,module,Magento_Ui
+settings/notice,settings/notice,module,Magento_Ui
+settings/tooltip/description,settings/tooltip/description,module,Magento_Ui
+settings/addBefore,settings/addBefore,module,Magento_Ui
+settings/addAfter,settings/addAfter,module,Magento_Ui
 Action,Действие,module,Magento_Ui
 CSV,CSV,module,Magento_Ui
 "Excel XML","Excel XML",module,Magento_Ui
@@ -11688,13 +11800,19 @@ Custom,Выборочный,module,Magento_UrlRewrite
 "Anchor symbol (#) is not supported in request path.","Anchor symbol (#) is not supported in request path.",module,Magento_UrlRewrite
 "Do not use two or more consecutive slashes in the url rewrite suffix.","Do not use two or more consecutive slashes in the url rewrite suffix.",module,Magento_UrlRewrite
 "Anchor symbol (#) is not supported in url rewrite suffix.","Anchor symbol (#) is not supported in url rewrite suffix.",module,Magento_UrlRewrite
+"URL key for specified store already exists","URL key for specified store already exists",module,Magento_UrlRewrite
+"Exception instance doesn't match %1 type","Exception instance doesn't match %1 type",module,Magento_UrlRewrite
 No,Нет,module,Magento_UrlRewrite
 "Temporary (302)","Temporary (302)",module,Magento_UrlRewrite
 "Permanent (301)","Permanent (301)",module,Magento_UrlRewrite
 "Request Path for Specified Store","Request Path for Specified Store",module,Magento_UrlRewrite
 "URL key for specified store already exists.","URL key for specified store already exists.",module,Magento_UrlRewrite
+"message %1","message %1",module,Magento_UrlRewrite
+message,message,module,Magento_UrlRewrite
 "Custom storage message","Custom storage message",module,Magento_UrlRewrite
 "Select Category","Выбрать категорию",module,Magento_UrlRewrite
+"The value specified in the URL Key field would generate a URL that already exists.","The value specified in the URL Key field would generate a URL that already exists.",module,Magento_UrlRewrite
+"To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:","To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:",module,Magento_UrlRewrite
 Action,Действие,module,Magento_UrlRewrite
 Edit,Редактировать,module,Magento_UrlRewrite
 Back,Вернуться,module,Magento_User
@@ -12484,6 +12602,7 @@ Action,Действие,module,Magento_Wishlist
 Configure,Настроить,module,Magento_Wishlist
 Delete,Удалить,module,Magento_Wishlist
 "Product Details and Comment","Product Details and Comment",module,Magento_Wishlist
+"Add To Wishlist","Add To Wishlist",module,Magento_Wishlist
 "Credit card type","Credit card type",module,Magento_Worldpay
 "CVV result","CVV result",module,Magento_Worldpay
 "Postcode AVS check","Postcode AVS check",module,Magento_Worldpay
