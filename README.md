@@ -13,7 +13,7 @@ Read more [Magento 2 Russian Language Pack](https://www.mageplaza.com/magento-2-
 - Install Russian Language Pack
 - How to Install Russian Language Pack
 
-## Download & Contribute to Russian Language Pack
+## 1. Download & Contribute to Russian Language Pack
 
 Below are two active buttons which are required operations before installing the language package. Let's hit them to download and contribute Magento 2 Russian Language Pack immediately!
 
@@ -23,13 +23,13 @@ Below are two active buttons which are required operations before installing the
 - [Download .tar.gz](https://github.com/mageplaza/magento-2-russian-language-pack/tarball/master)
 
 
-Find other [language packs here]({https://www.mageplaza.com/kb/magento-2-language-pack/)
+Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
 
-## How to Install Russian Language Pack
+## 2. How to Install Russian Language Pack
 
 There are 3 different methods to install this language pack.
 
-### ✓ #1. Composer method (Recommend)
+### ✓ Method #1. Composer method (Recommend)
 Install the Russian language pack via composer is never easier.
 
 **Install Russian pack**:
@@ -54,14 +54,14 @@ php bin/magento cache:flush
 
 ```
 
-#### Authentication required (Optional)
+#### Authentication required (If any)
 
 ![Authentication required](https://cdn.mageplaza.com/media/general/dmryiPk.png)
 
 If you have not added this authentication, you can follow [this guide](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html)
 
 
-### #2. Copy & Paste method (Not recommend)
+### ✓ Method #2. Copy & Paste method (Not recommended)
 
 This method suitable for non-technical people such as merchants. Just download the package then flush cache.
 
@@ -81,7 +81,7 @@ Unzip the Russian language pack to Magento 2 root folder. In this guide, we extr
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip fr.zip /var/www/html/
+unzip fr.zip app/code/Mageplaza/ru_ru
 ```
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -91,7 +91,7 @@ You also can unzip locally and upload them to Magento 2 root folder.
 Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza.com/kb/how-flush-enable-disable-cache.html)
 
 
-### #3. Download and install manually (Not recommend)
+### ✓ Method #3. Download and install manually (Not recommended)
 
 To download and install Russian pack manually, you have to access to your server via FTP or SFTP.
 
@@ -109,7 +109,7 @@ Unzip the compressed file and upload file `ru_RU.zip` into `app/i18n/mageplaza/r
 Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza.com/kb/how-flush-enable-disable-cache.html)
 
 
-## How to active Russian language pack
+## 3. How to active Russian language pack
 
 Now time to active the Russian language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
 ![{{Magento 2 Russian language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
@@ -253,25 +253,20 @@ Contribute to this language at https://crowdin.com/project/magento-2/ru
 ## Mageplaza extensions on Magento Marketplace, Github
 
 
-☞ [Magento 2 One Step Checkout extension](https://marketplace.magento.com/mageplaza-magento-2-one-step-checkout-extension.html)
 
-☞ [Magento 2 Blog extension](https://marketplace.magento.com/mageplaza-magento-2-blog-extension.html)
+☞ [Blog](https://github.com/mageplaza/magento-2-blog)
 
-☞ [Magento 2 Layered Navigation extension](https://marketplace.magento.com/mageplaza-layered-navigation-m2.html)
+☞ [Social Login](https://github.com/mageplaza/magento-2-social-login)
 
-☞ [Magento One Step Checkout](https://github.com/magento-2/one-step-checkout)
+☞ [SEO](https://github.com/mageplaza/magento-2-seo)
 
-☞ [Magento 2 Blog on Github](https://github.com/mageplaza/magento-2-blog)
+☞ [SMTP](https://github.com/mageplaza/magento-2-smtp)
 
-☞ [Magento 2 Social Login on Github](https://github.com/mageplaza/magento-2-social-login)
+☞ [Product Sliderthub](https://github.com/mageplaza/magento-2-product-slider)
 
-☞ [Magento 2 SEO on Github](https://github.com/mageplaza/magento-2-seo)
+☞ [Banner](https://github.com/mageplaza/magento-2-banner-slider)
 
-☞ [Magento 2 SMTP on Github](https://github.com/mageplaza/magento-2-smtp)
-
-☞ [Magento 2 Product Slider on Github](https://github.com/mageplaza/magento-2-product-slider)
-
-☞ [Magento 2 Banner on Github](https://github.com/mageplaza/magento-2-banner-slider)
+☞ [Sample Payment Method](https://github.com/mageplaza/magento-2-sample-payment-method)
 
 
 
