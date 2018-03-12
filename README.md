@@ -112,8 +112,8 @@ Now time to active the Russian language pack for your Magento 2 store. From Mage
 ![{{Magento 2 Russian language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
 
 
-<!-- ## Translation process of Russian Language Pack
-![process](http://progressed.io/bar/80) -->
+## 4. How to contribute
+<!-- ![process](http://progressed.io/bar/80) -->
 
 Contribute to this language at https://crowdin.com/project/magento-2/ru
 
