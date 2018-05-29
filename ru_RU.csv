@@ -1109,7 +1109,7 @@ MM,ММ,module,Magento_Braintree
 YY,YY,module,Magento_Braintree
 "Please try again with another form of payment.","Пожалуйста, попробуйте еще раз с другой формой оплаты.",module,Magento_Braintree
 "Sorry, but something went wrong.","Извините, но что-то пошло не так.",module,Magento_Braintree
-Payment,Payment,module,Magento_Braintree
+Payment,Оплата,module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
 "Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
 "Enable this Solution","Включить это решение",module,Magento_Braintree
@@ -1147,7 +1147,7 @@ Debug,Отладка,module,Magento_Braintree
 "Verify for Applicable Countries","Верификация допустимых стран",module,Magento_Braintree
 "Verify for Specific Countries","Верификация определенных стран",module,Magento_Braintree
 "Dynamic Descriptors","Dynamic Descriptors",module,Magento_Braintree
-Name,Name,module,Magento_Braintree
+Name,Название,module,Magento_Braintree
 Phone,Телефон,module,Magento_Braintree
 URL,URL,module,Magento_Braintree
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Применяйте фильтры для того, чтобы получить результаты. Будут отображены только первые 100 записей в таблице. Также вы сможете скачать полную версию отчета в формате CSV.",module,Magento_Braintree
@@ -2546,12 +2546,12 @@ Home,Главная,module,Magento_CatalogSearch
 All,Все,module,Magento_CatalogSearch
 Yes,Да,module,Magento_CatalogSearch
 No,Нет,module,Magento_CatalogSearch
-Results,Results,module,Magento_CatalogSearch
+Results,Результаты,module,Magento_CatalogSearch
 "Advanced Search Results","Расширенный Поиск",module,Magento_CatalogSearch
 Grid,Сетка,module,Magento_CatalogSearch
 List,Список,module,Magento_CatalogSearch
 "Search Weight","Вес Поиска",module,Magento_CatalogSearch
-Relevance,Relevance,module,Magento_CatalogSearch
+Relevance,Релевантность,module,Magento_CatalogSearch
 "Search results for: '%1'","Результаты поиска для:' %1'",module,Magento_CatalogSearch
 "Minimum Search query length is %1","Минимальная длина поискового запроса %1",module,Magento_CatalogSearch
 "Please specify at least one search term.","Укажите, по крайней мере, один поисковый запрос.",module,Magento_CatalogSearch
@@ -2562,19 +2562,19 @@ Category,Категория,module,Magento_CatalogSearch
 "%1 and above","%1 и выше",module,Magento_CatalogSearch
 "%1 - %2","%1 - %2",module,Magento_CatalogSearch
 "Sorry, something went wrong. You can find out more in the error log.","Sorry, something went wrong. You can find out more in the error log.",module,Magento_CatalogSearch
-"Bucket does not exist","Bucket does not exist",module,Magento_CatalogSearch
+"Bucket does not exist","Контейнер не существует",module,Magento_CatalogSearch
 Product,Товар,module,Magento_CatalogSearch
-"Search Settings","Search Settings",module,Magento_CatalogSearch
+"Search Settings","Настройки поиска",module,Magento_CatalogSearch
 Search,Поиск,module,Magento_CatalogSearch
 "Advanced Search","Расширенный поиск",module,Magento_CatalogSearch
 "<strong>%1 item</strong> were found using the following search criteria","<strong>%1 item</strong> were found using the following search criteria",module,Magento_CatalogSearch
 "<strong>%1 items</strong> were found using the following search criteria","<strong>%1 items</strong> were found using the following search criteria",module,Magento_CatalogSearch
 "We can't find any items matching these search criteria.","Мы не можем найти другие элементы, соответствующие этим критериям поиска.",module,Magento_CatalogSearch
-"Modify your search.","Modify your search.",module,Magento_CatalogSearch
+"Modify your search.","Изменить ваш запрос.",module,Magento_CatalogSearch
 name,name,module,Magento_CatalogSearch
-"Don't see what you're looking for?","Don't see what you're looking for?",module,Magento_CatalogSearch
-"Your search returned no results.","Your search returned no results.",module,Magento_CatalogSearch
-"Popular Search Terms","Popular Search Terms",module,Magento_CatalogSearch
+"Don't see what you're looking for?","Не нашли то, что искали?",module,Magento_CatalogSearch
+"Your search returned no results.","Ничего не найдено.",module,Magento_CatalogSearch
+"Popular Search Terms","Популярные поисковые запросы",module,Magento_CatalogSearch
 "Catalog Search","Поиск по каталогу",module,Magento_CatalogSearch
 "Minimal Query Length","Минимальная длин запроса",module,Magento_CatalogSearch
 "Maximum Query Length","Максимальная длина запроса",module,Magento_CatalogSearch
@@ -3120,11 +3120,11 @@ ID,ID,module,Magento_CmsStaging
 Title,Title,module,Magento_CmsStaging
 Status,Status,module,Magento_CmsStaging
 "Default Config","Конфигурации по умолчанию",module,Magento_Config
-"Save Config","Save Config",module,Magento_Config
+"Save Config","Сохранить Настройки",module,Magento_Config
 [GLOBAL],[ГЛОБАЛЬНО],module,Magento_Config
 [WEBSITE],[САЙТ],module,Magento_Config
 "[STORE VIEW]","[Представление магазина]",module,Magento_Config
-"Use system value","Use system value",module,Magento_Config
+"Use system value","Использовать системные значения",module,Magento_Config
 "Use Default","Использовать значение по умолчанию",module,Magento_Config
 "Use Website","Use Website",module,Magento_Config
 Add,Добавить,module,Magento_Config
@@ -3146,9 +3146,9 @@ System,Система,module,Magento_Config
 "You saved the configuration.","You saved the configuration.",module,Magento_Config
 "Something went wrong while saving this configuration:","Something went wrong while saving this configuration:",module,Magento_Config
 "Page not found.","Страница не найдена.",module,Magento_Config
-"Please specify the admin custom URL.","Please specify the admin custom URL.",module,Magento_Config
-"Invalid %1. %2","Invalid %1. %2",module,Magento_Config
-"Value must be a URL or one of placeholders: %1","Value must be a URL or one of placeholders: %1",module,Magento_Config
+"Please specify the admin custom URL.","Пожалуйста, укажите URL-адрес панели управления.",module,Magento_Config
+"Invalid %1. %2","Недопустимый %1. %2",module,Magento_Config
+"Value must be a URL or one of placeholders: %1","Значение должно быть URL-адресом, или одним из параметров: %1",module,Magento_Config
 "Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".",module,Magento_Config
 "%1 An empty value is allowed as well.","%1 An empty value is allowed as well.",module,Magento_Config
 "Specify a fully qualified URL.","Specify a fully qualified URL.",module,Magento_Config
@@ -3274,7 +3274,7 @@ Summary,Резюме,module,Magento_ConfigurableProduct
 "Product with id ""%1"" does not contain required attribute ""%2"".","Продукт с идентификатором ""%1"" не содержать требуемый атрибут ""%2"".",module,Magento_ConfigurableProduct
 "Products ""%1"" and ""%2"" have the same set of attribute values.","Товар ""%1"" и ""%2"" имеют те же набор значений атрибутов.",module,Magento_ConfigurableProduct
 "You can't add the item to shopping cart.","You can't add the item to shopping cart.",module,Magento_ConfigurableProduct
-"You need to choose options for your item.","Тебе нужно выбирать опции для тебя позиция.",module,Magento_ConfigurableProduct
+"You need to choose options for your item.","Необходимо выбрать параметры для элемента.",module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.","Некоторые Товар области изменений недействительны.",module,Magento_ConfigurableProduct
 "Configuration must have specified attributes","Конфигурация должна быть указана атрибуты",module,Magento_ConfigurableProduct
 "Type %1 is not an instance of %2","Тип %1 не является экземпляр %2",module,Magento_ConfigurableProduct
@@ -3880,7 +3880,7 @@ Password,Пароль,module,Magento_Customer
 "Address Information","Address Information",module,Magento_Customer
 "Sign-in Information","Sign-in Information",module,Magento_Customer
 "Confirm Password","Confirm Password",module,Magento_Customer
-"Create an Account","Create an Account",module,Magento_Customer
+"Create an Account",Регистрироваться,module,Magento_Customer
 "Set a New Password","Set a New Password",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds.",module,Magento_Customer
 "New Customers","Новый клиент",module,Magento_Customer
@@ -4252,7 +4252,7 @@ Email,"Электронная почта",module,Magento_CustomerCustomAttribute
 "Sign-in Information","Sign-in Information",module,Magento_CustomerCustomAttributes
 Password,Пароль,module,Magento_CustomerCustomAttributes
 "Confirm Password","Confirm Password",module,Magento_CustomerCustomAttributes
-"Create an Account","Create an Account",module,Magento_CustomerCustomAttributes
+"Create an Account",Регистрироваться,module,Magento_CustomerCustomAttributes
 Back,Вернуться,module,Magento_CustomerCustomAttributes
 "Customer Address","Customer Address",module,Magento_CustomerCustomAttributes
 "Default Values","Default Values",module,Magento_CustomerCustomAttributes
@@ -5919,7 +5919,7 @@ To,До,module,Magento_ImportExport
 Exclude,Exclude,module,Magento_ImportExport
 "Attribute Label","Attribute Label",module,Magento_ImportExport
 "Attribute Code","Attribute Code",module,Magento_ImportExport
-Filter,Filter,module,Magento_ImportExport
+Filter,Фильтр,module,Magento_ImportExport
 "Unknown attribute filter type","Unknown attribute filter type",module,Magento_ImportExport
 Download,Download,module,Magento_ImportExport
 "Check Data","Check Data",module,Magento_ImportExport
@@ -8117,7 +8117,7 @@ Website,Веб-сайт,module,Magento_Reminder
 "New Accounts","Новые учетные записи",module,Magento_Reports
 "Customers by number of orders","Customers by number of orders",module,Magento_Reports
 "Customers by Orders Total","Customers by Orders Total",module,Magento_Reports
-Filter,Filter,module,Magento_Reports
+Filter,Фильтр,module,Magento_Reports
 "Date Used","Date Used",module,Magento_Reports
 Day,День,module,Magento_Reports
 Month,Месяц,module,Magento_Reports
@@ -8340,6 +8340,7 @@ Action,Действие,module,Magento_Reports
 Report,Report,module,Magento_Reports
 Description,Description,module,Magento_Reports
 undefined,undefined,module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
 "Save Review","Сохранить обзор",module,Magento_Review
 "New Review","New Review",module,Magento_Review
 "Review Details","Review Details",module,Magento_Review
@@ -11662,7 +11663,7 @@ Options,Options,module,Magento_Ui
 "records found","records found",module,Magento_Ui
 selected,selected,module,Magento_Ui
 of,of,module,Magento_Ui
-Filters,Filters,module,Magento_Ui
+Filters,Фильтры,module,Magento_Ui
 Add,Add,module,Magento_Ui
 "Something went wrong.","Something went wrong.",module,Magento_Ui
 Yes,Yes,module,Magento_Ui
@@ -12800,7 +12801,7 @@ Matched,Matched,module,Magento_Worldpay
 "Gateway processing error.","Gateway processing error.",module,Magento_Worldpay
 "Transaction was not placed.","Transaction was not placed.",module,Magento_Worldpay
 None,Нет,module,Magento_Worldpay
-Authorize,Authorize,module,Magento_Worldpay
+Authorize,Bойти,module,Magento_Worldpay
 "Authorize and Capture","Authorize and Capture",module,Magento_Worldpay
 Refused,Refused,module,Magento_Worldpay
 Authorised,Authorised,module,Magento_Worldpay
