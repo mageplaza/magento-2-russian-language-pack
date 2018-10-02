@@ -1529,7 +1529,7 @@
 "Website","Веб-сайт",module,Magento_Catalog
 "Global","Глобальнo",module,Magento_Catalog
 "Scope","Область видимости",module,Magento_Catalog
-"Declare attribute value saving scope.","Объявить диапазон действия сохраняемого значения атрибута.",module,Magento_Catalog
+"Declare attribute value saving scope.","Объявление атрибута значение экономии масштабов.",module,Magento_Catalog
 "Storefront Properties","Свойства магазина",module,Magento_Catalog
 "Use in Search","Использовать в поиске по сайту",module,Magento_Catalog
 "Visible in Advanced Search","Видимый в расширенном поиске",module,Magento_Catalog
@@ -1867,14 +1867,14 @@
 "Invalid attribute Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Недопустимый атрибут Колличество = %qрис. ID строки: SKU =%SKU, ID сайта: %websiteId, группа клиентов: %customerGroup, количество: %qty.",module,Magento_Catalog
 "Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Недопустимый атрибут ID Вебсайта = %websiteId. ID строки: SKU = %SKU, ID сайта: %websiteId, группа клиентов: %customerGroup, количество: %qty.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Мы нашли дубликат веб-сайта, уровня цен, группы клиентов и количества: группа клиентов = %customerGroup, веб-сайт ID = %websiteId, количество = %qty. ID строки: SKU = %SKU, ID сайта: %websiteId, группа клиентов: %customerGroup, количество: %qty.",module,Magento_Catalog
-"No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
-"Tier price is unavailable for this product.","Tier price is unavailable for this product.",module,Magento_Catalog
+"No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Нет такого субъекта с группой клиентов = %customerGroup. Идентификатор строки: SKU = %Sку, идентификатор сайта: % websiteId, группа клиентов: %customerGroup, количество: %qty.",module,Magento_Catalog
+"Tier price is unavailable for this product.","Уровня цена недоступна для данного продукта.",module,Magento_Catalog
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3",module,Magento_Catalog
-"The tier_price data is invalid. Verify the data and try again.","The tier_price data is invalid. Verify the data and try again.",module,Magento_Catalog
+"The tier_price data is invalid. Verify the data and try again.","Tier_price данных является недопустимым. Проверьте данные и повторите попытку.",module,Magento_Catalog
 "The group price couldn't be saved.","Цена группы не может быть сохранена.",module,Magento_Catalog
 "The data was invalid. Verify the data and try again.","The group price couldn't be saved.",module,Magento_Catalog
-"Values in the %1 attributes are invalid. Verify the values and try again.","Values in the %1 attributes are invalid. Verify the values and try again.",module,Magento_Catalog
-"We can't create the ""%1"" writeable directory.","We can't create the ""%1"" writeable directory.",module,Magento_Catalog
+"Values in the %1 attributes are invalid. Verify the values and try again.","Значения в %1 атрибуты являются недопустимыми. Проверьте значения и повторите попытку.",module,Magento_Catalog
+"We can't create the ""%1"" writeable directory.","Мы не можем создать каталог для записи «%1».",module,Magento_Catalog
 "The file upload failed. Try to upload again.","Ошибка загрузки файла. Повторите попытку.",module,Magento_Catalog
 "The product has required options. Enter the options and try again.","Товар имеет необходимые параметры. Введите параметры и повторите попытку.",module,Magento_Catalog
 "Something went wrong while processing the request.","Во время обработки запроса что-то пошло не так.",module,Magento_Catalog
@@ -1885,13 +1885,13 @@
 "Catalog, Search","Каталог, Поиск",module,Magento_Catalog
 "Something went wrong while removing products from the websites.","При удалении товаров с веб-сайтов что-то пошло не так.",module,Magento_Catalog
 "Something went wrong while adding products to websites.","При добавлении товаров на веб-сайты что-то пошло не так.",module,Magento_Catalog
-"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","The group with the ""%1"" ID doesn't exist. Verify the ID and try again.",module,Magento_Catalog
-"The attribute group can't be deleted because it contains system attributes.","The attribute group can't be deleted because it contains system attributes.",module,Magento_Catalog
+"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","Группа с идентификатором «%1» не существует. Проверить идентификатор и повторите попытку.",module,Magento_Catalog
+"The attribute group can't be deleted because it contains system attributes.","Группа атрибутов нельзя удалить, поскольку он содержит системные атрибуты.",module,Magento_Catalog
 "The collection provider isn't registered.","Поставщик коллекции не зарегистрирован.",module,Magento_Catalog
 "The ""%1"" link type is unknown. Verify the type and try again.","Тип ссылки ""%1"" неизвестен. Проверьте тип и повторите попытку.",module,Magento_Catalog
 "The ""%1"" link type wasn't found. Verify the type and try again.","Тип ссылки ""%1 не найден. Проверьте тип и повторите попытку.",module,Magento_Catalog
 "The linked products data is invalid. Verify the data and try again.","Данные связанных товаров недействительны. Проверьте данные и повторите попытку.",module,Magento_Catalog
-"Product with SKU '%1' is not linked to product with SKU '%2'","Product with SKU '%1' is not linked to product with SKU '%2'",module,Magento_Catalog
+"Product with SKU '%1' is not linked to product with SKU '%2'","Продукт с SKU «%1» не связан с продуктом с SKU «%2»",module,Magento_Catalog
 "Product %1 doesn't have linked %2 as %3","Product %1 doesn't have linked %2 as %3",module,Magento_Catalog
 "The product that was requested doesn't exist. Verify the product and try again.","Запрошенный продукт не существует. Проверьте ввод продукта и повторите попытку.",module,Magento_Catalog
 "The Product with the ""%1"" SKU doesn't exist.","Продукт с «%1» SKU не существует.",module,Magento_Catalog
@@ -1900,18 +1900,18 @@
 "Database deadlock found when trying to get lock","Обнаружена блокировки базы данных при попытке получить соединение",module,Magento_Catalog
 "Database lock wait timeout exceeded","Превышен срок ожидания блокировки базы данных",module,Magento_Catalog
 "The ""%1"" product couldn't be removed.","Продукт «%1» не может быть удален.",module,Magento_Catalog
-"There are not websites for assign to product","There are not websites for assign to product",module,Magento_Catalog
-"Could not assign product ""%1"" to websites ""%2""","Could not assign product ""%1"" to websites ""%2""",module,Magento_Catalog
-"Could not save product ""%1"" with websites %2","Could not save product ""%1"" with websites %2",module,Magento_Catalog
+"There are not websites for assign to product","Есть не сайты для назначить продукта",module,Magento_Catalog
+"Could not assign product ""%1"" to websites ""%2""","Не может назначить веб-сайты «%2» продукт «%1»",module,Magento_Catalog
+"Could not save product ""%1"" with websites %2","Не удалось сохранить продукт «%1» с веб-сайтов %2",module,Magento_Catalog
 "We cannot determine the field name.","Мы не можем определить имя поля.",module,Magento_Catalog
 "Attribute '%1' is locked. %2","Attribute '%1' is locked. %2",module,Magento_Catalog
 "Do not change the scope. %1","Не изменять область. %1",module,Magento_Catalog
-"Processor %1 doesn't implement BaseSelectProcessorInterface","Processor %1 doesn't implement BaseSelectProcessorInterface",module,Magento_Catalog
-"A product type is not defined for the indexer.","A product type is not defined for the indexer.",module,Magento_Catalog
+"Processor %1 doesn't implement BaseSelectProcessorInterface","Процессор %1 не реализует BaseSelectProcessorInterface",module,Magento_Catalog
+"A product type is not defined for the indexer.","Тип продукта не определен для индексатора.",module,Magento_Catalog
 "%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice",module,Magento_Catalog
-"Product with SKU %1 is not linked to product with SKU %2","Product with SKU %1 is not linked to product with SKU %2",module,Magento_Catalog
+"Product with SKU %1 is not linked to product with SKU %2","Продукт с SKU %1 не связан с продуктом с SKU %2",module,Magento_Catalog
 "Multiple Select","Множественный выбор",module,Magento_Catalog
-"Dropdown","Dropdown",module,Magento_Catalog
+"Dropdown","Выпадающий список",module,Magento_Catalog
 "%1 doesn't extend \Magento\Framework\Filter\Template","%1 doesn't extend \Magento\Framework\Filter\Template",module,Magento_Catalog
 "As low as","Так же низко как",module,Magento_Catalog
 "test","тест",module,Magento_Catalog
@@ -1919,14 +1919,14 @@
 "Could not get extension attributes","Не удается получить атрибуты расширения",module,Magento_Catalog
 "message","сообщение",module,Magento_Catalog
 "fl","fl",module,Magento_Catalog
-"Lock wait timeout","Lock wait timeout",module,Magento_Catalog
+"Lock wait timeout","Таймаут ожидания блокировки",module,Magento_Catalog
 "123","123",module,Magento_Catalog
 "Images","Изображения",module,Magento_Catalog
 "Select...","Выберите...",module,Magento_Catalog
 "Category with ID: %s doesn't exist","Категория с ID: %s не существует",module,Magento_Catalog
 "Product Name or SKU","Название товара или артикул",module,Magento_Catalog
 "Start typing to find products","Начните ввод для поиска товаров",module,Magento_Catalog
-"Product with ID: %s doesn't exist","Product with ID: %s doesn't exist",module,Magento_Catalog
+"Product with ID: %s doesn't exist","Продукт с ID: %s не существует",module,Magento_Catalog
 "Advanced Pricing","Расширенные цены",module,Magento_Catalog
 "Customer Group Price","Цена на групповых клиентов",module,Magento_Catalog
 "Customer Group","Группы клиентов",module,Magento_Catalog
@@ -1954,40 +1954,40 @@
 "Price Type","Тип цены",module,Magento_Catalog
 "Max Characters","Макс. количество символов",module,Magento_Catalog
 "Compatible File Extensions","Совместимые расширения файлов",module,Magento_Catalog
-"Enter separated extensions, like: png, jpg, gif.","Enter separated extensions, like: png, jpg, gif.",module,Magento_Catalog
+"Enter separated extensions, like: png, jpg, gif.","Введите отдельные расширения, как: png, jpg, gif.",module,Magento_Catalog
 "Maximum Image Size","Максимальный размер изображения",module,Magento_Catalog
 "Please leave blank if it is not an image.","Пожалуйста, оставьте пустым, если это не изображение.",module,Magento_Catalog
 "%1","%1",module,Magento_Catalog
-"Processor %1 doesn't implement WysiwygConfigDataProcessorInterface. It will be skipped","Processor %1 doesn't implement WysiwygConfigDataProcessorInterface. It will be skipped",module,Magento_Catalog
+"Processor %1 doesn't implement WysiwygConfigDataProcessorInterface. It will be skipped","Процессор %1 не реализовывать WysiwygConfigDataProcessorInterface. Он будет пропущен",module,Magento_Catalog
 "This item has weight","Этот предмет имеет вес",module,Magento_Catalog
-"This item has no weight","This item has no weight",module,Magento_Catalog
+"This item has no weight","Этот элемент имеет никакого веса",module,Magento_Catalog
 "Set Product as New From","Установите продукт как новый",module,Magento_Catalog
 "Related Products, Up-Sells, and Cross-Sells","Связанные продукты, вверх продажи и кросс продажи",module,Magento_Catalog
 "Related products are shown to customers in addition to the item the customer is looking at.","Связанные продукты показаны клиентам в дополнение к тому, на что смотрит клиент.",module,Magento_Catalog
 "Add Related Products","Добавить похожие продукты",module,Magento_Catalog
-"An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.",module,Magento_Catalog
-"Add Up-Sell Products","Add Up-Sell Products",module,Magento_Catalog
-"Up-Sell Products","Up-Sell Products",module,Magento_Catalog
-"These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.",module,Magento_Catalog
-"Add Cross-Sell Products","Add Cross-Sell Products",module,Magento_Catalog
-"Cross-Sell Products","Cross-Sell Products",module,Magento_Catalog
+"An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","Элемент вверх продажи предлагается заказчику более дорогих или более высокого качества альтернативы нужный клиент на продукт.",module,Magento_Catalog
+"Add Up-Sell Products","Добавить вверх продажи Товары",module,Magento_Catalog
+"Up-Sell Products","Вверх продажи Товары",module,Magento_Catalog
+"These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","Эти продукты «импульс купить» появляются рядом с корзиной как кросс продажи элементов уже в корзине.",module,Magento_Catalog
+"Add Cross-Sell Products","Добавить продукты кросс продажи",module,Magento_Catalog
+"Cross-Sell Products","Кросс продажи Товары",module,Magento_Catalog
 "Add Selected Products","Добавить выбранные продукты",module,Magento_Catalog
 "Remove","Удалить",module,Magento_Catalog
 "Thumbnail","Мини-изображение",module,Magento_Catalog
 "Actions","Действия",module,Magento_Catalog
-"Schedule Update From","Schedule Update From",module,Magento_Catalog
+"Schedule Update From","Расписание обновления от",module,Magento_Catalog
 "Product in Websites","Продукт на веб-сайтах",module,Magento_Catalog
 "If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.","Если ваша установка Magento имеет несколько веб-сайтов, вы можете редактировать область использования продукта на определенных сайтах.",module,Magento_Catalog
 "name","название",module,Magento_Catalog
 "Copy Data from","Копировать данные из",module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","Если существует без пользовательских родительской категории, пожалуйста, используйте по умолчанию родительской категории. Вы можете переназначить категорию в любое время в <a href=""%1"" target=""_blank"">продукты &gt; категории</a>.",module,Magento_Catalog
 "This operation can take a long time","Эта операция может занять много времени",module,Magento_Catalog
 "Collapse All","Свернуть все",module,Magento_Catalog
 "Expand All","Развернуть всё",module,Magento_Catalog
 "Please confirm site switching. All data that hasn't been saved will be lost.","Please confirm site switching. All data that hasn't been saved will be lost.",module,Magento_Catalog
 "Use Default Value","Использовать значение по умолчанию",module,Magento_Catalog
-"Manage Titles (Size, Color, etc.)","Manage Titles (Size, Color, etc.)",module,Magento_Catalog
-"Manage Options (Values of Your Attribute)","Manage Options (Values of Your Attribute)",module,Magento_Catalog
+"Manage Titles (Size, Color, etc.)","Управление названиями (размер, цвет и т. д.)",module,Magento_Catalog
+"Manage Options (Values of Your Attribute)","Управление параметрами (значения атрибута)",module,Magento_Catalog
 "Is Default","По умолчанию",module,Magento_Catalog
 "Sort Option","Вариант сортировки",module,Magento_Catalog
 "The value of Admin must be unique.","Значение Admin должно быть уникальным.",module,Magento_Catalog
@@ -1996,9 +1996,9 @@
 "Unassigned Attributes","Неназначенные атрибуты",module,Magento_Catalog
 "A name is required.","Требуется имя.",module,Magento_Catalog
 "This group contains system attributes. Please move system attributes to another group and try again.","Эта группа содержит системные атрибуты. Переместите системные атрибуты в другую группу и повторите попытку.",module,Magento_Catalog
-"Please select a node.","Please select a node.",module,Magento_Catalog
+"Please select a node.","Пожалуйста, выберите узел.",module,Magento_Catalog
 "Please enter a new group name.","Пожалуйста, введите имя новой группы.",module,Magento_Catalog
-"An attribute group named ""/name/"" already exists.","An attribute group named ""/name/"" already exists.",module,Magento_Catalog
+"An attribute group named ""/name/"" already exists.","Группа атрибутов с именем «имя /» уже существует.",module,Magento_Catalog
 "Sorry, we're unable to complete this request.","Sorry, we're unable to complete this request.",module,Magento_Catalog
 "You can't remove attributes from this attribute set.","You can't remove attributes from this attribute set.",module,Magento_Catalog
 "Custom Options","Пользовательские настройки",module,Magento_Catalog
@@ -2008,42 +2008,42 @@
 "Maximum image width","Максимальная ширина изображения",module,Magento_Catalog
 "Maximum image height","Максимальная высота изображения",module,Magento_Catalog
 "Maximum number of characters:","Максимальное количество символов:",module,Magento_Catalog
-"start typing to search template","start typing to search template",module,Magento_Catalog
+"start typing to search template","начните ввод для поиска шаблона",module,Magento_Catalog
 "Product online","Товар онлайн",module,Magento_Catalog
 "Product offline","Товар оффлайн",module,Magento_Catalog
-"Product online status","Product online status",module,Magento_Catalog
+"Product online status","Онлайн статус продукта",module,Magento_Catalog
 "Manage Stock","Управление наличием",module,Magento_Catalog
 "Qty","Кол-во",module,Magento_Catalog
-"Out-of-Stock Threshold","Out-of-Stock Threshold",module,Magento_Catalog
-"Minimum Qty Allowed in Shopping Cart","Minimum Qty Allowed in Shopping Cart",module,Magento_Catalog
-"Maximum Qty Allowed in Shopping Cart","Maximum Qty Allowed in Shopping Cart",module,Magento_Catalog
-"Qty Uses Decimals","Qty Uses Decimals",module,Magento_Catalog
-"Backorders","Backorders",module,Magento_Catalog
-"Notify for Quantity Below","Notify for Quantity Below",module,Magento_Catalog
-"Enable Qty Increments","Enable Qty Increments",module,Magento_Catalog
-"Qty Increments","Qty Increments",module,Magento_Catalog
-"Stock Availability","Stock Availability",module,Magento_Catalog
+"Out-of-Stock Threshold","Порог из запасов",module,Magento_Catalog
+"Minimum Qty Allowed in Shopping Cart","Минимальное Кол-во в корзину",module,Magento_Catalog
+"Maximum Qty Allowed in Shopping Cart","Максимальное кол-во в корзину",module,Magento_Catalog
+"Qty Uses Decimals","Qty использует десятичные дроби",module,Magento_Catalog
+"Backorders","Недопоставки",module,Magento_Catalog
+"Notify for Quantity Below","Уведомления для количества ниже",module,Magento_Catalog
+"Enable Qty Increments","Включение Qty с шагом",module,Magento_Catalog
+"Qty Increments","Qty с шагом",module,Magento_Catalog
+"Stock Availability","Наличие на складе",module,Magento_Catalog
 "In Stock","В наличии",module,Magento_Catalog
 "Out of Stock","Нет в наличии",module,Magento_Catalog
-"Add Product To Websites","Add Product To Websites",module,Magento_Catalog
-"Remove Product From Websites","Remove Product From Websites",module,Magento_Catalog
-"To hide an item in catalog or search results, set the status to ""Disabled"".","To hide an item in catalog or search results, set the status to ""Disabled"".",module,Magento_Catalog
+"Add Product To Websites","Добавить продукт для веб-сайтов",module,Magento_Catalog
+"Remove Product From Websites","Удалить продукт из веб-сайтов",module,Magento_Catalog
+"To hide an item in catalog or search results, set the status to ""Disabled"".","Чтобы скрыть элемент в результатах поиска или каталога, установите состояние «Запрещено».",module,Magento_Catalog
 "We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing.",module,Magento_Catalog
-"Delete Custom Option","Delete Custom Option",module,Magento_Catalog
-"Sort Custom Options","Sort Custom Options",module,Magento_Catalog
+"Delete Custom Option","Удаление пользовательского параметра",module,Magento_Catalog
+"Sort Custom Options","Пользовательские параметры сортировки",module,Magento_Catalog
 "Input Type","Тип ввода",module,Magento_Catalog
-"%1 <span>x</span> %2 <span>px.</span>","%1 <span>x</span> %2 <span>px.</span>",module,Magento_Catalog
+"%1 <span>x</span> %2 <span>px.</span>","%1 <span></span> %2 <span>px.</span>",module,Magento_Catalog
 "Sort Custom Option","Сортировка пользовательских настроек",module,Magento_Catalog
 "Item Price","Цена товара",module,Magento_Catalog
 "Action","Действие",module,Magento_Catalog
 "and above","и выше",module,Magento_Catalog
 "Delete Tier","Удалить уровень",module,Magento_Catalog
-"Product In Websites","Product In Websites",module,Magento_Catalog
-"(Copy data from: %1)","(Copy data from: %1)",module,Magento_Catalog
+"Product In Websites","Продукт на веб-сайтах",module,Magento_Catalog
+"(Copy data from: %1)","(Копирование данных из: %1)",module,Magento_Catalog
 "Browse to find or drag image here","Найдите или перетащите изображение здесь",module,Magento_Catalog
 "Delete image","Удалить изображение",module,Magento_Catalog
 "Hidden","Скрытое",module,Magento_Catalog
-"Alt Text","Alt Text",module,Magento_Catalog
+"Alt Text","Замещающий текст",module,Magento_Catalog
 "Role","Роль",module,Magento_Catalog
 "Image Size","Размер изображения",module,Magento_Catalog
 "{size}","{size}",module,Magento_Catalog
@@ -2054,7 +2054,7 @@
 "start typing to search attribute","начать вводить атрибут поиска",module,Magento_Catalog
 "Basic Settings","Основные настройки",module,Magento_Catalog
 "Advanced Settings","Расширенные настройки",module,Magento_Catalog
-"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Catalog
+"Changes have been made to this section that have not been saved.","Были внесены изменения в этот раздел, который еще не были сохранены.",module,Magento_Catalog
 "This tab contains invalid data. Please resolve this before saving.","Эта вкладка содержит недопустимые данные. Пожалуйста, разрешите это перед сохранением.",module,Magento_Catalog
 "Mass Actions","Массовые действия",module,Magento_Catalog
 "Select All","Выбрать всё",module,Magento_Catalog
@@ -2064,9 +2064,9 @@
 "Special Price","Специальная цена",module,Magento_Catalog
 "Regular Price","Обычная цена",module,Magento_Catalog
 "Buy %1 for:","Купить %1 для:",module,Magento_Catalog
-"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
-"Buy %1 for %2 each","Buy %1 for %2 each",module,Magento_Catalog
-"Shop By","Shop By",module,Magento_Catalog
+"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Купить %1 на %2 и <strong class=""benefit"">сохранить<span class=""percent tier-%3"">&nbsp;%4<div class=""notranslate"">%</div></strong>",module,Magento_Catalog
+"Buy %1 for %2 each","Купить %1 для %2",module,Magento_Catalog
+"Shop By","Магазин по",module,Magento_Catalog
 "Shopping Options","Варианты покупок",module,Magento_Catalog
 "Compare Products","Сравнение продуктов",module,Magento_Catalog
 "Print This Page","Распечатать эту страницу",module,Magento_Catalog
@@ -2088,14 +2088,14 @@
 "More Choices:","Больше вариантов:",module,Magento_Catalog
 "Check items to add to the cart or","Проверьте продукты для добавления в корзину или",module,Magento_Catalog
 "select all","выбрать все",module,Magento_Catalog
-"Items %1-%2 of %3","Items %1-%2 of %3",module,Magento_Catalog
-"%1 Item","%1 Item",module,Magento_Catalog
-"%1 Items","%1 Items",module,Magento_Catalog
+"Items %1-%2 of %3","Элементы %1-%2 из %3",module,Magento_Catalog
+"%1 Item","элемент %1",module,Magento_Catalog
+"%1 Items","%1 элементов",module,Magento_Catalog
 "Show","Показать",module,Magento_Catalog
 "per page","на странице",module,Magento_Catalog
 "Sort By","Сортировать по",module,Magento_Catalog
 "Set Ascending Direction","Задать направление по возрастанию",module,Magento_Catalog
-"Set Descending Direction","Set Descending Direction",module,Magento_Catalog
+"Set Descending Direction","Задать направление по убыванию",module,Magento_Catalog
 "View as","Посмотреть, как",module,Magento_Catalog
 "More Information","Дополнительная информация",module,Magento_Catalog
 "Loading...","Загрузка...",module,Magento_Catalog
@@ -2109,15 +2109,15 @@
 "This value does not follow the specified format (for example, 200X300).","Это значение не соответствует указанному формату (например, 200X300).",module,Magento_Catalog
 "Select type of option.","Выберите тип опции.",module,Magento_Catalog
 "Please add rows to option.","Пожалуйста, добавьте строки к варианту.",module,Magento_Catalog
-"An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_Catalog
+"An item needs to be selected. Select and try again.","Элемент должен быть выбран. Выбор и повторите попытку.",module,Magento_Catalog
 "Choose existing category.","Выберите существующую категорию.",module,Magento_Catalog
-"Sending attribute values as package.","Sending attribute values as package.",module,Magento_Catalog
+"Sending attribute values as package.","Отправка значения атрибутов в виде пакета.",module,Magento_Catalog
 "Image Detail","Детали изображения",module,Magento_Catalog
 "Adding...","Добавление...",module,Magento_Catalog
 "Added","Добавлено",module,Magento_Catalog
 "remaining","осталось",module,Magento_Catalog
 "too many","слишком много",module,Magento_Catalog
-"does not implement Storage Interface","does not implement Storage Interface",module,Magento_Catalog
+"does not implement Storage Interface","не реализуют интерфейс хранения",module,Magento_Catalog
 "unselect all","снять все выделения",module,Magento_Catalog
 "Inventory","Инвентарь",module,Magento_Catalog
 "Catalog Section","Раздел каталога",module,Magento_Catalog
@@ -2125,68 +2125,68 @@
 "Main","Главная",module,Magento_Catalog
 "Custom image","Свое изображение",module,Magento_Catalog
 "Product Fields Auto-Generation","Автоматическое создание поля продукта",module,Magento_Catalog
-"Mask for SKU","Mask for SKU",module,Magento_Catalog
-"Use {{name}} as Product Name placeholder","Use {{name}} as Product Name placeholder",module,Magento_Catalog
-"Mask for Meta Title","Mask for Meta Title",module,Magento_Catalog
-"Mask for Meta Keywords","Mask for Meta Keywords",module,Magento_Catalog
-"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Use {{name}} as Product Name or {{sku}} as Product SKU placeholders",module,Magento_Catalog
-"Mask for Meta Description","Mask for Meta Description",module,Magento_Catalog
-"Use {{name}} and {{description}} as Product Name and Product Description placeholders","Use {{name}} and {{description}} as Product Name and Product Description placeholders",module,Magento_Catalog
-"Recently Viewed/Compared Products","Recently Viewed/Compared Products",module,Magento_Catalog
-"Lifetime of products in Recently Viewed Widget","Lifetime of products in Recently Viewed Widget",module,Magento_Catalog
-"Lifetime of products in Recently Compared Widget","Lifetime of products in Recently Compared Widget",module,Magento_Catalog
-"Synchronize widget products with backend storage","Synchronize widget products with backend storage",module,Magento_Catalog
+"Mask for SKU","Маска для SKU",module,Magento_Catalog
+"Use {{name}} as Product Name placeholder","Используйте {{name}} в качестве заполнителя название продукта",module,Magento_Catalog
+"Mask for Meta Title","Маска для мета название",module,Magento_Catalog
+"Mask for Meta Keywords","Маска для мета ключевые слова",module,Magento_Catalog
+"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Используйте {{name}} в качестве имени продукта или {{sku}} местозаполнителями SKU продукта",module,Magento_Catalog
+"Mask for Meta Description","Маска для мета-описания",module,Magento_Catalog
+"Use {{name}} and {{description}} as Product Name and Product Description placeholders","Используйте {{name}} и {{description}} в качестве заполнителей название продукта и описание продукта",module,Magento_Catalog
+"Recently Viewed/Compared Products","Недавно Просмотрели по сравнению продуктов",module,Magento_Catalog
+"Lifetime of products in Recently Viewed Widget","Срок службы изделий в недавно Просмотрели виджет",module,Magento_Catalog
+"Lifetime of products in Recently Compared Widget","Срок службы изделий в недавно по сравнению виджет",module,Magento_Catalog
+"Synchronize widget products with backend storage","Синхронизировать виджет продуктов с бэкэнд хранения",module,Magento_Catalog
 "Storefront","Витрина",module,Magento_Catalog
 "List Mode","Режим списка",module,Magento_Catalog
-"Products per Page on Grid Allowed Values","Products per Page on Grid Allowed Values",module,Magento_Catalog
+"Products per Page on Grid Allowed Values","Товаров на странице на сетке допустимые значения",module,Magento_Catalog
 "Comma-separated.","Разделенные запятой.",module,Magento_Catalog
-"Products per Page on Grid Default Value","Products per Page on Grid Default Value",module,Magento_Catalog
-"Must be in the allowed values list","Must be in the allowed values list",module,Magento_Catalog
-"Products per Page on List Allowed Values","Products per Page on List Allowed Values",module,Magento_Catalog
-"Products per Page on List Default Value","Products per Page on List Default Value",module,Magento_Catalog
-"Use Flat Catalog Category","Use Flat Catalog Category",module,Magento_Catalog
-"Use Flat Catalog Product","Use Flat Catalog Product",module,Magento_Catalog
-"Product Listing Sort by","Product Listing Sort by",module,Magento_Catalog
-"Allow All Products per Page","Allow All Products per Page",module,Magento_Catalog
-"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Whether to show ""All"" option in the ""Show X Per Page"" dropdown",module,Magento_Catalog
-"Allow Dynamic Media URLs","Allow Dynamic Media URLs",module,Magento_Catalog
-"E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.",module,Magento_Catalog
-"Product Image Placeholders","Product Image Placeholders",module,Magento_Catalog
+"Products per Page on Grid Default Value","Товаров на странице сетки значение по умолчанию",module,Magento_Catalog
+"Must be in the allowed values list","Должен быть в списке допустимых значений",module,Magento_Catalog
+"Products per Page on List Allowed Values","Товаров на странице в списке допустимых значений",module,Magento_Catalog
+"Products per Page on List Default Value","Товаров на странице в списке значение по умолчанию",module,Magento_Catalog
+"Use Flat Catalog Category","Использовать плоский каталог категории",module,Magento_Catalog
+"Use Flat Catalog Product","Использовать плоский Каталог продукции",module,Magento_Catalog
+"Product Listing Sort by","Сортировать список продуктов",module,Magento_Catalog
+"Allow All Products per Page","Разрешить все продуктов на странице",module,Magento_Catalog
+"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Показывать вариант «Все» в раскрывающемся списке «Показать X на страницу»",module,Magento_Catalog
+"Allow Dynamic Media URLs","Разрешить динамические СМИ URL",module,Magento_Catalog
+"E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","Например {{Сми url=""path/to/image.jpg»}} {{кожи url=""path/to/picture.gif»}}. Динамический директивы синтаксического анализа воздействия каталог производительность.",module,Magento_Catalog
+"Product Image Placeholders","Местозаполнители изображений продукта",module,Magento_Catalog
 "Search Engine Optimization","Поисковая оптимизация",module,Magento_Catalog
 "Page Title Separator","Разделитель заголовка страницы",module,Magento_Catalog
-"Use Canonical Link Meta Tag For Categories","Use Canonical Link Meta Tag For Categories",module,Magento_Catalog
-"Use Canonical Link Meta Tag For Products","Use Canonical Link Meta Tag For Products",module,Magento_Catalog
-"Catalog Price Scope","Catalog Price Scope",module,Magento_Catalog
-"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").",module,Magento_Catalog
-"Category Top Navigation","Category Top Navigation",module,Magento_Catalog
+"Use Canonical Link Meta Tag For Categories","Использование тега мета каноническую ссылку для категории",module,Magento_Catalog
+"Use Canonical Link Meta Tag For Products","Использование тега мета каноническую ссылку для продуктов",module,Magento_Catalog
+"Catalog Price Scope","Каталог цен область",module,Magento_Catalog
+"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","Это определяет область базовой валюты («Настройка валют» > «Валютные опции» > «Базовая валюта»).",module,Magento_Catalog
+"Category Top Navigation","Верхняя навигация категории",module,Magento_Catalog
 "Maximal Depth","Максимальная глубина",module,Magento_Catalog
-"Date & Time Custom Options","Date & Time Custom Options",module,Magento_Catalog
-"Use JavaScript Calendar","Use JavaScript Calendar",module,Magento_Catalog
-"Date Fields Order","Date Fields Order",module,Magento_Catalog
+"Date & Time Custom Options","Дата & время пользовательские параметры",module,Magento_Catalog
+"Use JavaScript Calendar","Использование JavaScript календарь",module,Magento_Catalog
+"Date Fields Order","Порядок полей Дата",module,Magento_Catalog
 "Time Format","Формат времени",module,Magento_Catalog
 "Year Range","Диапазон лет",module,Magento_Catalog
 "Please use a four-digit year format.","Просьба используйте четырехзначный формат.",module,Magento_Catalog
-"Use Static URLs for Media Content in WYSIWYG","Use Static URLs for Media Content in WYSIWYG",module,Magento_Catalog
-"Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",module,Magento_Catalog
-"Top Level Category","Top Level Category",module,Magento_Catalog
-"Default Layouts","Default Layouts",module,Magento_Catalog
-"Default Product Layout","Default Product Layout",module,Magento_Catalog
-"Default Category Layout","Default Category Layout",module,Magento_Catalog
-"Product Info Column","Product Info Column",module,Magento_Catalog
-"Block after Info Column","Block after Info Column",module,Magento_Catalog
-"Product Flat Data","Product Flat Data",module,Magento_Catalog
-"Reorganize EAV product structure to flat structure","Reorganize EAV product structure to flat structure",module,Magento_Catalog
-"Category Flat Data","Category Flat Data",module,Magento_Catalog
-"Reorganize EAV category structure to flat structure","Reorganize EAV category structure to flat structure",module,Magento_Catalog
+"Use Static URLs for Media Content in WYSIWYG","Используйте статические URL-адреса для мультимедийного содержимого в WYSIWYG",module,Magento_Catalog
+"Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Медиа-контента будет вставлен в редактор как статический URL-адрес. Медиа-контента не обновляется, если настройки системы изменения URL.",module,Magento_Catalog
+"Top Level Category","Топ категории",module,Magento_Catalog
+"Default Layouts","По умолчанию макеты",module,Magento_Catalog
+"Default Product Layout","Структура продукта по умолчанию",module,Magento_Catalog
+"Default Category Layout","По умолчанию категория макет",module,Magento_Catalog
+"Product Info Column","Информация в столбце Product",module,Magento_Catalog
+"Block after Info Column","Блок после столбца информация",module,Magento_Catalog
+"Product Flat Data","Плоский данные продукта",module,Magento_Catalog
+"Reorganize EAV product structure to flat structure","Реорганизовать структуру продукта EAV плоской структуры",module,Magento_Catalog
+"Category Flat Data","Плоский данные категории",module,Magento_Catalog
+"Reorganize EAV category structure to flat structure","Реорганизовать структуру категории EAV плоской структуры",module,Magento_Catalog
 "Category Products","Товары категории",module,Magento_Catalog
-"Indexed category/products association","Indexed category/products association",module,Magento_Catalog
+"Indexed category/products association","Ассоциация индексированной категории/продукция",module,Magento_Catalog
 "Product Categories","Категории продуктов",module,Magento_Catalog
-"Indexed product/categories association","Indexed product/categories association",module,Magento_Catalog
+"Indexed product/categories association","Индексированные продукта/категории Ассоциация",module,Magento_Catalog
 "Product Price","Цена продукта",module,Magento_Catalog
 "Index product prices","Цены на индекс товар",module,Magento_Catalog
-"Product EAV","Product EAV",module,Magento_Catalog
-"Index product EAV","Index product EAV",module,Magento_Catalog
-"Catalog New Products List","Catalog New Products List",module,Magento_Catalog
+"Product EAV","Продукта EAV",module,Magento_Catalog
+"Index product EAV","Индекс продукта EAV",module,Magento_Catalog
+"Catalog New Products List","Каталог список новых продуктов",module,Magento_Catalog
 "List of Products that are set as New","Список продуктов, которые установлены как новые",module,Magento_Catalog
 "Display Type","Тип дисплея",module,Magento_Catalog
 "All products - recently added products, New products - products marked as new","Все продукты - недавно добавленные продукты, Новые продукты - продукция, обозначенная как новая",module,Magento_Catalog
@@ -2196,103 +2196,103 @@
 "Number of Products per Page","Количество продуктов на страницу",module,Magento_Catalog
 "Number of Products to Display","Количество продуктов для отображения",module,Magento_Catalog
 "Template","Шаблон",module,Magento_Catalog
-"New Products Grid Template","New Products Grid Template",module,Magento_Catalog
+"New Products Grid Template","Новый шаблон сетки продуктов",module,Magento_Catalog
 "New Products List Template","Шаблон новых продуктов",module,Magento_Catalog
 "New Products Images and Names Template","Шаблоны с изображениями и именами новых продуктов",module,Magento_Catalog
-"New Products Names Only Template","New Products Names Only Template",module,Magento_Catalog
-"New Products Images Only Template","New Products Images Only Template",module,Magento_Catalog
-"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)",module,Magento_Catalog
+"New Products Names Only Template","Новый шаблон только названия продуктов",module,Magento_Catalog
+"New Products Images Only Template","Новый шаблон только изображения продукции",module,Magento_Catalog
+"Cache Lifetime (Seconds)","Время жизни кэша (в секундах)",module,Magento_Catalog
 "Time in seconds between the widget updates.
                     <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Time in seconds between the widget updates.
-                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.",module,Magento_Catalog
-"Catalog Product Link","Catalog Product Link",module,Magento_Catalog
-"Link to a Specified Product","Link to a Specified Product",module,Magento_Catalog
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","-время в секундах между обновления виджета.
+                    <br/>если не установлен, составляет 86400 секунд (24 часа). Чтобы мгновенно обновить виджет, перейдите к Управление кэшем и очистить кэш вывода HTML блоков.
+                    <br/>виджет не будет показывать товары, которые начинают соответствуют указанным условиям, до тех пор, пока кэш обновляется.",module,Magento_Catalog
+"Catalog Product Link","Каталог продукта ссылка",module,Magento_Catalog
+"Link to a Specified Product","Ссылка на указанный продукт",module,Magento_Catalog
 "Select Product...","Выберите продукт...",module,Magento_Catalog
-"Anchor Custom Text","Anchor Custom Text",module,Magento_Catalog
-"If empty, we'll use the product name here.","If empty, we'll use the product name here.",module,Magento_Catalog
-"Anchor Custom Title","Anchor Custom Title",module,Magento_Catalog
-"Product Link Block Template","Product Link Block Template",module,Magento_Catalog
-"Product Link Inline Template","Product Link Inline Template",module,Magento_Catalog
-"Catalog Category Link","Catalog Category Link",module,Magento_Catalog
-"Link to a Specified Category","Link to a Specified Category",module,Magento_Catalog
-"Select Category...","Select Category...",module,Magento_Catalog
-"If empty, we'll use the category name here.","If empty, we'll use the category name here.",module,Magento_Catalog
-"Category Link Block Template","Category Link Block Template",module,Magento_Catalog
-"Category Link Inline Template","Category Link Inline Template",module,Magento_Catalog
-"Recently Viewed Products","Recently Viewed Products",module,Magento_Catalog
-"List of Products Recently Viewed by Visitor","List of Products Recently Viewed by Visitor",module,Magento_Catalog
-"UI Component","UI Component",module,Magento_Catalog
-"Number of Products to display","Number of Products to display",module,Magento_Catalog
-"Product attributes to show","Product attributes to show",module,Magento_Catalog
+"Anchor Custom Text","Якорь текст",module,Magento_Catalog
+"If empty, we'll use the product name here.","Если параметр пуст, мы будем использовать имя продукта здесь.",module,Magento_Catalog
+"Anchor Custom Title","Пользовательский заголовок якорь",module,Magento_Catalog
+"Product Link Block Template","Шаблон блок ссылок продукта",module,Magento_Catalog
+"Product Link Inline Template","Ссылка продукта встроенного шаблона",module,Magento_Catalog
+"Catalog Category Link","Категория ссылки каталога",module,Magento_Catalog
+"Link to a Specified Category","Ссылка на указанной категории",module,Magento_Catalog
+"Select Category...","Выберите категорию...",module,Magento_Catalog
+"If empty, we'll use the category name here.","Если параметр пуст, мы будем использовать имя категории здесь.",module,Magento_Catalog
+"Category Link Block Template","Категория ссылки блок шаблона",module,Magento_Catalog
+"Category Link Inline Template","Категория ссылки встроенного шаблона",module,Magento_Catalog
+"Recently Viewed Products","Недавно просмотренные товары",module,Magento_Catalog
+"List of Products Recently Viewed by Visitor","Список товаров, недавно просматривал посетитель",module,Magento_Catalog
+"UI Component","Компонент пользовательского интерфейса",module,Magento_Catalog
+"Number of Products to display","Количество товаров для отображения",module,Magento_Catalog
+"Product attributes to show","Показать атрибуты продукта",module,Magento_Catalog
 "Image","Изображение",module,Magento_Catalog
-"Learn More Link","Learn More Link",module,Magento_Catalog
-"Buttons to show","Buttons to show",module,Magento_Catalog
+"Learn More Link","Узнайте больше ссылка",module,Magento_Catalog
+"Buttons to show","Кнопки Показать",module,Magento_Catalog
 "Add to Wishlist","Add to Wishlist",module,Magento_Catalog
-"Viewed Products Grid Template","Viewed Products Grid Template",module,Magento_Catalog
-"Viewed Products List Template","Viewed Products List Template",module,Magento_Catalog
-"Viewed Products Sidebar Template","Viewed Products Sidebar Template",module,Magento_Catalog
-"Recently Compared Products","Recently Compared Products",module,Magento_Catalog
+"Viewed Products Grid Template","Шаблон ""Сетка"" просмотренные товары",module,Magento_Catalog
+"Viewed Products List Template","Шаблон списка просмотренные товары",module,Magento_Catalog
+"Viewed Products Sidebar Template","Просмотренные товары боковой шаблона",module,Magento_Catalog
+"Recently Compared Products","Недавно по сравнению продуктов",module,Magento_Catalog
 "List of Products Recently Compared by Visitor","Список продуктов недавно сравнивающихся посетителем",module,Magento_Catalog
-"Compared Products Grid Template","Compared Products Grid Template",module,Magento_Catalog
-"Compared Products List Template","Compared Products List Template",module,Magento_Catalog
+"Compared Products Grid Template","Шаблон ""Сетка"" по сравнению продуктов",module,Magento_Catalog
+"Compared Products List Template","По сравнению шаблон списка продуктов",module,Magento_Catalog
 "Set","Задать",module,Magento_Catalog
-"Category Information","Category Information",module,Magento_Catalog
-"Enable Category","Enable Category",module,Magento_Catalog
-"Include in Menu","Include in Menu",module,Magento_Catalog
+"Category Information","Категории информации",module,Magento_Catalog
+"Enable Category","Включить категорию",module,Magento_Catalog
+"Include in Menu","Включить в меню",module,Magento_Catalog
 "Content","Контент",module,Magento_Catalog
 "Category Image","Изображение категории",module,Magento_Catalog
 "Description","Description",module,Magento_Catalog
-"Add CMS Block","Add CMS Block",module,Magento_Catalog
+"Add CMS Block","Добавьте блок CMS",module,Magento_Catalog
 "Display Settings","Параметры отображения",module,Magento_Catalog
 "Display Mode","Display Mode",module,Magento_Catalog
-"Anchor","Anchor",module,Magento_Catalog
+"Anchor","Якорь",module,Magento_Catalog
 "Available Product Listing Sort By","Available Product Listing Sort By",module,Magento_Catalog
 "Use All","Использовать все",module,Magento_Catalog
 "Default Product Listing Sort By","Default Product Listing Sort By",module,Magento_Catalog
-"Layered Navigation Price Step","Layered Navigation Price Step",module,Magento_Catalog
+"Layered Navigation Price Step","Слоистых навигации Цена шаг",module,Magento_Catalog
 "URL Key","Ключ URL-адреса",module,Magento_Catalog
 "Meta Title","Мета-заголовок",module,Magento_Catalog
 "Meta Keywords","Мета Ключевые Слова",module,Magento_Catalog
 "Meta Description","Мета Описание",module,Magento_Catalog
-"Products in Category","Products in Category",module,Magento_Catalog
+"Products in Category","Продукты в категории",module,Magento_Catalog
 "Design","Дизайн",module,Magento_Catalog
 "Theme","Тема",module,Magento_Catalog
 "Layout","Макеты",module,Magento_Catalog
-"Layout Update XML","Layout Update XML",module,Magento_Catalog
-"Apply Design to Products","Apply Design to Products",module,Magento_Catalog
-"Schedule Design Update","Schedule Design Update",module,Magento_Catalog
+"Layout Update XML","Обновление структуры XML",module,Magento_Catalog
+"Apply Design to Products","Применить дизайн продукции",module,Magento_Catalog
+"Schedule Design Update","График дизайн обновление",module,Magento_Catalog
 "AttributeSetText","AttributeSetText",module,Magento_Catalog
 "StatusText","StatusText",module,Magento_Catalog
-"Product Image Watermarks","Product Image Watermarks",module,Magento_Catalog
+"Product Image Watermarks","Продукт изображений водяных знаков",module,Magento_Catalog
 "Base","Основа",module,Magento_Catalog
-"Allowed file types: jpeg, gif, png.","Allowed file types: jpeg, gif, png.",module,Magento_Catalog
-"Image Opacity","Image Opacity",module,Magento_Catalog
-"Example format: 200x300.","Example format: 200x300.",module,Magento_Catalog
-"Image Position","Image Position",module,Magento_Catalog
-"Attribute Properties","Attribute Properties",module,Magento_Catalog
-"Attribute Label","Attribute Label",module,Magento_Catalog
-"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.",module,Magento_Catalog
-"Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Catalog
+"Allowed file types: jpeg, gif, png.","Допустимые типы файлов: jpeg, gif, png.",module,Magento_Catalog
+"Image Opacity","Непрозрачность изображения",module,Magento_Catalog
+"Example format: 200x300.","Пример формат: 200 x 300.",module,Magento_Catalog
+"Image Position","Положение изображения",module,Magento_Catalog
+"Attribute Properties","Свойства атрибута",module,Magento_Catalog
+"Attribute Label","Атрибут Label",module,Magento_Catalog
+"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Текстовый редактор типа ввода требует WYSIWYG должна быть включена в магазинах > конфигурации > управления контентом.",module,Magento_Catalog
+"Catalog Input Type for Store Owner","Входной тип каталога для владелец магазина",module,Magento_Catalog
 "Values","Значения",module,Magento_Catalog
-"Add this attribute to the list of column options in the product grid.","Add this attribute to the list of column options in the product grid.",module,Magento_Catalog
-"Add this attribute to the list of filter options in the product grid.","Add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
+"Add this attribute to the list of column options in the product grid.","Этот атрибут добавляется к списку параметров столбца в сетке продукта.",module,Magento_Catalog
+"Add this attribute to the list of filter options in the product grid.","Этот атрибут добавляется к списку параметров фильтра в сетке продукта.",module,Magento_Catalog
 "System","Система",module,Magento_Catalog
-"All Store Views","All Store Views",module,Magento_Catalog
-"Delete selected items?","Delete selected items?",module,Magento_Catalog
+"All Store Views","Все хранят просмотров",module,Magento_Catalog
+"Delete selected items?","Удалить выбранные файлы?",module,Magento_Catalog
 "Delete items","Удаление объектов",module,Magento_Catalog
 "Change status","Изменить статус",module,Magento_Catalog
 "Enable","Включить",module,Magento_Catalog
 "Disable","Отключить",module,Magento_Catalog
-"Update attributes","Update attributes",module,Magento_Catalog
+"Update attributes","Обновить атрибуты",module,Magento_Catalog
 "Overview","Обзор",module,Magento_Catalog
-"Skip to the end of the images gallery","Skip to the end of the images gallery",module,Magento_Catalog
-"Skip to the beginning of the images gallery","Skip to the beginning of the images gallery",module,Magento_Catalog
+"Skip to the end of the images gallery","Пропустить и перейти к галереям изображений",module,Magento_Catalog
+"Skip to the beginning of the images gallery","Перейти к началу галереи изображений",module,Magento_Catalog
 "Details","Детали",module,Magento_Catalog
-"Recently Compared","Recently Compared",module,Magento_Catalog
+"Recently Compared","Недавно по сравнению",module,Magento_Catalog
 "Add To Cart","Добавить в корзину",module,Magento_Catalog
-"Add To Compare","Add To Compare",module,Magento_Catalog
+"Add To Compare","Добавить к сравнению",module,Magento_Catalog
 "Learn more","Подробнее",module,Magento_Catalog
 "Recently Viewed","Недавно просмотренные",module,Magento_Catalog
 "Edit Event","Редактирование события",module,Magento_CatalogEvent
@@ -6707,7 +6707,7 @@
 "General","Общие",module,Magento_Integration
 "Name","Название",module,Magento_Integration
 "Email","Электронная почта",module,Magento_Integration
-"Callback URL","Callback URL",module,Magento_Integration
+"Callback URL","URL обратного вызова",module,Magento_Integration
 "Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.","Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.",module,Magento_Integration
 "Identity link URL","Identity link URL",module,Magento_Integration
 "URL to redirect user to link their 3rd party account with this Magento integration credentials.","URL to redirect user to link their 3rd party account with this Magento integration credentials.",module,Magento_Integration
@@ -14257,7 +14257,7 @@
 "Previous","Предыдущий",theme,frontend/Magento/luma
 "Remove","Удалить",theme,frontend/Magento/luma
 "Remove This Item","Удалить этот элемент",theme,frontend/Magento/luma
-"Shop By","Shop By",theme,frontend/Magento/luma
+"Shop By","Магазин по",theme,frontend/Magento/luma
 "Clear All","Очистить все",theme,frontend/Magento/luma
 "Shopping Options","Варианты покупок",theme,frontend/Magento/luma
 "Welcome to %store_name","Добро пожаловать в %store_name",theme,frontend/Magento/luma
@@ -14283,30 +14283,30 @@
 "<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>обслуживания клиентов</a>",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Часы работы: <br /> <span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Кредит ноты для заказа %store_name",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","Благодарим вас за ваш заказ от %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Вы можете проверить статус вашего заказа, <a href=""%account_url"">войдя в свой аккаунт</a>.",theme,frontend/Magento/luma
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Если у вас есть вопросы о вашем заказе, вы можете написать нам на <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","#%creditmemo_id ваш кредит ноты для заказа #%order_id",theme,frontend/Magento/luma
 "Billing Info","Информация об оплате",theme,frontend/Magento/luma
 "Shipping Info","Информация по доставке",theme,frontend/Magento/luma
 "Payment Method","Метод оплаты",theme,frontend/Magento/luma
 "Shipping Method","Способ доставки",theme,frontend/Magento/luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Обновить ваш кредит ноту tore_name %s",theme,frontend/Magento/luma
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Ваш заказ #%increment_id был обновлен со статусом <strong>%order_status</strong>.",theme,frontend/Magento/luma
 "Invoice for your %store_name order","Счет для заказа %store_name",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","Ваш счет #%invoice_id для заказа #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
-"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Обновить ваш счет tore_name %s",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Подтверждение заказа %store_name",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Как только ваш пакет будет отправлен, мы дадим вам номер для отслеживания.",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
-"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Ваш заказ <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","На <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Обновить ваш заказ tore_name %s",theme,frontend/Magento/luma
+"Your %store_name order has shipped","%store_name заказ отправлен",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Подтверждение доставки находится ниже. Еще раз спасибо за ваш бизнес.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Ваш груз #%shipment_id для заказа #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Обновление для вашего груза tore_name %s",theme,frontend/Magento/luma
 "My Account","Мой аккаунт",theme,frontend/Magento/luma
 "Address Book","Адресная книга",theme,frontend/Magento/luma
 "Account Information","Данные учётной записи",theme,frontend/Magento/luma
