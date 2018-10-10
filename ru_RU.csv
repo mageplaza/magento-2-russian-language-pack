@@ -868,7 +868,7 @@
 "Secure Base URL for Static View Files","Secure Base URL для просмотра статических файлов",module,Magento_Backend
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Может быть пустым или начинаться с места {{secure_base_url}} или {{unsecure_base_url}}.",module,Magento_Backend
 "Secure Base URL for User Media Files","Secure Base URL для пользователей мультимедийных файлов",module,Magento_Backend
-"Use Secure URLs on Storefront","Используйте Secure Base URLs на фронэнде",module,Magento_Backend
+"Use Secure URLs on Storefront","Используйте Secure Base URLs на фронтэнде",module,Magento_Backend
 "Use Secure URLs in Admin","Используйте Secure URLs в админке",module,Magento_Backend
 "Enable HTTP Strict Transport Security (HSTS)","Включить HTTP Strict Transport Security (HSTS)",module,Magento_Backend
 "Upgrade Insecure Requests","Обновление небезопасных запросов",module,Magento_Backend
