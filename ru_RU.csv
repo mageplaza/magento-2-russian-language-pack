@@ -3380,20 +3380,20 @@
 "Country","Страна",module,Magento_Company
 "State/Province","State/Province",module,Magento_Company
 "Please select a region, state or province.","Please select a region, state or province.",module,Magento_Company
-"ZIP/Postal Code","ZIP/Postal Code",module,Magento_Company
+"ZIP/Postal Code","Почтовый индекс",module,Magento_Company
 "Phone Number","Номер телефона",module,Magento_Company
 "Company Administrator","Company Administrator",module,Magento_Company
 "Job Title","Job Title",module,Magento_Company
-"Email","Email",module,Magento_Company
+"Email","Электронная почта",module,Magento_Company
 "Submit","Submit",module,Magento_Company
 "New Company Account","New Company Account",module,Magento_Company
 "If you represent a company, you will want to use our company account area. Creating a company account provides all company members with access to B2B features like quoting, company users management, quick order, and more.","If you represent a company, you will want to use our company account area. Creating a company account provides all company members with access to B2B features like quoting, company users management, quick order, and more.",module,Magento_Company
 "Create a Company Account","Create a Company Account",module,Magento_Company
 "Business Structure","Business Structure",module,Magento_Company
-"Expand All","Expand All",module,Magento_Company
-"Collapse All","Collapse All",module,Magento_Company
-"Add User","Add User",module,Magento_Company
-"Add Team","Add Team",module,Magento_Company
+"Expand All","Развернуть всё",module,Magento_Company
+"Collapse All","Свернуть все",module,Magento_Company
+"Add User","Добавить пользователя",module,Magento_Company
+"Add Team","Добавить команду",module,Magento_Company
 "Edit Selected","Изменить выбранные",module,Magento_Company
 "Delete Selected","Удалить выбранные",module,Magento_Company
 "Error","Ошибка",module,Magento_Company
@@ -4087,16 +4087,16 @@
 "Some error","Некоторая ошибка",module,Magento_Cron
 "Invalid callback: Not_Existed_Class::execute can't be called","Invalid callback: Not_Existed_Class::execute can't be called",module,Magento_Cron
 "Test exception","Тестовое исключение",module,Magento_Cron
-"Cron (Scheduled Tasks)","Cron (Scheduled Tasks)",module,Magento_Cron
+"Cron (Scheduled Tasks)","Cron (запланированные задачи)",module,Magento_Cron
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.",module,Magento_Cron
 "Cron configuration options for group:","Параметры конфигурации в cron для группы:",module,Magento_Cron
 "Generate Schedules Every","Generate Schedules Every",module,Magento_Cron
 "Schedule Ahead for","Schedule Ahead for",module,Magento_Cron
 "Missed if Not Run Within","Missed if Not Run Within",module,Magento_Cron
-"History Cleanup Every","History Cleanup Every",module,Magento_Cron
+"History Cleanup Every","Очистка журнала каждые",module,Magento_Cron
 "Success History Lifetime","Success History Lifetime",module,Magento_Cron
 "Failure History Lifetime","Failure History Lifetime",module,Magento_Cron
-"Use Separate Process","Use Separate Process",module,Magento_Cron
+"Use Separate Process","Используйте отдельный процесс",module,Magento_Cron
 "Save Currency Rates","Сохранить валюту",module,Magento_CurrencySymbol
 "Options","Параметры",module,Magento_CurrencySymbol
 "Reset","Сбросить",module,Magento_CurrencySymbol
