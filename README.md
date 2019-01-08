@@ -119,13 +119,13 @@ Unzip the compressed file and upload file `ru_RU.zip` into `app/i18n/mageplaza/r
 Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza.com/kb/how-flush-enable-disable-cache.html)
 
 
-## 3. How to active Russian language pack {#active}
+## 3. How to active Russian language pack 
 
 Now time to active the Russian language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
 ![{{Magento 2 Russian language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
 
 
-## 4. How to contribute {#contribute}
+## 4. How to contribute
 
 Contribute to this language at :
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
@@ -134,16 +134,17 @@ Contribute to this language at :
 
 ## 5. Supported Magento versions
 
-It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/), Magento 2 Commerce.
+It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/) (Community), Magento 2 Commerce (EE).
 
 
 - Magento v2.0.x
 - Magento v2.1.x
 - Magento v2.2.x
+- Magento v2.3.x
 
 
 
-## 6. Notes {#important-notes}
+## 6. Notes 
 
 - This project automatically updates weekly from Crowdin.
 - Any question, issue please [create a new issue](https://github.com/mageplaza/magento-2-russian-language-pack/issues/new)
@@ -159,7 +160,6 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 
 - https://www.mageplaza.com/magento-2-russian-language-pack.html
 - https://crowdin.com/project/magento-2
-
 
 
 
