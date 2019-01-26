@@ -91,8 +91,11 @@ Unzip the Russian language pack to Magento 2 root folder. In this guide, we extr
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/ru_ru
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-russian-language-pack` to `ru_ru`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -112,7 +115,11 @@ To download and install Russian pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `ru_RU.zip` into `app/i18n/mageplaza/ru_RU/ru_RU.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ru_ru/ru_RU.csv`
+
+See this screenshot
+
+![Russian pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
