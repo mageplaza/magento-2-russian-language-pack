@@ -645,9 +645,9 @@ YTD,YTD,module,Magento_Backend
 "The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.",module,Magento_Backend
 Order,Заказ,module,Magento_Backend
 "Order #%1","Заказ #%1",module,Magento_Backend
-"Save &amp; Continue","Save &amp; Continue",module,Magento_Backend
-"Save &amp; Close","Save &amp; Close",module,Magento_Backend
-"Save &amp; New","Save &amp; New",module,Magento_Backend
+"Save &amp; Continue","Сохранить и Продолжить",module,Magento_Backend
+"Save &amp; Close","Сохранить и закрыть",module,Magento_Backend
+"Save &amp; New","Сохранить и создать",module,Magento_Backend
 Edit,Edit,module,Magento_Backend
 "Sorry, you need permissions to view this content.","Извините, у вас должны быть разрешения на просмотр этого содержимого.",module,Magento_Backend
 "Next steps","Следующие шаги",module,Magento_Backend
@@ -832,9 +832,9 @@ Host,Хост,module,Magento_Backend
 "Return-Path Email","Электронная почта пути возврата",module,Magento_Backend
 "Images Upload Configuration","Images Upload Configuration",module,Magento_Backend
 "Enable Frontend Resize","Enable Frontend Resize",module,Magento_Backend
-"Maximum Width","Maximum Width",module,Magento_Backend
+"Maximum Width","Максимальная ширина",module,Magento_Backend
 "Maximum allowed width for uploaded image.","Maximum allowed width for uploaded image.",module,Magento_Backend
-"Maximum Height","Maximum Height",module,Magento_Backend
+"Maximum Height","Максимальная высота",module,Magento_Backend
 "Maximum allowed height for uploaded image.","Maximum allowed height for uploaded image.",module,Magento_Backend
 Admin,Админ,module,Magento_Backend
 "Admin User Emails","E-mail администраторов",module,Magento_Backend
@@ -870,7 +870,7 @@ Web,Веб,module,Magento_Backend
 "Base URL","Base URL",module,Magento_Backend
 "Specify URL or {{base_url}} placeholder.","Укажите место URL или {{base_url}}.",module,Magento_Backend
 "Base Link URL","Base Link URL",module,Magento_Backend
-"May start with {{unsecure_base_url}} placeholder.","May start with {{unsecure_base_url}} placeholder.",module,Magento_Backend
+"May start with {{unsecure_base_url}} placeholder.","Может начинаться с {{unsecure_base_url}} плейсхолдера.",module,Magento_Backend
 "Base URL for Static View Files","Base URL для просмотра статических файлов",module,Magento_Backend
 "May be empty or start with {{unsecure_base_url}} placeholder.","Может быть пустым или начните с места {{unsecure_base_url}}.",module,Magento_Backend
 "Base URL for User Media Files","Base URL для пользователей мультимедийных файлов",module,Magento_Backend
@@ -879,7 +879,7 @@ Web,Веб,module,Magento_Backend
 "Secure Base URL","Secure Base URL",module,Magento_Backend
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Укажите место URL или {{base_url}} или {{unsecure_base_url}}.",module,Magento_Backend
 "Secure Base Link URL","Secure Base Link URL",module,Magento_Backend
-"May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.","May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.",module,Magento_Backend
+"May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.","Может начинаться с {{secure_base_url}} или {{unsecure_base_url}} плейсхолдера.",module,Magento_Backend
 "Secure Base URL for Static View Files","Secure Base URL для просмотра статических файлов",module,Magento_Backend
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Может быть пустым или начинаться с места {{secure_base_url}} или {{unsecure_base_url}}.",module,Magento_Backend
 "Secure Base URL for User Media Files","Secure Base URL для пользователей мультимедийных файлов",module,Magento_Backend
@@ -1010,8 +1010,8 @@ Action,Действие,module,Magento_Backup
 "New Dynamic Block","New Dynamic Block",module,Magento_Banner
 Delete,Удалить,module,Magento_Banner
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Banner
-Reset,Reset,module,Magento_Banner
-Save,Save,module,Magento_Banner
+Reset,Сбросить,module,Magento_Banner
+Save,Сохранить,module,Magento_Banner
 Content,Контент,module,Magento_Banner
 "Default Content","Контент по умолчанию",module,Magento_Banner
 "No Default Content","Нет контента по умолчанию",module,Magento_Banner
@@ -1033,8 +1033,8 @@ Inactive,Неактивные,module,Magento_Banner
 "Specified Dynamic Block Types","Specified Dynamic Block Types",module,Magento_Banner
 "Specify Types","Укажите типы",module,Magento_Banner
 "Dynamic Block Information","Dynamic Block Information",module,Magento_Banner
-"Dynamic Block","Dynamic Block",module,Magento_Banner
-"Dynamic Block Type","Dynamic Block Type",module,Magento_Banner
+"Dynamic Block","Динамический блок",module,Magento_Banner
+"Dynamic Block Type","Тип динамического блока",module,Magento_Banner
 Visibility,Видимость,module,Magento_Banner
 "Are you sure you want to delete these dynamic blocks?","Are you sure you want to delete these dynamic blocks?",module,Magento_Banner
 "Related Dynamic Blocks","Related Dynamic Blocks",module,Magento_Banner
