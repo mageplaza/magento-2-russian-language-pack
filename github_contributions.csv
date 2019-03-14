@@ -1,14 +1,46 @@
+"We couldn't remove the messages because of an error.","Мы не смогли удалить сообщения из-за ошибки.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} не рекомендуется использовать в производственной среде для объявления небезопасного Base URL / Base Secure URL. Настоятельно рекомендуется изменить это значение в вашем Magento <a href=""%1""> конфигурации</a>.",module,Magento_AdminNotification
+"Pet Goods","Товары для животных",module,Magento_Analytics
+"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","%1 транзакция была пропущена/отклонена. Статус транзакции - <%2>. Сумма %3.",module,Magento_Authorizenet
+"You need more permissions to do this.","Вам нужно больше пользовательских прав.",module,Magento_Backend
+Authorize,Авторизовать,module,Magento_Braintree
+"Authorize and Capture","Авторизовать и записать",module,Magento_Braintree
+Authorize,Авторизовать,module,Magento_BraintreeTwo
+"Authorize and Capture","Авторизовать и записать",module,Magento_BraintreeTwo
+"Add Selected Products","Добавить выбранные товары",module,Magento_Bundle
+Canceled,Отменено,module,Magento_Bundle
+Global,Глобально,module,Magento_Catalog
+"There was a category move error.","Ошибка при перемещении категории.",module,Magento_Catalog
+"A total of %1 record(s) were updated.","В общей сложности обновлено %1 записи(ей).",module,Magento_Catalog
+"Manage Titles (Size, Color, etc.)","Управление названиями (размер, цвет и т.д.)",module,Magento_Catalog
+"Missing key %1 in product data","Отсутствует ключ %1 в данных о продукте",module,Magento_CatalogGraphQl
+"Start Date","Дата начала",module,Magento_CatalogRuleStaging
 "Advanced Search Results","Расширенный поиск",module,Magento_CatalogSearch
+"There are more than one shipping addresses.","Существует более чем один адрес доставки.",module,Magento_Checkout
 "You have no items in your shopping cart.","У вас нет товаров в корзине.",module,Magento_Checkout
 "Estimate Shipping and Tax","Оценить стоимость доставки и налог",module,Magento_Checkout
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Вы добавили %1 в вашу <a href=""%2"">корзину</a>.",module,Magento_Checkout
 "Proceed to Checkout","Оформить заказ",module,Magento_Checkout
 "You can create an account after checkout.","Вы можете создать учётную запись после оформления заказа.",module,Magento_Checkout
 "Order Summary","Краткое описание заказа",module,Magento_Checkout
+Cancel,Отменить,module,Magento_Cms
 State/Province,Штат/провинция,module,Magento_Company
 "Please select a region, state or province.","Пожалуйста, выберете область, штат или провинцию.",module,Magento_Company
+"Choose Affected Attribute Set","Выбрать затронутый набор атрибутов",module,Magento_ConfigurableProduct
+"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Kонфигурируемые товары позволяют клиентам выбрать варианты (например: цвет рубашки). Вам нужно создать простой товар для каждой конфигурации (например: продукт для каждого цвета).",module,Magento_ConfigurableProduct
+"Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Конфигурации не могут быть созданы для стандартного товара с загружаемыми файлами. Чтобы создать конфигурации, сначала удалите все загружаемые файлы.",module,Magento_ConfigurableProduct
+"Validate VAT Number","Проверьте номер НДС",module,Magento_Customer
+"New Password and Confirm New Password values didn't match.","Новый пароль и подтверждение нового пароля не совпадают.",module,Magento_Customer
+"You deleted the customer group.","Вы удалили группу клиентов.",module,Magento_Customer
+"The customer group no longer exists.","Группы клиентов больше не существует.",module,Magento_Customer
+"Current Password","Текущий пароль",module,Magento_Customer
 "If you have an account, sign in with your email address.","Если у вас есть учётная запись, войдите с помощью адреса вашей электронной почты.",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Создание учётной записи имеет много преимуществ: ускоренная оплата, хранение более одного адреса, отслеживание заказов и другие.",module,Magento_Customer
+"Current Password","Текущий пароль",module,Magento_CustomerCustomAttributes
+"Instant purchase integration not available for token.","Интеграция мгновенной покупки не доступна для токена.",module,Magento_InstantPurchase
+"Instant Purchase","Мгновенная покупка",module,Magento_InstantPurchase
+"Instant Purchase Confirmation","Подтверждение мгновенный покупки",module,Magento_InstantPurchase
+"Your search returned no results.","Ваш поиск не вернул результатов.",module,Magento_MultipleWishlist
 "Shipping Methods","Способы доставки",module,Magento_Multishipping
 "Check Out with Multiple Addresses","Оформить заказ на несколько адресов",module,Magento_Multishipping
 Item,Элемент,module,Magento_Multishipping
@@ -20,14 +52,30 @@ Item,Элемент,module,Magento_Multishipping
 "Enter your email address","Введите ваш адрес электронной почты",module,Magento_Newsletter
 Subscribe,Подписаться,module,Magento_Newsletter
 "Contact Us","Обратная связь",module,Magento_RequisitionList
+Approved,Утверждено,module,Magento_Review
+"Not Approved","Не утверждено",module,Magento_Review
 "Be the first to review this product","Будьте первым, кто оставит отзыв",module,Magento_Review
 "You're reviewing:","Вы оставляете отзыв для:",module,Magento_Review
 "Submit Review","Отправить отзыв",module,Magento_Review
 Nickname,Прозвище,module,Magento_ReviewStaging
 Review,Отзыв,module,Magento_ReviewStaging
+Approved,Утверждено,module,Magento_Rma
+"Recently Compared Products","Недавно сравниваемые товары",module,Magento_Sales
+"Are you sure you want to send an order email to customer?","Вы уверены, что вы хотите отправить по электронной почте заказ клиенту?",module,Magento_Sales
+"Order Information","Информация о заказе",module,Magento_Sales
+"Find Order By","Найти заказ по",module,Magento_Sales
 "Apply Discount Code","Применить код скидки",module,Magento_SalesRule
 "Enter discount code","Введите код скидки",module,Magento_SalesRule
 "Apply Discount","Применить скидку",module,Magento_SalesRule
 "Search entire store here...","Поиск по всему магазину...",module,Magento_Search
 "Advanced Search","Расширенный поиск",module,Magento_SearchStaging
 "Search Terms","Поисковые запросы",module,Magento_SearchStaging
+"Restriction Mode","Ограниченный режим",module,Magento_WebsiteRestriction
+"The widget instance has been deleted.","Экземпляр виджета был удалён.",module,Magento_Widget
+"The widget instance has been saved.","Экземпляр виджета был сохранён.",module,Magento_Widget
+"No Items Found","Нет найденных товаров",module,Magento_Wishlist
+"Product Details and Comment","Детали продукта и комментарии",module,Magento_Wishlist
+"Postcode AVS check","Проверка почтового индекса AVS",module,Magento_Worldpay
+"Transaction was not placed.","Транзакция не была совершена.",module,Magento_Worldpay
+Authorize,Войти,module,Magento_Worldpay
+"Authorize and Capture","Авторизовать и записать",module,Magento_Worldpay
