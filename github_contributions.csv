@@ -1,81 +1,234 @@
-"We couldn't remove the messages because of an error.","Мы не смогли удалить сообщения из-за ошибки.",module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} не рекомендуется использовать в производственной среде для объявления небезопасного Base URL / Base Secure URL. Настоятельно рекомендуется изменить это значение в вашем Magento <a href=""%1""> конфигурации</a>.",module,Magento_AdminNotification
-"Pet Goods","Товары для животных",module,Magento_Analytics
-"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","%1 транзакция была пропущена/отклонена. Статус транзакции - <%2>. Сумма %3.",module,Magento_Authorizenet
-"You need more permissions to do this.","Вам нужно больше пользовательских прав.",module,Magento_Backend
-Authorize,Авторизовать,module,Magento_Braintree
-"Authorize and Capture","Авторизовать и записать",module,Magento_Braintree
-Authorize,Авторизовать,module,Magento_BraintreeTwo
-"Authorize and Capture","Авторизовать и записать",module,Magento_BraintreeTwo
-"Add Selected Products","Добавить выбранные товары",module,Magento_Bundle
-Canceled,Отменено,module,Magento_Bundle
-Global,Глобально,module,Magento_Catalog
-"There was a category move error.","Ошибка при перемещении категории.",module,Magento_Catalog
-"A total of %1 record(s) were updated.","В общей сложности обновлено %1 записи(ей).",module,Magento_Catalog
-"Manage Titles (Size, Color, etc.)","Управление названиями (размер, цвет и т.д.)",module,Magento_Catalog
-"Missing key %1 in product data","Отсутствует ключ %1 в данных о продукте",module,Magento_CatalogGraphQl
-"Start Date","Дата начала",module,Magento_CatalogRuleStaging
-"Advanced Search Results","Расширенный поиск",module,Magento_CatalogSearch
-"There are more than one shipping addresses.","Существует более чем один адрес доставки.",module,Magento_Checkout
-"You have no items in your shopping cart.","У вас нет товаров в корзине.",module,Magento_Checkout
-"Estimate Shipping and Tax","Оценить стоимость доставки и налог",module,Magento_Checkout
-"You added %1 to your <a href=""%2"">shopping cart</a>.","Вы добавили %1 в вашу <a href=""%2"">корзину</a>.",module,Magento_Checkout
-"Proceed to Checkout","Оформить заказ",module,Magento_Checkout
-"You can create an account after checkout.","Вы можете создать учётную запись после оформления заказа.",module,Magento_Checkout
-"Order Summary","Краткое описание заказа",module,Magento_Checkout
-Cancel,Отменить,module,Magento_Cms
-State/Province,Штат/провинция,module,Magento_Company
-"Please select a region, state or province.","Пожалуйста, выберете область, штат или провинцию.",module,Magento_Company
-"Choose Affected Attribute Set","Выбрать затронутый набор атрибутов",module,Magento_ConfigurableProduct
-"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Kонфигурируемые товары позволяют клиентам выбрать варианты (например: цвет рубашки). Вам нужно создать простой товар для каждой конфигурации (например: продукт для каждого цвета).",module,Magento_ConfigurableProduct
-"Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Конфигурации не могут быть созданы для стандартного товара с загружаемыми файлами. Чтобы создать конфигурации, сначала удалите все загружаемые файлы.",module,Magento_ConfigurableProduct
-"Validate VAT Number","Проверьте номер НДС",module,Magento_Customer
-"New Password and Confirm New Password values didn't match.","Новый пароль и подтверждение нового пароля не совпадают.",module,Magento_Customer
-"You deleted the customer group.","Вы удалили группу клиентов.",module,Magento_Customer
-"The customer group no longer exists.","Группы клиентов больше не существует.",module,Magento_Customer
-"Current Password","Текущий пароль",module,Magento_Customer
-"If you have an account, sign in with your email address.","Если у вас есть учётная запись, войдите с помощью адреса вашей электронной почты.",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Создание учётной записи имеет много преимуществ: ускоренная оплата, хранение более одного адреса, отслеживание заказов и другие.",module,Magento_Customer
-"Current Password","Текущий пароль",module,Magento_CustomerCustomAttributes
-"Instant purchase integration not available for token.","Интеграция мгновенной покупки не доступна для токена.",module,Magento_InstantPurchase
-"Instant Purchase","Мгновенная покупка",module,Magento_InstantPurchase
-"Instant Purchase Confirmation","Подтверждение мгновенный покупки",module,Magento_InstantPurchase
-"Your search returned no results.","Ваш поиск не вернул результатов.",module,Magento_MultipleWishlist
-"Shipping Methods","Способы доставки",module,Magento_Multishipping
-"Check Out with Multiple Addresses","Оформить заказ на несколько адресов",module,Magento_Multishipping
-Item,Элемент,module,Magento_Multishipping
-"Proceed to Checkout","Оформить заказ",module,Magento_NegotiableQuote
-"Contact Us","Обратная связь",module,Magento_NegotiableQuote
-"Apply Discount Code","Применить код скидки",module,Magento_NegotiableQuote
-"Enter discount code","Введите код скидки",module,Magento_NegotiableQuote
-"Apply Discount","Применить скидку",module,Magento_NegotiableQuote
-"Enter your email address","Введите ваш адрес электронной почты",module,Magento_Newsletter
-Subscribe,Подписаться,module,Magento_Newsletter
-"Contact Us","Обратная связь",module,Magento_RequisitionList
-Approved,Утверждено,module,Magento_Review
-"Not Approved","Не утверждено",module,Magento_Review
-"Be the first to review this product","Будьте первым, кто оставит отзыв",module,Magento_Review
-"You're reviewing:","Вы оставляете отзыв для:",module,Magento_Review
-"Submit Review","Отправить отзыв",module,Magento_Review
-Nickname,Прозвище,module,Magento_ReviewStaging
-Review,Отзыв,module,Magento_ReviewStaging
-Approved,Утверждено,module,Magento_Rma
-"Recently Compared Products","Недавно сравниваемые товары",module,Magento_Sales
-"Are you sure you want to send an order email to customer?","Вы уверены, что вы хотите отправить по электронной почте заказ клиенту?",module,Magento_Sales
-"Order Information","Информация о заказе",module,Magento_Sales
-"Find Order By","Найти заказ по",module,Magento_Sales
-"Apply Discount Code","Применить код скидки",module,Magento_SalesRule
-"Enter discount code","Введите код скидки",module,Magento_SalesRule
-"Apply Discount","Применить скидку",module,Magento_SalesRule
-"Search entire store here...","Поиск по всему магазину...",module,Magento_Search
-"Advanced Search","Расширенный поиск",module,Magento_SearchStaging
-"Search Terms","Поисковые запросы",module,Magento_SearchStaging
-"Restriction Mode","Ограниченный режим",module,Magento_WebsiteRestriction
-"The widget instance has been deleted.","Экземпляр виджета был удалён.",module,Magento_Widget
-"The widget instance has been saved.","Экземпляр виджета был сохранён.",module,Magento_Widget
-"No Items Found","Нет найденных товаров",module,Magento_Wishlist
-"Product Details and Comment","Детали продукта и комментарии",module,Magento_Wishlist
-"Postcode AVS check","Проверка почтового индекса AVS",module,Magento_Worldpay
-"Transaction was not placed.","Транзакция не была совершена.",module,Magento_Worldpay
-Authorize,Войти,module,Magento_Worldpay
-"Authorize and Capture","Авторизовать и записать",module,Magento_Worldpay
+Severity,Серьёзность,module,Magento_AdminNotification
+"You can add only enabled products.","Вы можете добавить только включённые товары.",module,Magento_AdvancedCheckout
+"We can't find this wish list.","Не удаётся найти этот список желаний.",module,Magento_AdvancedCheckout
+"Entity type model '%1' is not found","Введённый тип модели '%1' не найден",module,Magento_AdvancedPricingImportExport
+"Successful! Test again?","Успешно! Проверить ещё раз?",module,Magento_AdvancedSearch
+"Connection failed! Test again?","Ошибка соединения! Проверить ещё раз?",module,Magento_AdvancedSearch
+"Cannot find predefined integration user!","Предопределённая интеграция не может найти пользователя!",module,Magento_Analytics
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Ваш базовый URL-адрес обновляется. Как только это изменение будет обработано, будет доступна расширенная отчётность. Повторите попытку позже.",module,Magento_Analytics
+"Advanced Reporting","Расширенная Отчётность",module,Magento_Analytics
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Получите новые идеи и проверьте свою эффективность бизнеса, используя динамические отчёты о продуктах, заказах и клиентах.",module,Magento_Analytics
+"Go to Advanced Reporting","Перейти к расширенной отчётности",module,Magento_Analytics
+                terms and conditions</a>.","Эта служба предоставляет динамический набор отчётов с богатой информацией о вашем бизнесе.
+				Доступ к отчётам можно безопасно получить на персонализированной панели мониторинга за пределами панели администратора,
+				нажав ссылку «Перейти к расширенной отчётности». </br> Для получения дополнительной информации см. <a href=""https://magento.com/legal/terms/cloud-terms"">
+"Advanced Reporting Service","Служба Расширенных Отчётов",module,Magento_Analytics
+"In order to personalize your Advanced Reporting experience, please select your industry.","Чтобы персонализировать ваш опыт, передовые отчётности, пожалуйста выберите вашей отрасли.",module,Magento_Analytics
+"%1 item(s) have been successfully updated.","%1 элемент(ов) был успешно обновлён.",module,Magento_AsynchronousOperations
+"Dismiss All Completed Tasks","Скрыть все завершённые задачи",module,Magento_AsynchronousOperations
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Что-то пошло не так во время компиляции списка разрешённых ресурсов. Вы можете узнать больше информации в журнале исключений.",module,Magento_Authorization
+"Something went wrong in the payment gateway.","Что-то пошло не так в платёжном шлюзе.",module,Magento_Authorizenet
+"This payment didn't work out because we can't find this order.","Этот платёж не прошёл, так как мы не можем найти этот заказ.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Что-то пошло не так: платёжная сумма не соответствует сумме заказа. Пожалуйста откорректируйте её и попробуйте позже.",module,Magento_Authorizenet
+"Save Account","Сохранить учётную запись",module,Magento_Backend
+"Export block for grid %1 is not defined","Экспорт блока для сетки %1 не определён",module,Magento_Backend
+"[ deleted ]","[ удалён ]",module,Magento_Backend
+[deleted],[удалён],module,Magento_Backend
+"Access Denied.","Доступ запрещён.",module,Magento_Backend
+"You saved the account.","Вы сохранили учётную запись.",module,Magento_Backend
+"An error occurred while saving account.","Произошла ошибка при сохранении учётной записи.",module,Magento_Backend
+"Something went wrong. Please try again.","Что-то пошло не так. Пожалуйста, попробуйте ещё раз.",module,Magento_Backend
+"Unable to delete the store. Please try again later.","Не удаётся удалить магазин. Пожалуйста повторите попытку позже.",module,Magento_Backend
+"Unable to delete the store view. Please try again later.","Не удаётся удалить представление магазина. Пожалуйста повторите попытку позже.",module,Magento_Backend
+"Unable to delete the website. Please try again later.","Не удаётся удалить веб-сайт. Пожалуйста, повторите попытку позже.",module,Magento_Backend
+"The default store cannot be disabled","Магазин по умолчанию не может быть отключён",module,Magento_Backend
+"JavaScript may be disabled in your browser.","JavaScript может быть отключён в вашем браузере.",module,Magento_Backend
+"The backup file handler was unspecified.","Обработчик файла резервной копии не был определён.",module,Magento_Backup
+"Allowed Credit Card Types","Разрешённые типы кредитных карт",module,Magento_Braintree
+"Braintree Settlement Report","Расчётный отчёт Braintree",module,Magento_Braintree
+"This payment is not available","Этот платёж недоступен",module,Magento_Braintree
+"Please try again with another form of payment.","Пожалуйста, попробуйте ещё раз с другой формой оплаты.",module,Magento_Braintree
+"Settlement amount is too large.","Расчётная сумма является слишком большой.",module,Magento_Braintree
+"Cannot refund a transaction with a suspended merchant account.","Не удаётся вернуть транзакцию с отсрочкой торгового счёта.",module,Magento_Braintree
+"Cannot refund a transaction transaction in settling status on this merchant account. Try again after the transaction has settled.","Не удаётся вернуть транзакцию в урегулирование статуса на этот торговый счёт. Повторите попытку после того, как транзакция осела.",module,Magento_Braintree
+"Partial settlements are not supported by this processor.","Частичный расчёт не поддерживается этим процессором.",module,Magento_Braintree
+"Cannot submit for partial settlement.","Не удаётся подтвердить для частичного расчёта.",module,Magento_Braintree
+"Country Specific Settings","Определённые параметры стран",module,Magento_Braintree
+"Payment from Specific Countries","Оплата из определённых стран",module,Magento_Braintree
+"Country Specific Credit Card Types","Типы определённых кредитных карт страны",module,Magento_Braintree
+"Require Customer's Billing Address","Требуется платёжный адрес клиента",module,Magento_Braintree
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Разрешить редактирование адреса доставки, введённого во время оформления заказа через PayPal",module,Magento_Braintree
+"Verify for Specific Countries","Верификация определённых стран",module,Magento_Braintree
+"Incomplete PayPal account information.","Неполные сведения учётной записи PayPal.",module,Magento_Braintree
+"Invalid PayPal account information.","Неверные сведения учётной записи PayPal.",module,Magento_Braintree
+"PayPal Accounts are not accepted by this merchant account.","PayPal счета не принимаются этим торговым счётом.",module,Magento_Braintree
+"Billing address format is invalid.","Формат платёжного адреса недействителен.",module,Magento_Braintree
+"PayPal authentication expired.","Срок аутентификации истёк.",module,Magento_Braintree
+"Error executing PayPal billing agreement.","Ошибка при выставлении счёта PayPal.",module,Magento_Braintree
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Применяйте фильтры для того, чтобы получить результаты. Будут отображены только первые 100 записей в таблице. Также вы сможете скачать полную версию отчёта в формате CSV.",module,Magento_Braintree
+"Settlement Code","Расчётный код",module,Magento_Braintree
+"Settlement Response Text","Текстовый ответ расчёта",module,Magento_Braintree
+"Settlement Batch ID","Расчёт пакетного ID",module,Magento_Braintree
+"Allowed Credit Card Types","Разрешённые типы кредитных карт",module,Magento_BraintreeTwo
+"Braintree Settlement Report","Расчётный отчёт Braintree",module,Magento_BraintreeTwo
+"Apple pay card","платёжная карточка Apple",module,Magento_BraintreeTwo
+"Android pay card","платёжная карточка Android",module,Magento_BraintreeTwo
+"Authorization expired","Истёк срок действия авторизации",module,Magento_BraintreeTwo
+"Gateway rejected","Шлюз отклонён",module,Magento_BraintreeTwo
+"This payment is not available","Этот платёж недоступен",module,Magento_BraintreeTwo
+"Please try again with another form of payment.","Пожалуйста, попробуйте ещё раз с другой формой оплаты.",module,Magento_BraintreeTwo
+"Country Specific Settings","Определённые параметры стран",module,Magento_BraintreeTwo
+"Payment from Specific Countries","Оплата из определённых стран",module,Magento_BraintreeTwo
+"Country Specific Credit Card Types","Типы определённых кредитных карт страны",module,Magento_BraintreeTwo
+"Require Customer's Billing Address","Требуется платёжный адрес клиента",module,Magento_BraintreeTwo
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Разрешить редактирование адреса доставки введённого во время оформления заказа через PayPal",module,Magento_BraintreeTwo
+"Verify for Specific Countries","Верификация определённых стран",module,Magento_BraintreeTwo
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Применяйте фильтры для того, чтобы получить результаты. Будут отображены только первые 100 записей в таблице. Также вы сможете скачать полную версию отчёта в формате CSV.",module,Magento_BraintreeTwo
+"Settlement Code","Расчётный код",module,Magento_BraintreeTwo
+"Settlement Response Text","Текстовый ответ расчёта",module,Magento_BraintreeTwo
+"Settlement Batch ID","Расчёт пакетного ID",module,Magento_BraintreeTwo
+"There is no defined renderer for ""%1"" option type.","Нет определённого модуля подготовки отчётов для типа опции «%1».",module,Magento_Bundle
+Invoiced,"Выставлен счёт",module,Magento_Bundle
+SKU,"Единица складского учёта",module,Magento_BundleStaging
+"The account is locked. Please wait and try again or contact %1.","Учётная запись заблокирована. Пожалуйста, подождите и повторите попытку или свяжитесь с %1.",module,Magento_Captcha
+"Send Count","Отправить счёт",module,Magento_Catalog
+"Unable to add attribute","Не удаётся добавить атрибут",module,Magento_Catalog
+"SKU for product %1 has been changed to %2.","Артикул для товара %1 был изменён на %2.",module,Magento_Catalog
+"The attribute set has been removed.","Набор атрибутов удалён.",module,Magento_Catalog
+"Cannot delete category with id %1","Не удаётся удалить категорию с id %1",module,Magento_Catalog
+"Must be category model instance or its id.","Должна быть категория модели пример или её Id.",module,Magento_Catalog
+"The attribute model is not defined.","Признак модели не определён.",module,Magento_Catalog
+"Clear Price","Чёткая цена",module,Magento_Catalog
+"Can't get information about the picture: %1","Не удаётся получить информацию об изображении: %1",module,Magento_Catalog
+"The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","Загруженный файл ""%1"" больше, чем %2 мегабайт, разрешён нашим сервером.",module,Magento_Catalog
+"A product type is not defined for the indexer.","Тип продукта не определён для индексатора.",module,Magento_Catalog
+"Could not get extension attributes","Не удаётся получить атрибуты расширения",module,Magento_Catalog
+"If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.","Если ваша установка Magento имеет несколько веб-сайтов, вы можете редактировать область использования продукта на определённых сайтах.",module,Magento_Catalog
+"Double click on a group to rename it.","Дважды щёлкните по группе, чтобы переименовать её.",module,Magento_Catalog
+"Changes have been made to this section that have not been saved.","Были внесены изменения в этот раздел, который ещё не были сохранены.",module,Magento_Catalog
+Comma-separated.,"Разделённые запятой.",module,Magento_Catalog
+"Please use a four-digit year format.","Просьба используйте четырёхзначный формат.",module,Magento_Catalog
+"Display Countdown Ticker On","Экран обратного отсчёта дисплея включён",module,Magento_CatalogEvent
+"This product is no longer on sale.","Этот товар больше не продаётся.",module,Magento_CatalogEvent
+"We can't rebuild the index for an undefined product.","Мы не можем перестроить индекс для неопределённого продукта.",module,Magento_CatalogInventory
+"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Мы обнаружили обновлённые правила, которые не применяются. Нажмите ""Применить правила"", чтобы обновить каталог.",module,Magento_CatalogRule
+"Updated rules applied.","Обновлённые правила применены.",module,Magento_CatalogRule
+SKU,"Единица складского учёта",module,Magento_CatalogStaging
+"Totals calculation is not applicable to empty cart","Расчёт итогов не применим к пустой корзине",module,Magento_Checkout
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Вы должны подтвердить свою учётную запись. Пожалуйста, проверьте адрес электронной почты для подтверждения или <a href=""%1""> нажмите здесь</a> для новой ссылки.",module,Magento_Checkout
+"Not yet calculated","Ещё не рассчитана",module,Magento_Checkout
+Modified,Изменён,module,Magento_Cms
+"The block will be removed from the update and all scheduled changes will be lost.","Блок будет удалён из обновления и все запланированные изменения будут потеряны.",module,Magento_CmsStaging
+"Cannot create the customer.","Не удаётся создать клиента.",module,Magento_Company
+"Cannot delete this user.","Не удаётся удалить этого пользователя.",module,Magento_Company
+"The customer was successfully deleted.","Клиент был успешно удалён.",module,Magento_Company
+"The customer was successfully updated.","Клиент был успешно обновлён.",module,Magento_Company
+"The changes you made on the company profile have been successfully saved.","Изменения, внесённые в профиль компании, были успешно сохранены.",module,Magento_Company
+"The item was successfully moved.","Элемент был успешно перемещён.",module,Magento_Company
+"Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".","Не удаётся задать «доступ» для ресурса, так как его родитель ресурса(-ов) установлен на «запретить».",module,Magento_Company
+"Your account is not yet approved. If you have questions, please contact the seller.","Ваша учётная запись ещё не подтверждена. Если у вас есть вопросы, пожалуйста, свяжитесь с продавцом.",module,Magento_Company
+"Cannot delete role with id %1","Не удаётся удалить опцию с id %1",module,Magento_Company
+"Cannot delete structure with id %1","Не удаётся удалить структуру с id %1",module,Magento_Company
+"Cannot delete team with id %1","Не удаётся удалить команду с id %1",module,Magento_Company
+"Collapse All","Свернуть всё",module,Magento_Company
+"Create an Account","Создать учётную запись",module,Magento_Company
+"Sorry, we haven't installed the base currency you selected.","К сожалению, мы ещё не установили базовую валюту, которую вы выбрали.",module,Magento_Config
+"Select values from each attribute to include in this product. Each unique combination of values creates a unique product SKU.","Выберите значения из каждого атрибута для включения в этот Товар. Каждая уникальная комбинация значений создаёт уникальный Товар SKU.",module,Magento_ConfigurableProduct
+"An attribute has been removed. This attribute will no longer appear in your configurations.","Атрибут был удалён. Этот атрибут больше не будет показан в ваших конфигурациях.",module,Magento_ConfigurableProduct
+"You have not set a default billing address.","Вы не установили платёжный адрес по умолчанию.",module,Magento_Customer
+Indeterminate,Неопределённый,module,Magento_Customer
+"The customer does not have default billing address.","Клиент не имеет платёжного адреса по умолчанию.",module,Magento_Customer
+"Deleted Stores","Удалённые магазины",module,Magento_Customer
+"Create New Customer Account","Создать новую учётную запись клиента",module,Magento_Customer
+"This confirmation key is invalid or has expired.","Этот ключ подтверждения недействителен или истёк.",module,Magento_Customer
+"There was an error confirming the account","Там была ошибка подтверждение учётной записи",module,Magento_Customer
+"You saved the account information.","Вы сохранили информацию об учётной записи.",module,Magento_Customer
+"Password confirmation doesn't match entered password.","Подтверждение пароля не соответствует введённому паролю.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Если есть учётная запись, связанная с %1 вы получите электронное письмо со ссылкой для сброса пароля.",module,Magento_Customer
+"Billing Address","Адрес для выставления счёта",module,Magento_Customer
+"Attribute object is undefined","Объект атрибута не определён",module,Magento_Customer
+"""%1"" invalid type entered.","""%1"" введён неверный тип.",module,Magento_Customer
+"""%1"" does not fit the entered date format.","""%1"" не подходит формат введённой даты.",module,Magento_Customer
+"Cannot delete group.","Не удаётся удалить группу.",module,Magento_Customer
+"Confirmed email:","Подтверждённый email:",module,Magento_Customer
+"Account Created in:","Учётная запись, созданная в:",module,Magento_Customer
+"Default Billing Address","Адрес выставления счёта по умолчанию",module,Magento_Customer
+"Change Billing Address","Изменить платёжный адрес",module,Magento_Customer
+"You have no default billing address in your address book.","У вас нет настроек по умолчанию платёжный адрес в адресной книге.",module,Magento_Customer
+"Password Strength","Надёжность Пароля",module,Magento_Customer
+"Password you set when creating account","Пароль, заданный при создании учётной записи",module,Magento_Customer
+"Confirm Your Account","Подтвердите учётную запись",module,Magento_Customer
+"Creating an account has many benefits:","Создание учётной записи имеет множество плюсов:",module,Magento_Customer
+"See order and shipping status","Смотрите доставку и её статус",module,Magento_Customer
+Strong,Надёжный,module,Magento_Customer
+"Very Strong","Очень надёжный",module,Magento_Customer
+"Account Sharing Options","Параметры совместного доступа к учётной записи",module,Magento_Customer
+"Create New Account Options","Создание новых параметров учётной записи",module,Magento_Customer
+"Tax Calculation Based On","Расчёт налога основан на",module,Magento_Customer
+                        Email template chosen based on theme fallback when ""Default"" option is selected.","Это электронное письмо будет отправлено вместо приветственной электронной почты по умолчанию после подтверждения учётной записи. <br /><br />
+"Confirmed email","Подтверждённый email",module,Magento_Customer
+"Account Created in","Учётная запись, созданная в",module,Magento_Customer
+"Account Lock","Блокировка учётной записи",module,Magento_Customer
+"Edit Account Information","Изменить сведения об учётной записи",module,Magento_Customer
+"The form type has been deleted.","Тип формы был удалён.",module,Magento_CustomerCustomAttributes
+"Password Strength","Надёжность Пароля",module,Magento_CustomerCustomAttributes
+"Customer Segment Report","Отчёт сегмента клиента",module,Magento_CustomerSegment
+"Customer Segments Report","Отчёт сегментов клиента",module,Magento_CustomerSegment
+Reports,Отчёты,module,Magento_CustomerSegment
+"Allowed Methods","Разрешённые методы",module,Magento_Dhl
+"Allowed Currencies","Разрешённые валюты",module,Magento_Directory
+Invoiced,"Выставлен счёт",module,Magento_Downloadable
+"You have not purchased any downloadable products yet.","Вы ещё не приобрели любой загружаемый продукт.",module,Magento_Downloadable
+Canceled,Отменено,module,Magento_Downloadable
+"New Account","Новая учётная запись",module,Magento_GiftCardAccount
+"Account type","Тип учётной записи",module,Magento_GoogleTagManager
+"Cannot process the item.","Не удаётся обработать элемент.",module,Magento_GroupedProduct
+"The export is finished.","Экспорт завершён.",module,Magento_ImportExport
+"The import was successful.","Импорт успешно завершён.",module,Magento_ImportExport
+"A payment method isn't defined for instance purchase. Verify and try again.","Метод оплаты не определён для данной покупки. Проверьте и повторите попытку.",module,Magento_InstantPurchase
+"Shipping address is not defined for instance purchase.","Адрес доставки для экземпляра покупки не определён.",module,Magento_InstantPurchase
+"Billing address is not defined for instance purchase.","Адрес выставления счёта не определён для экземпляра покупки.",module,Magento_InstantPurchase
+"Shipping method is not defined for instance purchase.","Метод доставки не определён для экземпляра покупки.",module,Magento_InstantPurchase
+"Cheapest price","Дешёвые цены",module,Magento_InstantPurchase
+"Billing Address","Адрес для выставления счёта",module,Magento_InstantPurchase
+"Sorry, something went wrong. Please try again later.","Извините, что-то пошло не так. Попробуйте ещё раз.",module,Magento_Integration
+Reports,Отчёты,module,Magento_Invitation
+Reports,Отчёты,module,Magento_Logging
+Reports,Отчёты,module,Magento_MultipleWishlist
+"We'll ask for your payment details before you place an order.","Прежде чем разместить заказ мы запросим ваши платёжные реквизиты.",module,Magento_Payment
+Canceled,Отменён,module,Magento_Paypal
+"<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">Начните приём платежей через PayPal!</a>",module,Magento_Paypal
+"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Торговцы должны обращаться к PayPal для включения функции биллинговой соглашений. Не включайте этот параметр до тех пор, пока PayPal подтверждает, что платёжные соглашения включены для вашего торгового счёта.",module,Magento_Paypal
+"Will appear as a payment option only for customers who have at least one active billing agreement.","Будет отображаться как вариант оплаты только для клиентов, которые имеют по крайней мере одно активное платёжное соглашение.",module,Magento_Paypal
+"Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Допустимые значения: «paypal», «primary» (по умолчанию), your_custom_value (стиль пользовательской платёжной страницы из профиля вашей торговой компании).",module,Magento_Paypal
+"New Accounts","Новые учётные записи",module,Magento_Reports
+Canceled,Отменён,module,Magento_Reports
+Reports,Отчёты,module,Magento_Reports
+"This product is disabled.","Этот продукт будет отключён.",module,Magento_Sales
+"New Credit Memo for Invoice #%1","Новое кредитовое авизо для счёта #%1",module,Magento_Sales
+"New Invoice for Order #%1","Новая счёт-фактура для заказа #%1",module,Magento_Sales
+"Submit Invoice","Отправить счёт-фактуру",module,Magento_Sales
+"Invoice #%1 | %2 | %4 (%3)","Счёт-фактура #%1 | %2 | %4 (%3)",module,Magento_Sales
+"Are you sure you want to void the payment?","Вы уверены, что вы хотите аннулировать платёж?",module,Magento_Sales
+Invoice,Счёт,module,Magento_Sales
+[deleted],[удалён],module,Magento_Sales
+"Invoice #%1 created","Счёт #%1 создан",module,Magento_Sales
+"New Invoice","Новый счёт",module,Magento_Sales
+"We can't find this wish list.","Не удаётся найти этот список желаний.",module,Magento_Sales
+Canceled,Отменён,module,Magento_Sales
+"Invoice #","Счёт #",module,Magento_Sales
+Complete,Завершён,module,Magento_Sales
+"Invoice #","Счёт #",module,Magento_Sales
+"Billing Address","Платёжный адрес",module,Magento_SalesArchive
+"Can't acquire coupon.","Не удаётся получить купон.",module,Magento_SalesRule
+"Can not open file","Не удаётся открыть файл",module,Magento_ScheduledImportExport
+"For the last time placed.","За последний размещённый раз.",module,Magento_Search
+Reports,Отчёты,module,Magento_Search
+"Cannot add new comment.","Не удаётся добавить новый комментарий.",module,Magento_Shipping
+"All Allowed Countries","Все разрешённые страны",module,Magento_Shipping
+Complete,Завершён,module,Magento_Support
+"Not yet calculated","Ещё не рассчитана",module,Magento_Tax
+"%1 has been updated in your Wish List.","%1 был обновлён в вашем списке желаний.",module,Magento_Wishlist
+"Can't update wish list","Не удаётся обновить список желаний",module,Magento_Wishlist
+"Cannot specify product.","Не удаётся указать товар.",module,Magento_Wishlist
+"Remote Admin Authorisation Password","Пароль авторизации удалённого администрирования",module,Magento_Worldpay
+"Payment From Specific Countries","Оплата из определённых стран",module,Magento_Worldpay
+"Your payment has been successfully processed by our shop system.","Ваш платёж успешно обработан нашей системой магазина.",module,Magento_Worldpay
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Для входа на наш сайт, используйте эти учётные данные во время проверки или на странице Мой аккаунт</a> <a href=""%customer_url"">:",theme,frontend/Magento/luma
+"Password you set when creating account","Пароль, заданные при создании учётной записи",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Забыл пароль учётной записи? Нажмите <a href=""%reset_url""> здесь</a>, чтобы сбросить его.",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Ваш заказ #%increment_id был обновлён со статусом <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Счёт для заказа %store_name",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Ваш счёт #%invoice_id для заказа #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Обновить ваш счёт tore_name %s",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Подтверждение доставки находится ниже. ещё раз спасибо за ваш бизнес.",theme,frontend/Magento/luma
