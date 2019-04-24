@@ -119,11 +119,13 @@ To download and install Russian pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ru_ru/ru_RU.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ru_ru/`
 
-See this screenshot
+See this screenshot:
 
 ![Russian pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **ru_ru**
 
 #### Step 2: Flush cache
 
