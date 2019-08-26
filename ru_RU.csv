@@ -2553,7 +2553,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_Catalog
 "Tier prices data should be array, but actually other type is received","Tier prices data should be array, but actually other type is received",module,Magento_Catalog
 "Price indexer ""%1"" must implement %2 or %3","Price indexer ""%1"" must implement %2 or %3",module,Magento_Catalog
-"You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>.",module,Magento_Catalog
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Вы добавили товар %1 в <a href=""%2"">список сравнения</a>.",module,Magento_Catalog
 "Maximum %1 characters","Максимум %1 символов",module,Magento_Catalog
 "remaining","осталось",module,Magento_Catalog
 "too many","слишком много",module,Magento_Catalog
@@ -3549,7 +3549,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "We cannot delete directory %1.","We cannot delete directory %1.",module,Magento_Cms
 "We can't upload the file right now.","We can't upload the file right now.",module,Magento_Cms
 "We can't delete root directory %1 right now.","We can't delete root directory %1 right now.",module,Magento_Cms
-"Privacy and Cookie Policy","Privacy and Cookie Policy",module,Magento_Cms
+"Privacy and Cookie Policy","Политика конфиденциальности и Cookie",module,Magento_Cms
 "Error message","Сообщение об ошибке",module,Magento_Cms
 "LocalizedException","LocalizedException",module,Magento_Cms
 "RuntimeException","RuntimeException",module,Magento_Cms
@@ -9014,8 +9014,8 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 " Copy"," Copy",module,Magento_Newsletter
 "Are you sure you want to delete this template?","Are you sure you want to delete this template?",module,Magento_Newsletter
 "Sign Up for Our Newsletter:","Sign Up for Our Newsletter:",module,Magento_Newsletter
-"Enter your email address","Enter your email address",module,Magento_Newsletter
-"Subscribe","Subscribe",module,Magento_Newsletter
+"Enter your email address","Введите ваш адрес электронной почты",module,Magento_Newsletter
+"Subscribe","Подписаться",module,Magento_Newsletter
 "Newsletter subscription confirmation","Newsletter subscription confirmation",module,Magento_Newsletter
 "Thank you for subscribing to our newsletter.","Thank you for subscribing to our newsletter.",module,Magento_Newsletter
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",module,Magento_Newsletter
@@ -10799,7 +10799,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Products Most Viewed Report","Products Most Viewed Report",module,Magento_Reports
 "Product Views Report","Product Views Report",module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
-"Review","Review",module,Magento_Reports
+"Review","Обзор",module,Magento_Reports
 "Reviews","Отзывы",module,Magento_Reports
 "Customers Report","Customers Report",module,Magento_Reports
 "Customer Reviews Report","Customer Reviews Report",module,Magento_Reports
@@ -11025,9 +11025,9 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Product Rating","Product Rating",module,Magento_Review
 "Status","Статус",module,Magento_Review
 "Visibility","Видимость",module,Magento_Review
-"Nickname","Nickname",module,Magento_Review
+"Nickname","Прозвище",module,Magento_Review
 "Summary of Review","Summary of Review",module,Magento_Review
-"Review","Review",module,Magento_Review
+"Review","Обзор",module,Magento_Review
 "Previous","Предыдущее",module,Magento_Review
 "Save and Previous","Save and Previous",module,Magento_Review
 "Save and Next","Сохранить и Далее",module,Magento_Review
@@ -11129,10 +11129,10 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Submitted on %1","Submitted on %1",module,Magento_Review
 "Back to My Reviews","Вернуться к моим отзывам",module,Magento_Review
 "Ratings Review Summary","Ratings Review Summary",module,Magento_Review
-"Be the first to review this product","Be the first to review this product",module,Magento_Review
+"Be the first to review this product","Оцените этот продукт первым",module,Magento_Review
 "Write Your Own Review","Write Your Own Review",module,Magento_Review
 "* Required Fields","* Обязательные поля",module,Magento_Review
-"You're reviewing:","You're reviewing:",module,Magento_Review
+"You're reviewing:","Вы оцениваете:",module,Magento_Review
 "Your Rating","Ваша оценка",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 "Summary","Резюме",module,Magento_Review
@@ -11160,8 +11160,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Created","Создан",module,Magento_ReviewStaging
 "Status","Статус",module,Magento_ReviewStaging
 "Title","Заголовок",module,Magento_ReviewStaging
-"Nickname","Nickname",module,Magento_ReviewStaging
-"Review","Review",module,Magento_ReviewStaging
+"Nickname","Прозвище",module,Magento_ReviewStaging
+"Review","Обзор",module,Magento_ReviewStaging
 "Visibility","Видимость",module,Magento_ReviewStaging
 "Type","Тип",module,Magento_ReviewStaging
 "Product","Товар",module,Magento_ReviewStaging
@@ -13155,7 +13155,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Delete","Удалить",module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","Are you sure you want to delete synonym group with id: %1?",module,Magento_Search
 "View/Edit","Просмотр/редактирование",module,Magento_Search
-"Search entire store here...","Search entire store here...",module,Magento_Search
+"Search entire store here...","Поиск всему магазину здесь...",module,Magento_Search
 "There are no search terms available.","Нет доступных поисковых запросов.",module,Magento_Search
 "Search Engine","Search Engine",module,Magento_Search
 "CSV","CSV",module,Magento_Search
@@ -14767,7 +14767,7 @@ than a customer might expect. ",module,Magento_Tax
 "The ""%templateName"" template contains an incorrect configuration, with a reference to itself. Remove or change the reference, then try again.","The ""%templateName"" template contains an incorrect configuration, with a reference to itself. Remove or change the reference, then try again.",module,Magento_Theme
 "The config can't be saved because it's empty. Complete the config and try again.","The config can't be saved because it's empty. Complete the config and try again.",module,Magento_Theme
 "View","Просмотр",module,Magento_Theme
-"This is a demo store. No orders will be fulfilled.","This is a demo store. No orders will be fulfilled.",module,Magento_Theme
+"This is a demo store. No orders will be fulfilled.","Это демонстрационный магазин. Заказы не будут выполнены.",module,Magento_Theme
 "Not all browsers support all these formats!","Not all browsers support all these formats!",module,Magento_Theme
 "ID","Идентификатор",module,Magento_Theme
 "TinyMCE 3 (deprecated)","TinyMCE 3 (deprecated)",module,Magento_Tinymce3
