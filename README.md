@@ -6,7 +6,7 @@ Today, in Magento 2 Russian Language Pack topic, I will instruct you to download
 
 Read more [Magento 2 Russian Language Pack](https://www.mageplaza.com/magento-2-russian-language-pack.html)
 
-![Mageplaza Russian language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Russian language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
