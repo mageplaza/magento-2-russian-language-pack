@@ -2553,7 +2553,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_Catalog
 "Tier prices data should be array, but actually other type is received","Tier prices data should be array, but actually other type is received",module,Magento_Catalog
 "Price indexer ""%1"" must implement %2 or %3","Price indexer ""%1"" must implement %2 or %3",module,Magento_Catalog
-"You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>.",module,Magento_Catalog
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Вы добавили товар %1 в <a href=""%2"">список сравнения</a>.",module,Magento_Catalog
 "Maximum %1 characters","Максимум %1 символов",module,Magento_Catalog
 "remaining","осталось",module,Magento_Catalog
 "too many","слишком много",module,Magento_Catalog
@@ -3283,10 +3283,12 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Edit item parameters","Изменить параметры позиции",module,Magento_Checkout
 "Edit","Редактировать",module,Magento_Checkout
 "Remove item","Удалить позицию",module,Magento_Checkout
-"You have no items in your shopping cart.","You have no items in your shopping cart.",module,Magento_Checkout
+"You have no items in your shopping cart.","У вас нет товаров в корзине.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Нажмите <a href=""%1""> здесь</a>чтобы продолжить покупки.",module,Magento_Checkout
-"Estimate Tax","Estimate Tax",module,Magento_Checkout
-"Estimate Shipping and Tax","Estimate Shipping and Tax",module,Magento_Checkout
+"Estimate Tax","Примерный налог",module,Magento_Checkout
+"Estimate Shipping and Tax","Рассчитать стоимость доставки и налог",module,Magento_Checkout
+"Enter your billing address to get a tax estimate.","Введите пункт платежный адрес, чтобы получить налоговую оценку.",module,Magento_Checkout
+"Enter your destination to get a shipping estimate.","Введите пункт назначения, чтобы получить оценку доставки.",module,Magento_Checkout
 "Excl. Tax","Без налога",module,Magento_Checkout
 "Loading...","Загрузка...",module,Magento_Checkout
 "Order #","Заказ #",module,Magento_Checkout
@@ -3312,18 +3314,18 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Email Address","Адрес электронной почты",module,Magento_Checkout
 "Password","Пароль",module,Magento_Checkout
 "Forgot Your Password?","Забыли Ваш пароль?",module,Magento_Checkout
-"My billing and shipping address are the same","My billing and shipping address are the same",module,Magento_Checkout
+"My billing and shipping address are the same","Мой платежный адрес и адрес доставки совпадают",module,Magento_Checkout
 "Update","Обновить",module,Magento_Checkout
 "Cancel","Отмена",module,Magento_Checkout
 "Save in address book","Сохранить в адресной книге",module,Magento_Checkout
 "Estimated Total","Estimated Total",module,Magento_Checkout
-"You can create an account after checkout.","You can create an account after checkout.",module,Magento_Checkout
-"You already have an account with us. Sign in or continue as guest.","You already have an account with us. Sign in or continue as guest.",module,Magento_Checkout
+"You can create an account after checkout.","Вы можете создать аккаунт после оформления заказа.",module,Magento_Checkout
+"You already have an account with us. Sign in or continue as guest.","У вас уже есть аккаунт у нас. Войдите или продолжайте как гость.",module,Magento_Checkout
 "Login","Логин",module,Magento_Checkout
 "See Details","Подробнее",module,Magento_Checkout
 "Options Details","Параметры деталей",module,Magento_Checkout
 "Remove","Удалить",module,Magento_Checkout
-"Cart Subtotal","Cart Subtotal",module,Magento_Checkout
+"Cart Subtotal","Всего в корзине",module,Magento_Checkout
 "Payment Information","Payment Information",module,Magento_Checkout
 "No Payment method available.","No Payment method available.",module,Magento_Checkout
 "You can track your order status by creating an account.","You can track your order status by creating an account.",module,Magento_Checkout
@@ -3333,7 +3335,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Ship Here","Доставить сюда",module,Magento_Checkout
 "Ship To:","Доставить:",module,Magento_Checkout
 "edit","изменить",module,Magento_Checkout
-"Order Summary","Order Summary",module,Magento_Checkout
+"Order Summary","Pезюме заказа",module,Magento_Checkout
 "View and Edit Cart","Просмотр и редактирование корзины",module,Magento_Checkout
 "View Details","Смотреть подробности",module,Magento_Checkout
 "Field ","Поле ",module,Magento_Checkout
@@ -3342,7 +3344,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 " Example: "," Пример: ",module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Если вы считаете, что это правильный вариант, вы можете игнорировать это уведомление.",module,Magento_Checkout
 "New Address","Новый адрес",module,Magento_Checkout
-"Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","Вы уверены, что хотите удалить этот товар из корзины?",module,Magento_Checkout
 "Review & Payments","Обзор & Платежи",module,Magento_Checkout
 "Select a new payment method","Выбрать новый способ оплаты",module,Magento_Checkout
 "Shipping","Доставка",module,Magento_Checkout
@@ -3398,13 +3400,13 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Carrier Title","Carrier Title",module,Magento_Checkout
 "Next","Следующее",module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
-"Item in Cart","Item in Cart",module,Magento_Checkout
+"Item in Cart","Товар в корзине",module,Magento_Checkout
 "Items in Cart","Товары в корзине",module,Magento_Checkout
 "Require Customer To Be Logged In To Checkout","Клиент должен войти в систему, чтобы оформить заказ",module,Magento_Checkout
 "Maximum Display Recently Added Item(s)","Maximum Display Recently Added Item(s)",module,Magento_Checkout
 "of","из",module,Magento_Checkout
 "Something went wrong while saving the page. Please refresh the page and try again.","Something went wrong while saving the page. Please refresh the page and try again.",module,Magento_Checkout
-"You added %1 to your <a href=""%2"">shopping cart</a>.","You added %1 to your <a href=""%2"">shopping cart</a>.",module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","%1 добавлены в вашу <a href=""%2"">корзину</a>.",module,Magento_Checkout
 "Please select at least one product to add to cart","Please select at least one product to add to cart",module,Magento_Checkout
 "The quote item isn't found. Verify the item and try again.","The quote item isn't found. Verify the item and try again.",module,Magento_Checkout
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
@@ -3549,7 +3551,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "We cannot delete directory %1.","We cannot delete directory %1.",module,Magento_Cms
 "We can't upload the file right now.","We can't upload the file right now.",module,Magento_Cms
 "We can't delete root directory %1 right now.","We can't delete root directory %1 right now.",module,Magento_Cms
-"Privacy and Cookie Policy","Privacy and Cookie Policy",module,Magento_Cms
+"Privacy and Cookie Policy","Политика конфиденциальности и Cookie",module,Magento_Cms
 "Error message","Сообщение об ошибке",module,Magento_Cms
 "LocalizedException","LocalizedException",module,Magento_Cms
 "RuntimeException","RuntimeException",module,Magento_Cms
@@ -4978,7 +4980,7 @@ new products will be created. Use this step to customize images and price for yo
 "Male","Мужчина",module,Magento_Customer
 "Female","Женщина",module,Magento_Customer
 "Not Specified","Not Specified",module,Magento_Customer
-"Thank you for registering with","Thank you for registering with",module,Magento_Customer
+"Thank you for registering with","Благодарим вас за регистрацию",module,Magento_Customer
 "enter your billing address for proper VAT calculation","enter your billing address for proper VAT calculation",module,Magento_Customer
 "enter your shipping address for proper VAT calculation","enter your shipping address for proper VAT calculation",module,Magento_Customer
 "Please enter new password.","Пожалуйста, введите новый пароль.",module,Magento_Customer
@@ -5022,10 +5024,10 @@ new products will be created. Use this step to customize images and price for yo
 "All Store Views","Хранилище всех просмотров",module,Magento_Customer
 "Change","Изменить",module,Magento_Customer
 "Manage Addresses","Управление адресами",module,Magento_Customer
-"Default Shipping Address","Default Shipping Address",module,Magento_Customer
+"Default Shipping Address","адрес доставки по умолчанию",module,Magento_Customer
 "Contact Information","Контактная информация",module,Magento_Customer
 "Change Password","Сменить пароль",module,Magento_Customer
-"Newsletters","Newsletters",module,Magento_Customer
+"Newsletters","Информационные бюллетени",module,Magento_Customer
 "You are subscribed to ""General Subscription"".","Вы подписаны на ""Общая подписка"".",module,Magento_Customer
 "or","или",module,Magento_Customer
 "Default Addresses","Адреса по умолчанию",module,Magento_Customer
@@ -5074,13 +5076,13 @@ new products will be created. Use this step to customize images and price for yo
 "General Subscription","General Subscription",module,Magento_Customer
 "Sign Up for Newsletter","Подписаться на новости",module,Magento_Customer
 "Address Information","Информация об адресе",module,Magento_Customer
-"Sign-in Information","Sign-in Information",module,Magento_Customer
+"Sign-in Information","Информация для входа",module,Magento_Customer
 "Confirm Password","Подтверждение пароля",module,Magento_Customer
 "Create an Account","Создать учетную запись",module,Magento_Customer
 "Set a New Password","Введите новый пароль",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds.",module,Magento_Customer
 "New Customers","Новый клиент",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Creating an account has many benefits: check out faster, keep more than one address, track orders and more.",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Создание учетной записи имеет много преимуществ: более быстрое размещение заказа, сохранение нескольких адресов, отслеживание заказов и многое другое.",module,Magento_Customer
 "Company","Компания",module,Magento_Customer
 "Fax","Факс",module,Magento_Customer
 "Gender","Пол",module,Magento_Customer
@@ -5555,7 +5557,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Address Information","Информация об адресе",module,Magento_CustomerCustomAttributes
 "Company","Компания",module,Magento_CustomerCustomAttributes
 "Phone Number","Номер телефона",module,Magento_CustomerCustomAttributes
-"Sign-in Information","Sign-in Information",module,Magento_CustomerCustomAttributes
+"Sign-in Information","Информация для входа",module,Magento_CustomerCustomAttributes
 "Password","Пароль",module,Magento_CustomerCustomAttributes
 "Confirm Password","Подтверждение пароля",module,Magento_CustomerCustomAttributes
 "Create an Account","Создать учетную запись",module,Magento_CustomerCustomAttributes
@@ -5564,7 +5566,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Default Values","Значения по умолчанию",module,Magento_CustomerCustomAttributes
 "Fax","Факс",module,Magento_CustomerCustomAttributes
 "Default Billing Address","Адрес выставления счета по умолчанию",module,Magento_CustomerCustomAttributes
-"Default Shipping Address","Default Shipping Address",module,Magento_CustomerCustomAttributes
+"Default Shipping Address","адрес доставки по умолчанию",module,Magento_CustomerCustomAttributes
 "Comma separated. Forbidden file extensions: %1.","Comma separated. Forbidden file extensions: %1.",module,Magento_CustomerCustomAttributes
 "The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_CustomerCustomAttributes
 "Please correct the value for file extensions.","Please correct the value for file extensions.",module,Magento_CustomerCustomAttributes
@@ -6041,7 +6043,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "All Files","Все файлы",module,Magento_Downloadable
 "Unlimited","Неограничено",module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Something went wrong while getting the requested content.",module,Magento_Downloadable
-"My Downloadable Products","My Downloadable Products",module,Magento_Downloadable
+"My Downloadable Products","Загружаемые продукты",module,Magento_Downloadable
 "We can't find the link you requested.","We can't find the link you requested.",module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
@@ -6118,7 +6120,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Availability","Наличие",module,Magento_Downloadable
 "In stock","В наличии",module,Magento_Downloadable
 "Out of stock","Нет в наличии",module,Magento_Downloadable
-"Go to <a href=""%1"">My Downloadable Products</a>","Go to <a href=""%1"">My Downloadable Products</a>",module,Magento_Downloadable
+"Go to <a href=""%1"">My Downloadable Products</a>","Go to <a href=""%1"">Загружаемые продукты</a>",module,Magento_Downloadable
 "Downloadable Products","Загружаемые продукты",module,Magento_Downloadable
 "Order #","Заказ #",module,Magento_Downloadable
 "Date","Дата",module,Magento_Downloadable
@@ -8386,7 +8388,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Edit Items","Edit Items",module,Magento_Multishipping
 "Shipping is not applicable.","Shipping is not applicable.",module,Magento_Multishipping
 "Product Name","Название товара",module,Magento_Multishipping
-"Check Out with Multiple Addresses","Check Out with Multiple Addresses",module,Magento_Multishipping
+"Check Out with Multiple Addresses","Проверить с несколькими адресами",module,Magento_Multishipping
 "Please see","Please see",module,Magento_Multishipping
 "details below","подробности ниже",module,Magento_Multishipping
 "Address","Адрес",module,Magento_Multishipping
@@ -9014,8 +9016,8 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 " Copy"," Copy",module,Magento_Newsletter
 "Are you sure you want to delete this template?","Are you sure you want to delete this template?",module,Magento_Newsletter
 "Sign Up for Our Newsletter:","Sign Up for Our Newsletter:",module,Magento_Newsletter
-"Enter your email address","Enter your email address",module,Magento_Newsletter
-"Subscribe","Subscribe",module,Magento_Newsletter
+"Enter your email address","Введите ваш адрес электронной почты",module,Magento_Newsletter
+"Subscribe","Подписаться",module,Magento_Newsletter
 "Newsletter subscription confirmation","Newsletter subscription confirmation",module,Magento_Newsletter
 "Thank you for subscribing to our newsletter.","Thank you for subscribing to our newsletter.",module,Magento_Newsletter
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",module,Magento_Newsletter
@@ -9063,7 +9065,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Web Site","Веб-сайт",module,Magento_Newsletter
 "Store","Магазин",module,Magento_Newsletter
 "Store View","Представление магазина",module,Magento_Newsletter
-"Newsletter Subscriptions","Newsletter Subscriptions",module,Magento_Newsletter
+"Newsletter Subscriptions","Подписка на новостную рассылку",module,Magento_Newsletter
 "We have saved your subscription.","We have saved your subscription.",module,Magento_Newsletter
 "A confirmation request has been sent.","A confirmation request has been sent.",module,Magento_Newsletter
 "We have removed your newsletter subscription.","We have removed your newsletter subscription.",module,Magento_Newsletter
@@ -10799,7 +10801,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Products Most Viewed Report","Products Most Viewed Report",module,Magento_Reports
 "Product Views Report","Product Views Report",module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
-"Review","Review",module,Magento_Reports
+"Review","Обзор",module,Magento_Reports
 "Reviews","Отзывы",module,Magento_Reports
 "Customers Report","Customers Report",module,Magento_Reports
 "Customer Reviews Report","Customer Reviews Report",module,Magento_Reports
@@ -11025,9 +11027,9 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Product Rating","Product Rating",module,Magento_Review
 "Status","Статус",module,Magento_Review
 "Visibility","Видимость",module,Magento_Review
-"Nickname","Nickname",module,Magento_Review
+"Nickname","Прозвище",module,Magento_Review
 "Summary of Review","Summary of Review",module,Magento_Review
-"Review","Review",module,Magento_Review
+"Review","Обзор",module,Magento_Review
 "Previous","Предыдущее",module,Magento_Review
 "Save and Previous","Save and Previous",module,Magento_Review
 "Save and Next","Сохранить и Далее",module,Magento_Review
@@ -11101,7 +11103,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "You deleted the rating.","You deleted the rating.",module,Magento_Review
 "Ratings","Оценки",module,Magento_Review
 "You saved the rating.","You saved the rating.",module,Magento_Review
-"My Product Reviews","My Product Reviews",module,Magento_Review
+"My Product Reviews","Мои обзоры продуктов",module,Magento_Review
 "Cannot initialize product","Cannot initialize product",module,Magento_Review
 "You submitted your review for moderation.","You submitted your review for moderation.",module,Magento_Review
 "We can't post your review right now.","We can't post your review right now.",module,Magento_Review
@@ -11129,10 +11131,10 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Submitted on %1","Submitted on %1",module,Magento_Review
 "Back to My Reviews","Вернуться к моим отзывам",module,Magento_Review
 "Ratings Review Summary","Ratings Review Summary",module,Magento_Review
-"Be the first to review this product","Be the first to review this product",module,Magento_Review
+"Be the first to review this product","Оцените этот продукт первым",module,Magento_Review
 "Write Your Own Review","Write Your Own Review",module,Magento_Review
 "* Required Fields","* Обязательные поля",module,Magento_Review
-"You're reviewing:","You're reviewing:",module,Magento_Review
+"You're reviewing:","Вы оцениваете:",module,Magento_Review
 "Your Rating","Ваша оценка",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 "Summary","Резюме",module,Magento_Review
@@ -11160,8 +11162,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Created","Создан",module,Magento_ReviewStaging
 "Status","Статус",module,Magento_ReviewStaging
 "Title","Заголовок",module,Magento_ReviewStaging
-"Nickname","Nickname",module,Magento_ReviewStaging
-"Review","Review",module,Magento_ReviewStaging
+"Nickname","Прозвище",module,Magento_ReviewStaging
+"Review","Обзор",module,Magento_ReviewStaging
 "Visibility","Видимость",module,Magento_ReviewStaging
 "Type","Тип",module,Magento_ReviewStaging
 "Product","Товар",module,Magento_ReviewStaging
@@ -13155,7 +13157,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Delete","Удалить",module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","Are you sure you want to delete synonym group with id: %1?",module,Magento_Search
 "View/Edit","Просмотр/редактирование",module,Magento_Search
-"Search entire store here...","Search entire store here...",module,Magento_Search
+"Search entire store here...","Поиск всему магазину здесь...",module,Magento_Search
 "There are no search terms available.","Нет доступных поисковых запросов.",module,Magento_Search
 "Search Engine","Search Engine",module,Magento_Search
 "CSV","CSV",module,Magento_Search
@@ -14767,7 +14769,7 @@ than a customer might expect. ",module,Magento_Tax
 "The ""%templateName"" template contains an incorrect configuration, with a reference to itself. Remove or change the reference, then try again.","The ""%templateName"" template contains an incorrect configuration, with a reference to itself. Remove or change the reference, then try again.",module,Magento_Theme
 "The config can't be saved because it's empty. Complete the config and try again.","The config can't be saved because it's empty. Complete the config and try again.",module,Magento_Theme
 "View","Просмотр",module,Magento_Theme
-"This is a demo store. No orders will be fulfilled.","This is a demo store. No orders will be fulfilled.",module,Magento_Theme
+"This is a demo store. No orders will be fulfilled.","Это демонстрационный магазин. Заказы не будут выполнены.",module,Magento_Theme
 "Not all browsers support all these formats!","Not all browsers support all these formats!",module,Magento_Theme
 "ID","Идентификатор",module,Magento_Theme
 "TinyMCE 3 (deprecated)","TinyMCE 3 (deprecated)",module,Magento_Tinymce3
@@ -15554,7 +15556,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Wrong request.","Wrong request.",module,Magento_Vault
 "Deletion failure. Please try again.","Deletion failure. Please try again.",module,Magento_Vault
 "Stored Payment Method was successfully removed","Stored Payment Method was successfully removed",module,Magento_Vault
-"Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
+"Stored Payment Methods","Хранимые способы оплаты",module,Magento_Vault
 "No available payment tokens for specified order payment.","No available payment tokens for specified order payment.",module,Magento_Vault
 "Card Number","Номер карты",module,Magento_Vault
 "Expiration Date","Дата окончания срока действия",module,Magento_Vault
