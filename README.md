@@ -22,6 +22,8 @@ Read more [Magento 2 Russian Language Pack](https://www.mageplaza.com/magento-2-
 
 This is status of Russian Language Pack, you can see how many percentage of this project has been done.
 
+![Russian language pack process](https://progress-bar.dev//?title=completed)
+
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
 - [On Github](https://github.com/mageplaza/magento-2-russian-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
