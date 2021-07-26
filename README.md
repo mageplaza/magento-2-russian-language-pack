@@ -1,8 +1,6 @@
 ## Magento 2 Russian Language Pack
 
-**Magento 2 Russian Language Pack** enables you to customize the existing language and adjust to Russian Language, that is really perfect tool to localize your store in Russia. This package will allow you to convert all words and phrases from both the frontend and the backend into the Russian Language. The translation is contributed by Translation Project at Crowdin website.
-
-Today, in Magento 2 Russian Language Pack topic, I will instruct you to download and install the package. After all, the automatic translation is implemented right after you activate Russian (Russia) option in *Store > Configuration > Locale Options*.
+**Magento 2 Russian Language Pack** enables you to customize the existing language and adjust to Russian Language, that is really perfect tool to localize your store in Russia. This package will allow you to convert all words and phrases from both the frontend and the backend into the Russian Language. The translation is contributed by Translation Project at Crowdin website. Today, in Magento 2 Russian Language Pack topic, I will instruct you to download and install the package. After all, the automatic translation is implemented right after you activate Russian (Russia) option in *Store > Configuration > Locale Options*.
 
 Read more [Magento 2 Russian Language Pack](https://www.mageplaza.com/magento-2-russian-language-pack.html)
 
@@ -29,7 +27,7 @@ It is not fully translated? Feel free to contribute:
 - [On Github](https://github.com/mageplaza/magento-2-russian-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
-Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
+Find other [language packs here](https://www.mageplaza.com/magento-2-extensions/language-packs.html)
 
 ## 2. How to Install Russian Language Pack
 
@@ -40,17 +38,17 @@ Install the Russian language pack via composer is never easier.
 
 **Install Russian pack**:
 
-With Social Proof (recommend):
+With Marketing Automation (recommend):
 
 ```
-composer require mageplaza/magento-2-russian-language-pack:dev-master avada/module-proofo
+composer require mageplaza/magento-2-russian-language-pack:dev-master mageplaza/module-smtp 
 php bin/magento setup:static-content:deploy ru_RU
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
 ```
 
-Without Social Proof:
+Without Marketing Automation:
 
 ```
 composer require mageplaza/magento-2-russian-language-pack:dev-master
@@ -166,6 +164,7 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 - Magento v2.1.x
 - Magento v2.2.x
 - Magento v2.3.x
+- Magento v2.4.x
 
 
 
