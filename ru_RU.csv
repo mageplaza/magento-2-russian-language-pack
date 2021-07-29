@@ -15137,55 +15137,55 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"My Account","My Account",theme,frontend\Magento\blank
-"Now Shopping by","В настоящее время покупки",theme,frontend\Magento\luma
-"Previous","Предыдущее",theme,frontend\Magento\luma
-"Remove","Удалить",theme,frontend\Magento\luma
-"Remove This Item","Удалить этот элемент",theme,frontend\Magento\luma
-"Shop By","Магазин по",theme,frontend\Magento\luma
-"Clear All","Очистить все",theme,frontend\Magento\luma
-"Shopping Options","Варианты покупок",theme,frontend\Magento\luma
-"Welcome to %store_name","Добро пожаловать в %store_name",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Добро пожаловать в %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Для входа на наш сайт, используйте эти учетные данные во время оформления заказа или на странице <a href=""%customer_url"">Мой аккаунт</a>:",theme,frontend\Magento\luma
-"Email:","Электронная почта:",theme,frontend\Magento\luma
-"Password:","Пароль:",theme,frontend\Magento\luma
-"Password you set when creating account","Пароль, заданный при создании учетной записи",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Забыл пароль учетной записи? Нажмите <a href=""%reset_url"">здесь</a>, чтобы сбросить его.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","Когда вы войдёте в свой аккаунт, вы будет иметь возможность:",theme,frontend\Magento\luma
-"Quick Checkout","Быстрое оформление заказа",theme,frontend\Magento\luma
-"Proceed through checkout faster","Оформлять заказ быстрее",theme,frontend\Magento\luma
-"Order Status","Статус заказа",theme,frontend\Magento\luma
-"Check the status of orders","Проверить статус заказов",theme,frontend\Magento\luma
-"Manage Addresses","Управление адресами",theme,frontend\Magento\luma
-"Store alternative addresses","Альтернативные адреса магазина",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","Для отправки нескольким членом семьи и друзьям",theme,frontend\Magento\luma
-"Order History","История заказов",theme,frontend\Magento\luma
-"View past orders","Просмотр предыдущих заказов",theme,frontend\Magento\luma
-"Footer","Подвал (footer)",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Кредит-нота для вашего заказа в %store_name",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Благодарим вас за ваш заказ в %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Вы можете проверить статус вашего заказа, <a href=""%account_url"">войдя в свой аккаунт</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Если у вас есть вопросы о вашем заказе, вы можете написать нам на <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Ваша кредит-нота #%creditmemo_id для заказа #%order_id",theme,frontend\Magento\luma
-"Billing Info","Информация об оплате",theme,frontend\Magento\luma
-"Payment Method","Метод оплаты",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Обновление для вашей кредит-ноты в %store_name",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Ваш заказ #%increment_id был обновлен со статусом <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Счет для вашего заказа в %store_name",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Ваш счет #%invoice_id для заказа #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Обновление к вашему счету в %store_name",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Подтверждение заказа в %store_name",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Как только ваш пакет будет отправлен, мы пришлем вам номер для отслеживания.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Ваш заказ <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Размещен <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Обновление для вашего заказа в %store_name",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Ваш заказ в %store_name отправлен",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","Подтверждение доставки находится ниже. Еще раз спасибо за ваш бизнес.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Ваш отправление #%shipment_id для заказа #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Обновление для вашего отправления в %store_name",theme,frontend\Magento\luma
+"My Account","My Account",theme,frontend/Magento/blank
+"Now Shopping by","В настоящее время покупки",theme,frontend/Magento/luma
+"Previous","Предыдущее",theme,frontend/Magento/luma
+"Remove","Удалить",theme,frontend/Magento/luma
+"Remove This Item","Удалить этот элемент",theme,frontend/Magento/luma
+"Shop By","Магазин по",theme,frontend/Magento/luma
+"Clear All","Очистить все",theme,frontend/Magento/luma
+"Shopping Options","Варианты покупок",theme,frontend/Magento/luma
+"Welcome to %store_name","Добро пожаловать в %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Добро пожаловать в %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Для входа на наш сайт, используйте эти учетные данные во время оформления заказа или на странице <a href=""%customer_url"">Мой аккаунт</a>:",theme,frontend/Magento/luma
+"Email:","Электронная почта:",theme,frontend/Magento/luma
+"Password:","Пароль:",theme,frontend/Magento/luma
+"Password you set when creating account","Пароль, заданный при создании учетной записи",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Забыл пароль учетной записи? Нажмите <a href=""%reset_url"">здесь</a>, чтобы сбросить его.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Когда вы войдёте в свой аккаунт, вы будет иметь возможность:",theme,frontend/Magento/luma
+"Quick Checkout","Быстрое оформление заказа",theme,frontend/Magento/luma
+"Proceed through checkout faster","Оформлять заказ быстрее",theme,frontend/Magento/luma
+"Order Status","Статус заказа",theme,frontend/Magento/luma
+"Check the status of orders","Проверить статус заказов",theme,frontend/Magento/luma
+"Manage Addresses","Управление адресами",theme,frontend/Magento/luma
+"Store alternative addresses","Альтернативные адреса магазина",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Для отправки нескольким членом семьи и друзьям",theme,frontend/Magento/luma
+"Order History","История заказов",theme,frontend/Magento/luma
+"View past orders","Просмотр предыдущих заказов",theme,frontend/Magento/luma
+"Footer","Подвал (footer)",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Кредит-нота для вашего заказа в %store_name",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Благодарим вас за ваш заказ в %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Вы можете проверить статус вашего заказа, <a href=""%account_url"">войдя в свой аккаунт</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Если у вас есть вопросы о вашем заказе, вы можете написать нам на <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Ваша кредит-нота #%creditmemo_id для заказа #%order_id",theme,frontend/Magento/luma
+"Billing Info","Информация об оплате",theme,frontend/Magento/luma
+"Payment Method","Метод оплаты",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Обновление для вашей кредит-ноты в %store_name",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Ваш заказ #%increment_id был обновлен со статусом <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Счет для вашего заказа в %store_name",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Ваш счет #%invoice_id для заказа #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Обновление к вашему счету в %store_name",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Подтверждение заказа в %store_name",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Как только ваш пакет будет отправлен, мы пришлем вам номер для отслеживания.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Ваш заказ <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Размещен <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Обновление для вашего заказа в %store_name",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Ваш заказ в %store_name отправлен",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Подтверждение доставки находится ниже. Еще раз спасибо за ваш бизнес.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Ваш отправление #%shipment_id для заказа #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Обновление для вашего отправления в %store_name",theme,frontend/Magento/luma
 "Details","Details",lib,web
 "Warning: No message defined for %s","Warning: No message defined for %s",lib,web
 "Backup options","Параметры резервного копирования",lib,web
