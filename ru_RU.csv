@@ -2557,6 +2557,8 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "File '%1' was not found or has read restriction.","Файл «%1» не существует или у вас нет прав на чтение.",module,Magento_CatalogImportExport
 "Invalid Stock data for insert","Invalid Stock data for insert",module,Magento_CatalogImportExport
 "ALL GROUPS","ВСЕ ГРУППЫ",module,Magento_CatalogInventory
+"You cannot use decimal quantity for this product.","Вы не можете использовать десятичное число для этого продукта.",module,Magento_CatalogInventory
+"The requested qty exceeds the maximum qty allowed in shopping cart","Запрошенное количество превышает максимально допустимое количество в корзине.",module,Magento_CatalogInventory
 "Customer Group","Группы клиентов",module,Magento_CatalogInventory
 "Minimum Qty","Минимальное кол-во",module,Magento_CatalogInventory
 "Add Minimum Qty","Добавьте минимальное кол-во",module,Magento_CatalogInventory
@@ -7459,6 +7461,8 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Accepted and Purchased","Accepted and Purchased",module,Magento_Invitation
 "Conversion Rate","Conversion Rate",module,Magento_Invitation
 "Invitation","Приглашение",module,Magento_Invitation
+"You cannot use decimal quantity for this product.","Вы не можете использовать десятичное число для этого продукта.",module,Magento_InventorySales
+"The requested qty exceeds the maximum qty allowed in shopping cart","Запрошенное количество превышает максимально допустимое количество в корзине.",module,Magento_InventorySales
 "No","Нет",module,Magento_LayeredNavigation
 "Filterable (with results)","Фильтруемый (с результатами)",module,Magento_LayeredNavigation
 "Filterable (no results)","Filterable (no results)",module,Magento_LayeredNavigation
