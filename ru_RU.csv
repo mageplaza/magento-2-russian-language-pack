@@ -3140,7 +3140,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 " is required."," требуется.",module,Magento_Checkout
 "Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later.",module,Magento_Checkout
 "Are you sure you want to remove all items from your shopping cart?","Are you sure you want to remove all items from your shopping cart?",module,Magento_Checkout
-"Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","Удалить этот продукт из корзины?",module,Magento_Checkout
 "Review & Payments","Обзор & Платежи",module,Magento_Checkout
 "Select a new payment method","Выбрать новый способ оплаты",module,Magento_Checkout
 "Shipping","Доставка",module,Magento_Checkout
@@ -4274,7 +4274,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Remove Product","Удалить товар",module,Magento_ConfigurableProduct
 "Create Product Configurations","Создание конфигураций товара",module,Magento_ConfigurableProduct
 "Cancel","Отмена",module,Magento_ConfigurableProduct
-"As low as","As low as",module,Magento_ConfigurableProduct
+"As low as","Минимум от",module,Magento_ConfigurableProduct
 "Regular Price","Обычная цена",module,Magento_ConfigurableProduct
 "Excl. Tax","Excl. Tax",module,Magento_ConfigurableProduct
 "Buy %1 for %2 each and","Kупить %1 для %2 each and",module,Magento_ConfigurableProduct
@@ -4836,7 +4836,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Please enter your email address below to receive a password reset link.","Please enter your email address below to receive a password reset link.",module,Magento_Customer
 "Reset My Password","Reset My Password",module,Magento_Customer
 "Registered Customers","Зарегистрированные клиенты",module,Magento_Customer
-"If you have an account, sign in with your email address.","If you have an account, sign in with your email address.",module,Magento_Customer
+"If you have an account, sign in with your email address.","Если у Вас есть аккаунт, войдите при помощи email адреса.",module,Magento_Customer
 "Password","Пароль",module,Magento_Customer
 "Forgot Your Password?","Забыли Ваш пароль?",module,Magento_Customer
 "Subscription option","Subscription option",module,Magento_Customer
@@ -4853,7 +4853,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Вы должны подтвердить свою учетную запись. Пожалуйста, проверьте адрес электронной почты для подтверждения или <a href=""%1""> нажмите здесь</a> для новой ссылки.",module,Magento_Customer
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.",module,Magento_Customer
 "New Customers","Новый клиент",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Creating an account has many benefits: check out faster, keep more than one address, track orders and more.",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Создание аккаунта дает много преимуществ: ускорение оформления заказов, отслеживание их исполнения, просмотр истории заказов и другое.",module,Magento_Customer
 "Company","Компания",module,Magento_Customer
 "Fax","Факс",module,Magento_Customer
 "Name","Название",module,Magento_Customer
@@ -9358,7 +9358,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Brazil Installment Period","Brazil Installment Period",module,Magento_Paypal
 "Layout","Раскладка",module,Magento_Paypal
 "Shape","Shape",module,Magento_Paypal
-"Color","Color",module,Magento_Paypal
+"Color","Цвет",module,Magento_Paypal
 "Product Pages","Product Pages",module,Magento_Paypal
 "Cart Page","Cart Page",module,Magento_Paypal
 "Mini Cart","Mini Cart",module,Magento_Paypal
@@ -10329,10 +10329,10 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Submitted on %1","Submitted on %1",module,Magento_Review
 "Back to My Reviews","Вернуться к моим отзывам",module,Magento_Review
 "Ratings Review Summary","Ratings Review Summary",module,Magento_Review
-"Be the first to review this product","Be the first to review this product",module,Magento_Review
+"Be the first to review this product","Станьте первым, кто напишет отзыв",module,Magento_Review
 "Write Your Own Review","Напишите свой собственный отзыв",module,Magento_Review
 "* Required Fields","* Обязательные поля",module,Magento_Review
-"You're reviewing:","You're reviewing:",module,Magento_Review
+"You're reviewing:","Вы оцениваете:",module,Magento_Review
 "Your Rating","Ваша оценка",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 "Summary","Резюме",module,Magento_Review
@@ -10358,7 +10358,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Created","Создан",module,Magento_ReviewStaging
 "Status","Статус",module,Magento_ReviewStaging
 "Title","Заголовок",module,Magento_ReviewStaging
-"Nickname","Nickname",module,Magento_ReviewStaging
+"Nickname","Имя",module,Magento_ReviewStaging
 "Review","Отзыв",module,Magento_ReviewStaging
 "Visibility","Видимость",module,Magento_ReviewStaging
 "Type","Тип",module,Magento_ReviewStaging
