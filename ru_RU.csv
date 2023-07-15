@@ -1837,7 +1837,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Something went wrong  clearing the comparison list.","Что-то пошло неправильно, очистив список сравнения.",module,Magento_Catalog
 "You removed product %1 from the comparison list.","Вы удалили продукт %1 из списка сравнения.",module,Magento_Catalog
 "1 item","1 товар",module,Magento_Catalog
-"%1 items","%1товары",module,Magento_Catalog
+"%1 items","%1 товара(ов)",module,Magento_Catalog
 "The specified Catalog media URL format is not supported.","The specified Catalog media URL format is not supported.",module,Magento_Catalog
 "Are you sure you want to remove this item from your Compare Products list?","Вы действительно хотите удалить этот товар из списка ""Сравнить товары""?",module,Magento_Catalog
 "Are you sure you want to remove all items from your Compare Products list?","Вы действительно хотите удалить все товары из списка ""Сравнение товаров""?",module,Magento_Catalog
@@ -2198,7 +2198,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Buy %1 for: ","Купить %1 для: ",module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Купить %1 на %2 и <strong class=""benefit"">сохранить<span class=""percent tier-%3"">&nbsp;%4<div class=""notranslate"">%</div></strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Купить %1 для %2",module,Magento_Catalog
-"You added product %1 to the <a href=""%2"">comparison list</a>.","Вы добавили товар %1 в<a href=""%2"">список сравнения.</a>.",module,Magento_Catalog
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Вы добавили товар %1 в <a href=""%2"">список сравнения</a>.",module,Magento_Catalog
 "Shop By","Магазин по",module,Magento_Catalog
 "Shopping Options","Варианты покупок",module,Magento_Catalog
 "Compare Products","Сравнение продуктов",module,Magento_Catalog
@@ -5699,7 +5699,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Upload type can not be determined.","Upload type can not be determined.",module,Magento_Downloadable
 "File can not be moved from temporary folder to the destination folder.","File can not be moved from temporary folder to the destination folder.",module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Something went wrong while getting the requested content.",module,Magento_Downloadable
-"My Downloadable Products","My Downloadable Products",module,Magento_Downloadable
+"My Downloadable Products","Мои загружаемые продукты",module,Magento_Downloadable
 "We can't find the link you requested.","We can't find the link you requested.",module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
@@ -8590,7 +8590,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Web Site","Веб-сайт",module,Magento_Newsletter
 "Store","Магазин",module,Magento_Newsletter
 "Store View","Представление магазина",module,Magento_Newsletter
-"Newsletter Subscriptions","Newsletter Subscriptions",module,Magento_Newsletter
+"Newsletter Subscriptions","Подписки на рассылку",module,Magento_Newsletter
 "Purchase order number is a required field.","Purchase order number is a required field.",module,Magento_OfflinePayments
 "Make Check payable to:","Make Check payable to:",module,Magento_OfflinePayments
 "Send Check to:","Send Check to:",module,Magento_OfflinePayments
@@ -11607,7 +11607,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "View All","Посмотреть все",module,Magento_Sales
 "Ship To","Ship To",module,Magento_Sales
 "Gift Message for This Order","Gift Message for This Order",module,Magento_Sales
-"Recently Ordered","Recently Ordered",module,Magento_Sales
+"Recently Ordered","Недавно заказанные",module,Magento_Sales
 "Add to Cart","Добавить в корзину",module,Magento_Sales
 "Product is not salable.","Product is not salable.",module,Magento_Sales
 "Search","Поиск",module,Magento_Sales
@@ -13715,7 +13715,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "This is a demo store. No orders will be fulfilled.","This is a demo store. No orders will be fulfilled.",module,Magento_Theme
 "Items %1 to %2 of %3 total","Items %1 to %2 of %3 total",module,Magento_Theme
 "%1 Item","элемент %1",module,Magento_Theme
-"%1 Item(s)","%1 Item(s)",module,Magento_Theme
+"%1 Item(s)","%1 Товар(а)",module,Magento_Theme
 "Page","Страница",module,Magento_Theme
 "Previous","Предыдущее",module,Magento_Theme
 "You're currently reading page","You're currently reading page",module,Magento_Theme
@@ -14556,7 +14556,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Wrong request.","Wrong request.",module,Magento_Vault
 "Deletion failure. Please try again.","Deletion failure. Please try again.",module,Magento_Vault
 "Stored Payment Method was successfully removed","Stored Payment Method was successfully removed",module,Magento_Vault
-"Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
+"Stored Payment Methods","Сохраненные способы оплаты",module,Magento_Vault
 "No payment tokens are available for the specified order payment.","No payment tokens are available for the specified order payment.",module,Magento_Vault
 "Card Number","Номер карты",module,Magento_Vault
 "Expiration Date","Дата окончания срока действия",module,Magento_Vault
@@ -14976,7 +14976,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "You added %1 to your shopping cart.","%1 добавлены в вашу корзину.",module,Magento_Wishlist
 "The requested Wish List doesn't exist.","The requested Wish List doesn't exist.",module,Magento_Wishlist
 "We can't create the Wish List right now.","We can't create the Wish List right now.",module,Magento_Wishlist
-"%1 items","%1товары",module,Magento_Wishlist
+"%1 items","%1 товара(ов)",module,Magento_Wishlist
 "1 item","1 товар",module,Magento_Wishlist
 "Comment","Комментарий",module,Magento_Wishlist
 "Display number of items in wish list","Показать количество элементов в списке пожеланий",module,Magento_Wishlist
