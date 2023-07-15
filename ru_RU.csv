@@ -2199,8 +2199,8 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Купить %1 на %2 и <strong class=""benefit"">сохранить<span class=""percent tier-%3"">&nbsp;%4<div class=""notranslate"">%</div></strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Купить %1 для %2",module,Magento_Catalog
 "You added product %1 to the <a href=""%2"">comparison list</a>.","Вы добавили товар %1 в <a href=""%2"">список сравнения</a>.",module,Magento_Catalog
-"Shop By","Магазин по",module,Magento_Catalog
-"Shopping Options","Варианты покупок",module,Magento_Catalog
+"Shop By","Используйте для покупки",module,Magento_Catalog
+"Shopping Options","Доступные параметры",module,Magento_Catalog
 "Compare Products","Сравнение продуктов",module,Magento_Catalog
 "Print This Page","Распечатать эту страницу",module,Magento_Catalog
 "Remove Product","Удалить товар",module,Magento_Catalog
@@ -7484,9 +7484,9 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Previous","Предыдущее",module,Magento_LayeredNavigation
 "Remove","Удалить",module,Magento_LayeredNavigation
 "Remove This Item","Удалить этот элемент",module,Magento_LayeredNavigation
-"Shop By","Магазин по",module,Magento_LayeredNavigation
+"Shop By","Используйте для покупки",module,Magento_LayeredNavigation
 "Clear All","Очистить все",module,Magento_LayeredNavigation
-"Shopping Options","Варианты покупок",module,Magento_LayeredNavigation
+"Shopping Options","Доступные параметры",module,Magento_LayeredNavigation
 "Layered Navigation","Layered Navigation",module,Magento_LayeredNavigation
 "Display Product Count","Display Product Count",module,Magento_LayeredNavigation
 "Price Navigation Step Calculation","Price Navigation Step Calculation",module,Magento_LayeredNavigation
@@ -15146,9 +15146,9 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Previous","Предыдущее",theme,frontend/Magento/luma
 "Remove","Удалить",theme,frontend/Magento/luma
 "Remove This Item","Удалить этот элемент",theme,frontend/Magento/luma
-"Shop By","Магазин по",theme,frontend/Magento/luma
+"Shop By","Используйте для покупки",theme,frontend/Magento/luma
 "Clear All","Очистить все",theme,frontend/Magento/luma
-"Shopping Options","Варианты покупок",theme,frontend/Magento/luma
+"Shopping Options","Доступные параметры",theme,frontend/Magento/luma
 "Welcome to %store_name","Добро пожаловать в %store_name",theme,frontend/Magento/luma
 "%name,","%name,",theme,frontend/Magento/luma
 "Welcome to %store_name.","Добро пожаловать в %store_name.",theme,frontend/Magento/luma
