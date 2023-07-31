@@ -3027,7 +3027,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "The shipping information was unable to be saved. Error: ""%message""","The shipping information was unable to be saved. Error: ""%message""",module,Magento_Checkout
 "The shipping information was unable to be saved. Verify the input data and try again.","The shipping information was unable to be saved. Verify the input data and try again.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Перевозчик с таким методом не найден: %1, %2",module,Magento_Checkout
-"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Checkout
+"The shipping method is missing. Select the shipping method and try again.","Не указан способ доставки. Сделайте выбор и повторите еще раз.",module,Magento_Checkout
 "The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Checkout
 "The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Checkout
 " item"," позиция",module,Magento_Checkout
@@ -4787,11 +4787,11 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "All Store Views","Хранилище всех просмотров",module,Magento_Customer
 "Change","Изменить",module,Magento_Customer
 "Manage Addresses","Управление адресами",module,Magento_Customer
-"Default Shipping Address","Default Shipping Address",module,Magento_Customer
+"Default Shipping Address","Основной адрес для доставки",module,Magento_Customer
 "Account Information","Данные учётной записи",module,Magento_Customer
 "Contact Information","Контактная информация",module,Magento_Customer
 "Change Password","Сменить пароль",module,Magento_Customer
-"Newsletters","Newsletters",module,Magento_Customer
+"Newsletters","Новостные подписки",module,Magento_Customer
 "You are subscribed to ""General Subscription"".","Вы подписаны на ""Общая подписка"".",module,Magento_Customer
 "or","или",module,Magento_Customer
 "My Account","Моя учётная запись",module,Magento_Customer
@@ -4848,7 +4848,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Confirm Password","Подтверждение пароля",module,Magento_Customer
 "Create an Account","Создать учетную запись",module,Magento_Customer
 "Set a New Password","Введите новый пароль",module,Magento_Customer
-"You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds.",module,Magento_Customer
+"You have signed out and will go to our homepage in 5 seconds.","Вы вышли из системы и будете направлены на главную страницу через 5 секунд.",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.",module,Magento_Customer
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Вы должны подтвердить свою учетную запись. Пожалуйста, проверьте адрес электронной почты для подтверждения или <a href=""%1""> нажмите здесь</a> для новой ссылки.",module,Magento_Customer
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.",module,Magento_Customer
@@ -7899,7 +7899,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Edit Items","Edit Items",module,Magento_Multishipping
 "Shipping is not applicable.","Shipping is not applicable.",module,Magento_Multishipping
 "Product Name","Название товара",module,Magento_Multishipping
-"Check Out with Multiple Addresses","Check Out with Multiple Addresses",module,Magento_Multishipping
+"Check Out with Multiple Addresses","Оформить заказ на несколько адресов",module,Magento_Multishipping
 "Please see","Please see",module,Magento_Multishipping
 "details below","details below",module,Magento_Multishipping
 "Address","Address",module,Magento_Multishipping
@@ -9638,7 +9638,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Quote
 "The item couldn't be removed from the quote.","The item couldn't be removed from the quote.",module,Magento_Quote
 "The qty value is required to update quote item.","The qty value is required to update quote item.",module,Magento_Quote
-"Minimum order amount is %1","Minimum order amount is %1",module,Magento_Quote
+"Minimum order amount is %1","Минимальная сумма заказа %1",module,Magento_Quote
 "Invalid customer id %1","Invalid customer id %1",module,Magento_Quote
 "Invalid customer address id %1","Invalid customer address id %1",module,Magento_Quote
 "Invalid address id %1","Invalid address id %1",module,Magento_Quote
@@ -9663,7 +9663,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Manage carts","Manage carts",module,Magento_Quote
 "Some addresses can't be used due to the configurations for specific countries.","Some addresses can't be used due to the configurations for specific countries.",module,Magento_Quote
 "Please check the shipping address information.","Please check the shipping address information.",module,Magento_Quote
-"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Quote
+"The shipping method is missing. Select the shipping method and try again.","Не указан способ доставки. Сделайте выбор и повторите еще раз.",module,Magento_Quote
 "Please check the billing address information.","Please check the billing address information.",module,Magento_Quote
 "Enter a valid payment method and try again.","Enter a valid payment method and try again.",module,Magento_Quote
 "Shopping cart error: %message","Shopping cart error: %message",module,Magento_QuoteGraphQl
@@ -10322,7 +10322,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "See Details","Подробнее",module,Magento_Review
 "You have submitted no reviews.","You have submitted no reviews.",module,Magento_Review
 "Back","Назад",module,Magento_Review
-"My Recent Reviews","My Recent Reviews",module,Magento_Review
+"My Recent Reviews","Мои недавние отзывы",module,Magento_Review
 "View All","Посмотреть все",module,Magento_Review
 "Average Customer Rating:","Average Customer Rating:",module,Magento_Review
 "Your Review","Ваш отзыв",module,Magento_Review
@@ -11235,7 +11235,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Shipping Address: ","Shipping Address: ",module,Magento_Sales
 "Billing Address: ","Billing Address: ",module,Magento_Sales
 "Please specify order items.","Please specify order items.",module,Magento_Sales
-"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Sales
+"The shipping method is missing. Select the shipping method and try again.","Не указан способ доставки. Сделайте выбор и повторите еще раз.",module,Magento_Sales
 "The payment method isn't selected. Enter the payment method and try again.","The payment method isn't selected. Enter the payment method and try again.",module,Magento_Sales
 "This payment method is not available.","This payment method is not available.",module,Magento_Sales
 "Validation is failed.","Validation is failed.",module,Magento_Sales
@@ -11603,7 +11603,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Refund #%1","Refund #%1",module,Magento_Sales
 "Shipment #%1","Shipment #%1",module,Magento_Sales
 "Qty Shipped","Кол-во отправки",module,Magento_Sales
-"Recent Orders","Recent Orders",module,Magento_Sales
+"Recent Orders","Недавние заказы",module,Magento_Sales
 "View All","Посмотреть все",module,Magento_Sales
 "Ship To","Ship To",module,Magento_Sales
 "Gift Message for This Order","Gift Message for This Order",module,Magento_Sales
@@ -14945,7 +14945,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Are you sure you want to delete the selected widget(s)?","Are you sure you want to delete the selected widget(s)?",module,Magento_Widget
 "Widget ID","Id виджета",module,Magento_Widget
 "Wish List","Список желаний",module,Magento_Wishlist
-"Wish List Sharing","Wish List Sharing",module,Magento_Wishlist
+"Wish List Sharing","Обмен Списком ЖелаЖеланийdule,Magento_Wishlist
 "My Wish List","Мой список желаний",module,Magento_Wishlist
 "%1's Wish List","Список пожеланий %1",module,Magento_Wishlist
 "Page not found.","Страница не найдена.",module,Magento_Wishlist
@@ -14967,7 +14967,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter an email address.","Пожалуйста, введите адрес электронной почты.",module,Magento_Wishlist
 "Maximum of %1 emails can be sent.","Maximum of %1 emails can be sent.",module,Magento_Wishlist
 "Please enter a valid email address.","Введите допустимый адрес электронной почты.",module,Magento_Wishlist
-"Your wish list has been shared.","Ваш список пожеланий были поделён.",module,Magento_Wishlist
+"Your wish list has been shared.","Ваш список пожеланий был отправлен.",module,Magento_Wishlist
 "We can't delete item from Wish List right now.","We can't delete item from Wish List right now.",module,Magento_Wishlist
 "%1 has been updated in your Wish List.","%1 был обновлен в вашем списке желаний.",module,Magento_Wishlist
 "Can't save description %1","Can't save description %1",module,Magento_Wishlist
@@ -15016,7 +15016,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Are you sure you want to remove this item?","Вы действительно хотите удалить этот элемент?",module,Magento_Wishlist
 "Special Price","Special Price",module,Magento_Wishlist
 "Regular Price","Regular Price",module,Magento_Wishlist
-"Share Wish List","Поделить список желаемого",module,Magento_Wishlist
+"Share Wish List","Поделиться списком желаемого",module,Magento_Wishlist
 "Add All to Cart","Добавить всё в корзину",module,Magento_Wishlist
 "Update Wish List","Обновить список желаемого",module,Magento_Wishlist
 "Move to Wishlist","Переместить в список желаний",module,Magento_Wishlist
@@ -15321,3 +15321,15 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a date from the past.","Пожалуйста, введите дату из прошлого.",lib,web
 "custom.definition","custom.definition",lib,web
 "component.behaviours","component.behaviours",lib,web
+"or call us at %store_phone","или позвоните нам по телефону %store_phone",module,Magento_User
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","или позвоните нам по телефону <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","или позвоните нам по телефону <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
+
+"or call us at %store_phone","или позвоните нам по телефону %store_phone",module,Magento_User
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","или позвоните нам по телефону <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","или позвоните нам по телефону <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
+"Shipping Info","Информация о Доставке",module,Magento_InventoryInStorePickupSales
+"Shipping Info","Информация о Доставке",module,Magento_Sales
+"Shipping Info","Информация о Доставке",theme,frontend/Magento/luma
+"Our hours are <span class=""no-link"">%store_hours</span>.","График работы <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
+
