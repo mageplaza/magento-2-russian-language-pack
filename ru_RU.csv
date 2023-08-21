@@ -3002,7 +3002,6 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "We can't update the shopping cart.","Мы не можем обновить корзину.",module,Magento_Checkout
 "One-page checkout is turned off.","Одностраничная проверка отключена.",module,Magento_Checkout
 "Guest checkout is disabled.","Для гостей оформление заказа отключено.",module,Magento_Checkout
-"Checkout","Checkout",module,Magento_Checkout
 "Page not found.","Страница не найдена.",module,Magento_Checkout
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Во время обработки вашего заказа что-то пошло не так. Пожалуйста, повторите попытку позже.",module,Magento_Checkout
@@ -3117,7 +3116,6 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "No Payment method available.","Способ оплаты не доступен.",module,Magento_Checkout
 "You can track your order status by creating an account.","Вы можете отслеживать статус заказа, создав учетную запись.",module,Magento_Checkout
 "Create an Account","Create an Account",module,Magento_Checkout
-"Place Order","Оформить заказ",module,Magento_Checkout
 "Forgot an Item?","Forgot an Item?",module,Magento_Checkout
 "Edit Your Cart","Редактировать корзину",module,Magento_Checkout
 "Ship Here","Доставить сюда",module,Magento_Checkout
@@ -13987,7 +13985,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Wrong color format. Please specify color in HEX, RGBa, HSVa, HSLa or use color name.","Wrong color format. Please specify color in HEX, RGBa, HSVa, HSLa or use color name.",module,Magento_Ui
 "This link is not allowed.","This link is not allowed.",module,Magento_Ui
 "The Date of Birth should not be greater than today.","The Date of Birth should not be greater than today.",module,Magento_Ui
-"Attention","Attention",module,Magento_Ui
+"Attention","Внимание",module,Magento_Ui
 "OK","OK",module,Magento_Ui
 "Ok","Oк",module,Magento_Ui
 "Label Button 2","Label Button 2",module,Magento_Ui
@@ -15342,3 +15340,9 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "New Address","Новый Адрес",module,Magento_Checkout
 "Select Other","Выбрать другой",module,Magento_InventoryInStorePickupFrontend
 "We were unable to find nearby locations for provided search query.","Нам не удалось найти ближайшего магазина по указанному запросу",module,Magento_InventoryInStorePickupFrontend
+"Leave A Comment","Комментарий к заказу",module,Ulmod_OrderComment
+"Enter Comment","Оставить комментарий",module,Ulmod_OrderComment
+"remaining characters","оставшиеся символы",module,Ulmod_OrderComment
+"Enter your comment...","Оставьте свой комментарий...",module,Ulmod_OrderComment
+"Place Order","Отправить Заказ",module,Magento_Checkout
+Checkout,Оформление заказа,module,Magento_Checkout
