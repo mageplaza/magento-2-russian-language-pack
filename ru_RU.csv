@@ -15332,4 +15332,13 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Shipping Info","Информация о Доставке",module,Magento_Sales
 "Shipping Info","Информация о Доставке",theme,frontend/Magento/luma
 "Our hours are <span class=""no-link"">%store_hours</span>.","График работы <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
-
+"My Wish List","Мой список желаний",module,Magento_Wishlist
+"We could not preselect pickup location based on available information, please select it manually.","Выберите, пожалуйста, магазин для получения товара.",module,Magento_InventoryInStorePickupFrontend
+"Pick in Store","Самовывоз",module,Magento_InventoryInStorePickupFrontend
+"Search with postcode or city name...","Индекс или название города",module,Magento_InventoryInStorePickupFrontend
+"Please provide postcode or city name to find nearest pickup locations.","Пожалуйста, укажите индекс или название города для ближайшего самовывоза",module,Magento_InventoryInStorePickupFrontend
+"Ship Here","Доставить сюда",module,Magento_InventoryInStorePickupFrontend
+"You already have an account with us. Sign in or continue as guest.","У вас уже есть аккаунт у нас. Войдите или продолжите как гость.",module,Magento_InventoryInStorePickupFrontend
+"New Address","Новый Адрес",module,Magento_Checkout
+"Select Other","Выбрать другой",module,Magento_InventoryInStorePickupFrontend
+"We were unable to find nearby locations for provided search query.","Нам не удалось найти ближайшего магазина по указанному запросу",module,Magento_InventoryInStorePickupFrontend
