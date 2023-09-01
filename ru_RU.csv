@@ -15346,3 +15346,6 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Enter your comment...","Оставьте свой комментарий...",module,Ulmod_OrderComment
 "Place Order","Отправить Заказ",module,Magento_Checkout
 Checkout,Оформление заказа,module,Magento_Checkout
+"Allow remote shopping assistance","Разрешить удаленный shopping assistance",module,Magento_LoginAsCustomerAssistance
+"Create New Customer Account","Создание нового аккаунта пользователя",module,Magento_Customer
+"Show Password","Показать пароль",module,Magento_Customer
